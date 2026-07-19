@@ -4,6 +4,7 @@ const https = require('node:https');
 // Search configuration
 const TOPIC = 'zero-dependency';
 const OUTPUT_FILE = 'registry.json';
+const BLACKLIST_FILE = 'blacklist.json';
 
 // Date ranges to split the search and bypass GitHub's 1000-result limit per query.
 // Each range covers a time window; adjust or add ranges as the registry grows over time.
@@ -15,7 +16,8 @@ const DATE_RANGES = [
   '2023-01-01..2023-12-31',
   '2024-01-01..2024-12-31',
   '2025-01-01..2025-12-31',
-  '2026-01-01..2099-12-31',
+  '2026-01-01..2026-12-31',
+  '2027-01-01..2099-12-31',
 ];
 
 console.log(`Fetching GitHub repos with topic "${TOPIC}"...`);
@@ -94,9 +96,19 @@ function fetchNextRange(currentRange) {
 }
 
 function processResults(allRepos) {
+  const blacklist = JSON.parse(fs.readFileSync(BLACKLIST_FILE, 'utf8'));
+
+  if (!Array.isArray(blacklist) || blacklist.some(url => typeof url !== 'string')) {
+    throw new Error(`${BLACKLIST_FILE} must contain an array of URL strings.`);
+  }
+
+  const blacklistedUrls = new Set(blacklist);
+  const blacklistedRepos = allRepos.filter(repo => blacklistedUrls.has(repo.html_url));
+
   // Format data to keep only relevant information for the registry
   // Filter npm ecosystem only (JavaScript / TypeScript)
   const registry = allRepos
+    .filter(repo => !blacklistedUrls.has(repo.html_url))
     .filter(repo => repo.language === 'TypeScript' || repo.language === 'JavaScript')
     .map(repo => ({
       name: repo.name,
@@ -114,6 +126,7 @@ function processResults(allRepos) {
   // Save file locally (overwrites existing file)
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(registry, null, 2), { flag: 'w' });
   console.log(`\nSuccess ! ${registry.length} npm packages saved to ${OUTPUT_FILE}`);
+  console.log(`  ${blacklistedRepos.length} package(s) excluded by ${BLACKLIST_FILE}`);
 }
 
 // Start with the first date range

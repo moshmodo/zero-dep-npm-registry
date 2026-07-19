@@ -1,3 +1,6 @@
+![Zero dependency badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+
+
 # 📦 Zero-Dependency NPM Registry
 
 > A curated index of npm packages with **zero dependencies** — lightweight, secure, and self-contained.
@@ -15,6 +18,7 @@
 - [Updating the Registry](#updating-the-registry)
 - [Validation and Handling False Positives](#validation-and-handling-false-positives)
 - [Contributing](#contributing)
+- [Showcase](#showcase-your-status)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
 
@@ -50,7 +54,7 @@ In today's development landscape, managing dependencies is critical. Packages wi
 
 ## Zero-Dependency Package Registry
 
-This section lists the curated zero-dependency npm packages. The list is generated automatically and sorted by GitHub stars.
+This section lists the curated zero-dependency npm packages. The list is generated automatically and sorted by name.
 
 <!-- REGISTRY_TABLE_START -->
 
@@ -1171,8 +1175,6 @@ This section lists the curated zero-dependency npm packages. The list is generat
 
 ## Getting Started
 
-This registry is a resource for developers. Here's how you can use it:
-
 ### Accessing the Registry
 
 The primary way to access the registry data is by using the `registry.json` file directly from this repository. You can:
@@ -1234,6 +1236,16 @@ Each entry in `registry.json` follows this structure:
 }
 ```
 
+Each entry in `blacklist.json` follow this structure:
+
+```json
+[
+    "https://github.com/owner/package-name",
+    "https://github.com/owner2/package-name"
+]
+```
+
+
 ---
 
 ## Updating the Registry
@@ -1253,12 +1265,12 @@ The registry is generated and maintained by scripts within this repository.
 
 ---
 
-## Validation and Handling False Positives
+## Handling False Positives
 
 While we strive for accuracy, the registry relies on GitHub topics and automated checks, which may occasionally lead to false positives (packages incorrectly tagged as zero-dependency). To address this:
 
 *   **Identification Method:** Packages are primarily identified by the `zero-dependency` topic on GitHub.
-*   **Validation Process:** A future `npx` command will be available to fetch and validate packages against their actual dependencies.
+*   **Update Process:** Updating the `blacklist.json` file
 *   **Blacklisting:** Libraries identified as having undeclared dependencies will be temporarily blacklisted.
 *   **Removal from Blacklist:** Package owners can request removal from the blacklist by demonstrating that all dependencies have been resolved and removed.
 
@@ -1268,9 +1280,25 @@ While we strive for accuracy, the registry relies on GitHub topics and automated
 
 We welcome contributions to make this registry even more comprehensive and useful!
 
-*   **Suggesting New Packages:** If you know of a zero-dependency npm package that should be included, please open an issue with a link to the package's repository and a brief description.
+*   **Suggesting New Packages:** If you know of a zero-dependency npm package that should be included, please open an issue with a link to the package's repository and a brief description. We strongly suggest that you communicate with the package owner in order for him to add the topic to his repository.
 *   **Reporting Issues:** If you find any inaccuracies in the registry or have suggestions for improvement, please open an issue.
 *   **Pull Requests:** We appreciate pull requests for bug fixes, documentation improvements, or script enhancements. Please ensure your changes adhere to the project's coding standards and include relevant tests if applicable.
+
+---
+
+## Showcase Your Status
+
+If you’d like to proudly display that your library is completely dependency-free, feel free to add one of our official badges to your README.md.
+
+Copy and paste the Markdown code below into your project documentation:
+
+| Badge | Markdown code |
+| --- | --- |
+| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
+| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
+| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
+| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
+
 
 ---
 

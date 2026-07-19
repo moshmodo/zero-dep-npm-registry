@@ -199,7 +199,7 @@
     "fullName": "crashmax-dev/fireworks-js",
     "description": "🎆 A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.",
     "url": "https://github.com/crashmax-dev/fireworks-js",
-    "stars": 1382,
+    "stars": 1383,
     "ecosystem": "npm",
     "keywords": [
       "typescript",
@@ -349,7 +349,7 @@
     "fullName": "ronak-create/FableCut",
     "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
     "url": "https://github.com/ronak-create/FableCut",
-    "stars": 479,
+    "stars": 481,
     "ecosystem": "npm",
     "keywords": [
       "javascript",
@@ -480,7 +480,7 @@
     "fullName": "nikitadoudikov/claude-pulse",
     "description": "Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.",
     "url": "https://github.com/nikitadoudikov/claude-pulse",
-    "stars": 230,
+    "stars": 229,
     "ecosystem": "npm",
     "keywords": [
       "javascript",
@@ -2461,6 +2461,26 @@
     ]
   },
   {
+    "name": "sChart",
+    "fullName": "facejiong/sChart",
+    "description": "simple svg charts with zero dependencies",
+    "url": "https://github.com/facejiong/sChart",
+    "stars": 10,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "ava",
+      "charts",
+      "ci",
+      "easy-to-use",
+      "svg",
+      "svg-chart",
+      "tslint",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "mycal",
     "fullName": "AungMyoKyaw/mycal",
     "description": "Zero dependency Myanmar Calendar library for TypeScript. Convert Gregorian dates to Myanmar calendar with Thingyan, Watat years, and Buddhist Era.",
@@ -2481,26 +2501,6 @@
       "type-safe",
       "typescript",
       "watat",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "sChart",
-    "fullName": "facejiong/sChart",
-    "description": "simple svg charts with zero dependencies",
-    "url": "https://github.com/facejiong/sChart",
-    "stars": 10,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "ava",
-      "charts",
-      "ci",
-      "easy-to-use",
-      "svg",
-      "svg-chart",
-      "tslint",
-      "typescript",
       "zero-dependency"
     ]
   },
@@ -3043,6 +3043,37 @@
     ]
   },
   {
+    "name": "flare-redact",
+    "fullName": "umudhasanli/flare-redact",
+    "description": "International secret & PII redaction for JS/TS — logs, prompts, HTTP, datasets. 20+ languages, checksum-validated national IDs, reversible LLM layer. Zero deps, ReDoS-safe.",
+    "url": "https://github.com/umudhasanli/flare-redact",
+    "stars": 7,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "ai",
+      "ai-privacy",
+      "anonymization",
+      "anthropic",
+      "data-masking",
+      "gdpr",
+      "iban",
+      "internationalization",
+      "llm",
+      "multilingual",
+      "national-id",
+      "nodejs",
+      "openai",
+      "pii",
+      "privacy",
+      "redaction",
+      "secrets",
+      "security",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "kanji-data",
     "fullName": "sepTN/kanji-data",
     "description": "A distilled, offline-first Kanji database for Node.js. 13,000+ characters mapped into lazy-loading shards for zero dependencies and instant serverless cold starts.",
@@ -3236,37 +3267,6 @@
       "token-authentication",
       "vercel",
       "webcrypto",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "flare-redact",
-    "fullName": "umudhasanli/flare-redact",
-    "description": "International secret & PII redaction for JS/TS — logs, prompts, HTTP, datasets. 20+ languages, checksum-validated national IDs, reversible LLM layer. Zero deps, ReDoS-safe.",
-    "url": "https://github.com/umudhasanli/flare-redact",
-    "stars": 6,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "ai",
-      "ai-privacy",
-      "anonymization",
-      "anthropic",
-      "data-masking",
-      "gdpr",
-      "iban",
-      "internationalization",
-      "llm",
-      "multilingual",
-      "national-id",
-      "nodejs",
-      "openai",
-      "pii",
-      "privacy",
-      "redaction",
-      "secrets",
-      "security",
-      "typescript",
       "zero-dependency"
     ]
   },
@@ -5718,7 +5718,7 @@
   {
     "name": "NowClipboard",
     "fullName": "Spicy-Mustard/NowClipboard",
-    "description": "强大的现代剪贴板工具库 — 零依赖，支持浏览器和 Node.js 双环境 文本 / 图片 / 富文本复制，历史记录，跨标签页同步，多格式写入，开箱即用",
+    "description": "强大的现代剪贴板工具库 — 零依赖，支持浏览器和 Node.js 双环境 文本 / 图片 / 富文本复制��历史记录，跨标签页同步，多格式写入，开箱即用",
     "url": "https://github.com/Spicy-Mustard/NowClipboard",
     "stars": 2,
     "ecosystem": "npm",
@@ -5777,45 +5777,6 @@
     ]
   },
   {
-    "name": "claude-statusline",
-    "fullName": "slckarslan93/claude-statusline",
-    "description": "A fast, zero-dependency, configurable status line for Claude Code — model, reasoning effort, context usage, cost, rate limits, git, and more.",
-    "url": "https://github.com/slckarslan93/claude-statusline",
-    "stars": 2,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "nodejs",
-      "statusline",
-      "terminal",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "huebrew",
-    "fullName": "didrod205/huebrew",
-    "description": "Brew a color palette & ready-to-use theme tokens from any image — median-cut extraction, OKLab ramps, CSS/Tailwind/SCSS/JSON/SVG export. Zero deps, 100% local.",
-    "url": "https://github.com/didrod205/huebrew",
-    "stars": 2,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "color-palette",
-      "design-tokens",
-      "dominant-color",
-      "image-colors",
-      "median-cut",
-      "oklch",
-      "palette-extractor",
-      "tailwind-colors",
-      "theme-generator",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "artifact-organizer",
     "fullName": "keepYaoung/artifact-organizer",
     "description": "Agent skill that turns semantic JSON into self-contained, themed HTML — then stacks your artifacts into one persistent, restyleable dashboard. Zero dependencies, opens offline.",
@@ -5833,35 +5794,6 @@
       "llm",
       "self-contained-html",
       "themes",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "pulse-js-framework",
-    "fullName": "vincenthirtz/pulse-js-framework",
-    "description": "A declarative DOM framework with CSS selector-based structure: No build. No dependencies. Just JavaScript.",
-    "url": "https://github.com/vincenthirtz/pulse-js-framework",
-    "stars": 2,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "accessibility",
-      "benchmark",
-      "codecov",
-      "css",
-      "docs",
-      "electron",
-      "framework",
-      "javascript",
-      "less",
-      "lexer",
-      "mobile",
-      "multilanguage",
-      "parser",
-      "sass",
-      "security",
-      "stylus",
-      "web",
       "zero-dependency"
     ]
   },
@@ -5911,9 +5843,77 @@
     ]
   },
   {
+    "name": "claude-statusline",
+    "fullName": "slckarslan93/claude-statusline",
+    "description": "A fast, zero-dependency, configurable status line for Claude Code — model, reasoning effort, context usage, cost, rate limits, git, and more.",
+    "url": "https://github.com/slckarslan93/claude-statusline",
+    "stars": 2,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "nodejs",
+      "statusline",
+      "terminal",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "huebrew",
+    "fullName": "didrod205/huebrew",
+    "description": "Brew a color palette & ready-to-use theme tokens from any image — median-cut extraction, OKLab ramps, CSS/Tailwind/SCSS/JSON/SVG export. Zero deps, 100% local.",
+    "url": "https://github.com/didrod205/huebrew",
+    "stars": 2,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "color-palette",
+      "design-tokens",
+      "dominant-color",
+      "image-colors",
+      "median-cut",
+      "oklch",
+      "palette-extractor",
+      "tailwind-colors",
+      "theme-generator",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "pulse-js-framework",
+    "fullName": "vincenthirtz/pulse-js-framework",
+    "description": "A declarative DOM framework with CSS selector-based structure: No build. No dependencies. Just JavaScript.",
+    "url": "https://github.com/vincenthirtz/pulse-js-framework",
+    "stars": 2,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "accessibility",
+      "benchmark",
+      "codecov",
+      "css",
+      "docs",
+      "electron",
+      "framework",
+      "javascript",
+      "less",
+      "lexer",
+      "mobile",
+      "multilanguage",
+      "parser",
+      "sass",
+      "security",
+      "stylus",
+      "web",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "staticshield",
     "fullName": "wangshengithub/staticshield",
-    "description": "一款安全又便捷的网页加密工具。采用 AES-256 + PBKDF2 百万次迭代 + HMAC 验签，密码与解密全程留在浏览器本地；一条命令或图形界面即可把 HTML（乃至整站 css/js/图片）加密成自解密页面，部署到任意静态托管。Secure, effortless HTML encryption: AES-256, PBKDF2 (1M iterations), HMAC, with fully client-side decryption. Encrypt an entire site (CSS/JS/images) into a self-decrypting file via one command or GUI—deploy anywhere static.",
+    "description": "一款安全又便捷的网页加密工具。采用 AES-256 + PBKDF2 百万次迭代 + HMAC 验签，密码与解密���程留在浏览器本地；一条命令或图形界面即可把 HTML（乃至整站 css/js/图片）加密成自解密页面，部署到任意静态托管。Secure, effortless HTML encryption: AES-256, PBKDF2 (1M iterations), HMAC, with fully client-side decryption. Encrypt an entire site (CSS/JS/images) into a self-decrypting file via one command or GUI—deploy anywhere static.",
     "url": "https://github.com/wangshengithub/staticshield",
     "stars": 2,
     "ecosystem": "npm",
@@ -6124,62 +6124,6 @@
     ]
   },
   {
-    "name": "codebot-ai",
-    "fullName": "Ascendral/codebot-ai",
-    "description": "Safe, local-first autonomous coding agent. Policy-governed, audit-trailed, sandboxed. Works with any LLM.",
-    "url": "https://github.com/Ascendral/codebot-ai",
-    "stars": 2,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "ai-agent",
-      "automation",
-      "autonomous-agent",
-      "claude",
-      "cli-tool",
-      "code-generation",
-      "coding-agent",
-      "coding-assistant",
-      "developer-tools",
-      "llm",
-      "ollama",
-      "openai",
-      "refactoring",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "forgekit",
-    "fullName": "CodeWithJuber/forgekit",
-    "description": "One config for every AI coding agent — cross-tool config + a cognitive substrate (memory, blast-radius, guardrails) for Claude Code, Codex, Cursor, Gemini, Aider, and more.",
-    "url": "https://github.com/CodeWithJuber/forgekit",
-    "stars": 2,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-memory",
-      "agents-md",
-      "ai-agents",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "code-quality",
-      "codex",
-      "cognitive-substrate",
-      "cost-optimization",
-      "crdt",
-      "cross-tool",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "memory",
-      "team-memory",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "behavioralai",
     "fullName": "davccavalcante/behavioralai",
     "description": "Behavioral AI: zero-dependency behavioral observability for production agents. Learned per-agent fingerprints, real-time drift detection with attribution, predictive alerts before failures, OpenTelemetry GenAI ingestion, 13 alert channels. TypeScript, ESM+CJS, edge-ready.",
@@ -6238,6 +6182,62 @@
       "tool-inspection",
       "tool-poisoning",
       "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "codebot-ai",
+    "fullName": "Ascendral/codebot-ai",
+    "description": "Safe, local-first autonomous coding agent. Policy-governed, audit-trailed, sandboxed. Works with any LLM.",
+    "url": "https://github.com/Ascendral/codebot-ai",
+    "stars": 2,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "claude",
+      "cli-tool",
+      "code-generation",
+      "coding-agent",
+      "coding-assistant",
+      "developer-tools",
+      "llm",
+      "ollama",
+      "openai",
+      "refactoring",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "forgekit",
+    "fullName": "CodeWithJuber/forgekit",
+    "description": "One config for every AI coding agent — cross-tool config + a cognitive substrate (memory, blast-radius, guardrails) for Claude Code, Codex, Cursor, Gemini, Aider, and more.",
+    "url": "https://github.com/CodeWithJuber/forgekit",
+    "stars": 2,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-memory",
+      "agents-md",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "code-quality",
+      "codex",
+      "cognitive-substrate",
+      "cost-optimization",
+      "crdt",
+      "cross-tool",
+      "cursor",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "memory",
+      "team-memory",
       "zero-dependency"
     ]
   },
@@ -6762,21 +6762,19 @@
     ]
   },
   {
-    "name": "waddle.js",
-    "fullName": "nabeelvalley/waddle.js",
-    "description": "A collection of Javascript and Typescript libraries for performing common tasks in Node.js or the browser",
-    "url": "https://github.com/nabeelvalley/waddle.js",
+    "name": "key-event-plus",
+    "fullName": "jeeanribeiro/key-event-plus",
+    "description": "Tiny, zero-dependency keyboard listener with full TypeScript types and international layout support",
+    "url": "https://github.com/jeeanribeiro/key-event-plus",
     "stars": 1,
     "ecosystem": "npm",
     "keywords": [
       "typescript",
-      "database",
-      "in-memory",
-      "javascript",
-      "library",
-      "logging",
+      "browser",
+      "hotkeys",
+      "keyboard",
+      "keyboard-events",
       "typescript",
-      "unit-testing",
       "zero-dependency"
     ]
   },
@@ -6809,6 +6807,25 @@
       "canvas-game",
       "game-engine",
       "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "waddle.js",
+    "fullName": "nabeelvalley/waddle.js",
+    "description": "A collection of Javascript and Typescript libraries for performing common tasks in Node.js or the browser",
+    "url": "https://github.com/nabeelvalley/waddle.js",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "database",
+      "in-memory",
+      "javascript",
+      "library",
+      "logging",
+      "typescript",
+      "unit-testing",
       "zero-dependency"
     ]
   },
@@ -7206,6 +7223,27 @@
     ]
   },
   {
+    "name": "best-highlight",
+    "fullName": "The-Best-Codes/best-highlight",
+    "description": "best-highlight is a lightweight, efficient syntax highlighting library with zero runtime dependencies",
+    "url": "https://github.com/The-Best-Codes/best-highlight",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "code",
+      "fast",
+      "high-performance",
+      "highlight",
+      "highlighting",
+      "lightweight",
+      "standalone",
+      "syntax",
+      "syntax-highlighting",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "resume-lite",
     "fullName": "zbarnz/resume-lite",
     "description": "Resume-Lite is a lightweight library designed for building and generating professional resumes in HTML format. With zero dependencies, it ensures minimal overhead and maximum simplicity. Systematically build resumes for quick application turnover and efficient job searching.",
@@ -7233,27 +7271,6 @@
       "resume-generator",
       "resume-template",
       "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "best-highlight",
-    "fullName": "The-Best-Codes/best-highlight",
-    "description": "best-highlight is a lightweight, efficient syntax highlighting library with zero runtime dependencies",
-    "url": "https://github.com/The-Best-Codes/best-highlight",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "code",
-      "fast",
-      "high-performance",
-      "highlight",
-      "highlighting",
-      "lightweight",
-      "standalone",
-      "syntax",
-      "syntax-highlighting",
       "zero-dependency"
     ]
   },
@@ -7484,6 +7501,24 @@
     ]
   },
   {
+    "name": "webp2any",
+    "fullName": "justn-hyeok/webp2any",
+    "description": "Convert/Change WEBP to JPG & PNG. Zero Dependency. Easily, right in the brower.",
+    "url": "https://github.com/justn-hyeok/webp2any",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "image",
+      "img",
+      "jpeg",
+      "npm-package",
+      "png",
+      "webp",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "webvtt-validator",
     "fullName": "khattaksd/webvtt-validator",
     "description": "WebVTT validator",
@@ -7505,24 +7540,6 @@
       "vtt",
       "vtt-subtitles",
       "webvtt",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "webp2any",
-    "fullName": "justn-hyeok/webp2any",
-    "description": "Convert/Change WEBP to JPG & PNG. Zero Dependency. Easily, right in the brower.",
-    "url": "https://github.com/justn-hyeok/webp2any",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "image",
-      "img",
-      "jpeg",
-      "npm-package",
-      "png",
-      "webp",
       "zero-dependency"
     ]
   },
@@ -7884,6 +7901,47 @@
     ]
   },
   {
+    "name": "nanocsv",
+    "fullName": "didrod205/nanocsv",
+    "description": "Tiny zero-dependency CSV parser & stringifier — handles quotes, escaped quotes, embedded commas/newlines & CRLF. ~1KB.",
+    "url": "https://github.com/didrod205/nanocsv",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "csv",
+      "csv-parse",
+      "csv-parser",
+      "csv-stringify",
+      "parser",
+      "rfc4180",
+      "spreadsheet",
+      "tsv",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "quickagram",
+    "fullName": "kvant83/quickagram",
+    "description": "Tiny, dependency-free SVG diagram engine for system & architecture diagrams. Declarative JSON in, polished SVG out.",
+    "url": "https://github.com/kvant83/quickagram",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "architecture-diagram",
+      "diagram",
+      "javascript",
+      "mermaid-alternative",
+      "svg",
+      "system-design",
+      "uml",
+      "visualization",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "truthenv",
     "fullName": "AstroQuantumphysicist/truthenv",
     "description": "Tiny zero-dependency helper for safely reading boolean environment flags in Node.js",
@@ -7942,47 +8000,6 @@
       "fzy",
       "search",
       "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "nanocsv",
-    "fullName": "didrod205/nanocsv",
-    "description": "Tiny zero-dependency CSV parser & stringifier — handles quotes, escaped quotes, embedded commas/newlines & CRLF. ~1KB.",
-    "url": "https://github.com/didrod205/nanocsv",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "csv",
-      "csv-parse",
-      "csv-parser",
-      "csv-stringify",
-      "parser",
-      "rfc4180",
-      "spreadsheet",
-      "tsv",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "quickagram",
-    "fullName": "kvant83/quickagram",
-    "description": "Tiny, dependency-free SVG diagram engine for system & architecture diagrams. Declarative JSON in, polished SVG out.",
-    "url": "https://github.com/kvant83/quickagram",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "architecture-diagram",
-      "diagram",
-      "javascript",
-      "mermaid-alternative",
-      "svg",
-      "system-design",
-      "uml",
-      "visualization",
       "zero-dependency"
     ]
   },
@@ -8364,6 +8381,92 @@
     ]
   },
   {
+    "name": "mnemosyne",
+    "fullName": "davccavalcante/mnemosyne",
+    "description": "Persistent, portable, shared memory for Massive Intelligence (IM) agents: pluggable stores, a deterministic identity seed stable across model swaps, masking and residency, and Ed25519-signed, SHA-256-chained tamper-evident access logs. Zero dependencies, node-free core, TypeScript-first.",
+    "url": "https://github.com/davccavalcante/mnemosyne",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "agent-memory",
+      "anthropic",
+      "context",
+      "ed25519",
+      "edge",
+      "identity",
+      "mcp",
+      "memory",
+      "multi-agent",
+      "nodejs",
+      "openai",
+      "persistent-memory",
+      "persona",
+      "portable-memory",
+      "provenance",
+      "shared-memory",
+      "tamper-evident",
+      "typescript",
+      "vercel-ai-sdk",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "calforge",
+    "fullName": "didrod205/calforge",
+    "description": "Generate valid .ics files & 'Add to Calendar' links (Google/Outlook/Yahoo/Apple) entirely locally — no SaaS, no tracking. RFC 5545 correct, zero deps. Web app + library.",
+    "url": "https://github.com/didrod205/calforge",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "add-to-calendar",
+      "calendar",
+      "calendar-link",
+      "event",
+      "google-calendar",
+      "icalendar",
+      "ics",
+      "outlook",
+      "rfc5545",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "jelly-local-sync",
+    "fullName": "rajanndube/jelly-local-sync",
+    "description": "Local-only browser viewer for Jelly QA annotations: npx jelly-local-sync, scan the QR, annotate. Nothing leaves the machine.",
+    "url": "https://github.com/rajanndube/jelly-local-sync",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "annotations",
+      "cli",
+      "mobile-testing",
+      "qa",
+      "sse",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "SwiftUI-For-Web",
+    "fullName": "ShawnBaek/SwiftUI-For-Web",
+    "description": "SwiftUI's declarative API for the browser — 84 components, zero dependencies, no build step required",
+    "url": "https://github.com/ShawnBaek/SwiftUI-For-Web",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "declarative-ui",
+      "javascript",
+      "no-build-step",
+      "swiftui",
+      "web-framework",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "bayescausal",
     "fullName": "davccavalcante/bayescausal",
     "description": "Calibrated incident root cause inference for TypeScript: declarative Bayesian networks with exact and approximate inference and the do-operator, zero runtime dependencies.",
@@ -8496,92 +8599,6 @@
       "heatmap",
       "react",
       "svg",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "mnemosyne",
-    "fullName": "davccavalcante/mnemosyne",
-    "description": "Persistent, portable, shared memory for Massive Intelligence (IM) agents: pluggable stores, a deterministic identity seed stable across model swaps, masking and residency, and Ed25519-signed, SHA-256-chained tamper-evident access logs. Zero dependencies, node-free core, TypeScript-first.",
-    "url": "https://github.com/davccavalcante/mnemosyne",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "agent-memory",
-      "anthropic",
-      "context",
-      "ed25519",
-      "edge",
-      "identity",
-      "mcp",
-      "memory",
-      "multi-agent",
-      "nodejs",
-      "openai",
-      "persistent-memory",
-      "persona",
-      "portable-memory",
-      "provenance",
-      "shared-memory",
-      "tamper-evident",
-      "typescript",
-      "vercel-ai-sdk",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "calforge",
-    "fullName": "didrod205/calforge",
-    "description": "Generate valid .ics files & 'Add to Calendar' links (Google/Outlook/Yahoo/Apple) entirely locally — no SaaS, no tracking. RFC 5545 correct, zero deps. Web app + library.",
-    "url": "https://github.com/didrod205/calforge",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "add-to-calendar",
-      "calendar",
-      "calendar-link",
-      "event",
-      "google-calendar",
-      "icalendar",
-      "ics",
-      "outlook",
-      "rfc5545",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "jelly-local-sync",
-    "fullName": "rajanndube/jelly-local-sync",
-    "description": "Local-only browser viewer for Jelly QA annotations: npx jelly-local-sync, scan the QR, annotate. Nothing leaves the machine.",
-    "url": "https://github.com/rajanndube/jelly-local-sync",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "annotations",
-      "cli",
-      "mobile-testing",
-      "qa",
-      "sse",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "SwiftUI-For-Web",
-    "fullName": "ShawnBaek/SwiftUI-For-Web",
-    "description": "SwiftUI's declarative API for the browser — 84 components, zero dependencies, no build step required",
-    "url": "https://github.com/ShawnBaek/SwiftUI-For-Web",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "declarative-ui",
-      "javascript",
-      "no-build-step",
-      "swiftui",
-      "web-framework",
       "zero-dependency"
     ]
   },
@@ -9143,79 +9160,6 @@
     ]
   },
   {
-    "name": "agent-block",
-    "fullName": "Brainrot-Creations/agent-block",
-    "description": "Building the walls. Blocking AI agents from reading, scraping and automating your site.",
-    "url": "https://github.com/Brainrot-Creations/agent-block",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "accessibility-tree",
-      "agent-block",
-      "ai-detection",
-      "anti-scraping",
-      "bot-detection",
-      "browser-use",
-      "headless-browser",
-      "honeypot",
-      "nextjs",
-      "playwright",
-      "puppeteer",
-      "react",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "flowdown",
-    "fullName": "Atomics-hub/flowdown",
-    "description": "O(1) streaming markdown renderer for the AI era. Zero dependencies. ~4KB gzipped.",
-    "url": "https://github.com/Atomics-hub/flowdown",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai-chat",
-      "javascript",
-      "llm",
-      "markdown",
-      "markdown-renderer",
-      "performance",
-      "react",
-      "streaming-markdown",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "maillint",
-    "fullName": "didrod205/maillint",
-    "description": "Lint HTML email for client compatibility — locally, no render farm. Flags CSS/HTML that breaks in Outlook (Word engine) & Gmail clipping at 102KB, against a bundled caniemail-derived support matrix. Deterministic CLI, JSON/MD reports.",
-    "url": "https://github.com/didrod205/maillint",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "caniemail",
-      "cli",
-      "email",
-      "email-development",
-      "email-linter",
-      "email-template",
-      "email-testing",
-      "gmail",
-      "html-email",
-      "litmus",
-      "mjml",
-      "newsletter",
-      "outlook",
-      "transactional-email",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "Zorvix",
     "fullName": "DanielLMcGuire/Zorvix",
     "description": "Read-only source, wiki mirror and CI/CD for codeberg:DanielMcGuire/Zorvix https://zorvix.pages.dev/codeberg",
@@ -9324,6 +9268,119 @@
       "typescript",
       "xlsx",
       "xlsx-parser",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "bashjsast",
+    "fullName": "woolkingx/bashjsast",
+    "description": "Bash AST parser for JavaScript — zero dependencies, complete syntax coverage",
+    "url": "https://github.com/woolkingx/bashjsast",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ast",
+      "bash",
+      "javascript",
+      "lexer",
+      "parser",
+      "shell",
+      "tokenizer",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "i18nkit",
+    "fullName": "Abdess/i18nkit",
+    "description": "Extensible i18n CLI with plugin architecture",
+    "url": "https://github.com/Abdess/i18nkit",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "angular",
+      "cli",
+      "i18n",
+      "internationalization",
+      "localization",
+      "nodejs",
+      "primeng",
+      "translation",
+      "transloco",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "agent-block",
+    "fullName": "Brainrot-Creations/agent-block",
+    "description": "Building the walls. Blocking AI agents from reading, scraping and automating your site.",
+    "url": "https://github.com/Brainrot-Creations/agent-block",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "accessibility-tree",
+      "agent-block",
+      "ai-detection",
+      "anti-scraping",
+      "bot-detection",
+      "browser-use",
+      "headless-browser",
+      "honeypot",
+      "nextjs",
+      "playwright",
+      "puppeteer",
+      "react",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "flowdown",
+    "fullName": "Atomics-hub/flowdown",
+    "description": "O(1) streaming markdown renderer for the AI era. Zero dependencies. ~4KB gzipped.",
+    "url": "https://github.com/Atomics-hub/flowdown",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai-chat",
+      "javascript",
+      "llm",
+      "markdown",
+      "markdown-renderer",
+      "performance",
+      "react",
+      "streaming-markdown",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "maillint",
+    "fullName": "didrod205/maillint",
+    "description": "Lint HTML email for client compatibility — locally, no render farm. Flags CSS/HTML that breaks in Outlook (Word engine) & Gmail clipping at 102KB, against a bundled caniemail-derived support matrix. Deterministic CLI, JSON/MD reports.",
+    "url": "https://github.com/didrod205/maillint",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "caniemail",
+      "cli",
+      "email",
+      "email-development",
+      "email-linter",
+      "email-template",
+      "email-testing",
+      "gmail",
+      "html-email",
+      "litmus",
+      "mjml",
+      "newsletter",
+      "outlook",
+      "transactional-email",
+      "typescript",
       "zero-dependency"
     ]
   },
@@ -9457,46 +9514,6 @@
       "structured-output",
       "typescript",
       "web-builder",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "bashjsast",
-    "fullName": "woolkingx/bashjsast",
-    "description": "Bash AST parser for JavaScript — zero dependencies, complete syntax coverage",
-    "url": "https://github.com/woolkingx/bashjsast",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ast",
-      "bash",
-      "javascript",
-      "lexer",
-      "parser",
-      "shell",
-      "tokenizer",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "i18nkit",
-    "fullName": "Abdess/i18nkit",
-    "description": "Extensible i18n CLI with plugin architecture",
-    "url": "https://github.com/Abdess/i18nkit",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "angular",
-      "cli",
-      "i18n",
-      "internationalization",
-      "localization",
-      "nodejs",
-      "primeng",
-      "translation",
-      "transloco",
       "zero-dependency"
     ]
   },
@@ -9937,112 +9954,6 @@
     ]
   },
   {
-    "name": "token-diet",
-    "fullName": "KasperChenGH/token-diet",
-    "description": "Measure, diagnose, and cut LLM token usage in Claude Code agentic workflows — an 8-lever agent + zero-dependency CLI.",
-    "url": "https://github.com/KasperChenGH/token-diet",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agentic-workflows",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "cli",
-      "cost-optimization",
-      "llm",
-      "nodejs",
-      "tokens",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "finance-tracker",
-    "fullName": "Michael-WhiteCapData/finance-tracker",
-    "description": "Self-hosted, local-first personal finance tracker — subscriptions, budgets, alerts & overdraft forecasting, with optional real-time bank sync via SimpleFIN. Zero dependencies.",
-    "url": "https://github.com/Michael-WhiteCapData/finance-tracker",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "budget",
-      "finance",
-      "local-first",
-      "nodejs",
-      "personal-finance",
-      "privacy",
-      "self-hosted",
-      "simplefin",
-      "sqlite",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "works-on-my-machine",
-    "fullName": "didrod205/works-on-my-machine",
-    "description": "\"Works on my machine\" — finally with receipts. Capture a paste-safe env fingerprint, diff it against a teammate's or CI, and get told exactly what's different and why it broke. Plus the legendary ✓ badge. npx womm — 100% local, no telemetry.",
-    "url": "https://github.com/didrod205/works-on-my-machine",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "badge",
-      "bug-report",
-      "ci",
-      "cli",
-      "debugging",
-      "developer-tools",
-      "diff",
-      "envinfo",
-      "environment",
-      "node",
-      "onboarding",
-      "reproducibility",
-      "typescript",
-      "works-on-my-machine",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "batchline",
-    "fullName": "Ayubjon/batchline",
-    "description": "Build, split, and reconcile LLM batch jobs (OpenAI Batch API & Anthropic Message Batches). Zero-dep CLI + library, no API keys.",
-    "url": "https://github.com/Ayubjon/batchline",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "anthropic",
-      "batch-api",
-      "cli",
-      "jsonl",
-      "llm",
-      "nodejs",
-      "openai",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "tool",
-    "fullName": "axiestudio/tool",
-    "description": "50 zero-dependency fetch wrappers that replace MCP servers for AI agent workflows",
-    "url": "https://github.com/axiestudio/tool",
-    "stars": 1,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai-agents",
-      "ai-tools",
-      "developer-tools",
-      "documentation",
-      "fetch-wrapper",
-      "mcp-alternative",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "agent-doc",
     "fullName": "mixxan05/agent-doc",
     "description": "Zero-dependency git pre-commit hook that keeps your docs in sync with your code via an LLM - and never blocks a commit.",
@@ -10214,6 +10125,112 @@
       "typescript",
       "vercel",
       "whisper",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "token-diet",
+    "fullName": "KasperChenGH/token-diet",
+    "description": "Measure, diagnose, and cut LLM token usage in Claude Code agentic workflows — an 8-lever agent + zero-dependency CLI.",
+    "url": "https://github.com/KasperChenGH/token-diet",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agentic-workflows",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "cli",
+      "cost-optimization",
+      "llm",
+      "nodejs",
+      "tokens",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "finance-tracker",
+    "fullName": "Michael-WhiteCapData/finance-tracker",
+    "description": "Self-hosted, local-first personal finance tracker — subscriptions, budgets, alerts & overdraft forecasting, with optional real-time bank sync via SimpleFIN. Zero dependencies.",
+    "url": "https://github.com/Michael-WhiteCapData/finance-tracker",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "budget",
+      "finance",
+      "local-first",
+      "nodejs",
+      "personal-finance",
+      "privacy",
+      "self-hosted",
+      "simplefin",
+      "sqlite",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "works-on-my-machine",
+    "fullName": "didrod205/works-on-my-machine",
+    "description": "\"Works on my machine\" — finally with receipts. Capture a paste-safe env fingerprint, diff it against a teammate's or CI, and get told exactly what's different and why it broke. Plus the legendary ✓ badge. npx womm — 100% local, no telemetry.",
+    "url": "https://github.com/didrod205/works-on-my-machine",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "badge",
+      "bug-report",
+      "ci",
+      "cli",
+      "debugging",
+      "developer-tools",
+      "diff",
+      "envinfo",
+      "environment",
+      "node",
+      "onboarding",
+      "reproducibility",
+      "typescript",
+      "works-on-my-machine",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "batchline",
+    "fullName": "Ayubjon/batchline",
+    "description": "Build, split, and reconcile LLM batch jobs (OpenAI Batch API & Anthropic Message Batches). Zero-dep CLI + library, no API keys.",
+    "url": "https://github.com/Ayubjon/batchline",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "anthropic",
+      "batch-api",
+      "cli",
+      "jsonl",
+      "llm",
+      "nodejs",
+      "openai",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "tool",
+    "fullName": "axiestudio/tool",
+    "description": "50 zero-dependency fetch wrappers that replace MCP servers for AI agent workflows",
+    "url": "https://github.com/axiestudio/tool",
+    "stars": 1,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai-agents",
+      "ai-tools",
+      "developer-tools",
+      "documentation",
+      "fetch-wrapper",
+      "mcp-alternative",
       "zero-dependency"
     ]
   },
@@ -11433,6 +11450,31 @@
     ]
   },
   {
+    "name": "CoCreate-authenticate",
+    "fullName": "CoCreate-app/CoCreate-authenticate",
+    "description": "A high-performance, zero-dependency ESM session management and authentication engine using native RS256 asymmetric cryptography, ephemeral 2048-bit RSA keypair rotation, and reactive database state synchronization.",
+    "url": "https://github.com/CoCreate-app/CoCreate-authenticate",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "auth",
+      "authentication",
+      "cocreate",
+      "cocreate-app",
+      "crypto",
+      "esm",
+      "jwt",
+      "multi-tenant",
+      "rs256",
+      "rsa-2048",
+      "security",
+      "session-management",
+      "token-verification",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "domalt",
     "fullName": "pompyproductions/domalt",
     "description": "Makes creating DOM elements with Javascript a little less boring.",
@@ -11875,24 +11917,6 @@
     ]
   },
   {
-    "name": "web-components",
-    "fullName": "Igor-ifrs/web-components",
-    "description": "A minimalist, zero-dependency boilerplate for building native Web Components and modular styling",
-    "url": "https://github.com/Igor-ifrs/web-components",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "javascript",
-      "reusable-components",
-      "ui-components",
-      "vanilla-js",
-      "web-component-boilerplate",
-      "webcomponents",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "async-minikit",
     "fullName": "richsundev/async-minikit",
     "description": "Tiny zero-dependency async toolkit for Node.js and browsers: sleep(), sleepUntil(), retry(), timeout(), debounceAsync(), throttleAsync()",
@@ -11910,6 +11934,24 @@
       "timeout",
       "typescript",
       "utilities",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "web-components",
+    "fullName": "Igor-ifrs/web-components",
+    "description": "A minimalist, zero-dependency boilerplate for building native Web Components and modular styling",
+    "url": "https://github.com/Igor-ifrs/web-components",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "javascript",
+      "reusable-components",
+      "ui-components",
+      "vanilla-js",
+      "web-component-boilerplate",
+      "webcomponents",
       "zero-dependency"
     ]
   },
@@ -13167,327 +13209,6 @@
     ]
   },
   {
-    "name": "securepixel-js",
-    "fullName": "kdippan/securepixel-js",
-    "description": "Lightweight JavaScript SDK for client-side image steganography & AES-GCM encryption. Turn images into visual noise directly in the browser. Zero dependencies.",
-    "url": "https://github.com/kdippan/securepixel-js",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "aes-gcm",
-      "client-side",
-      "dippan-bhusal",
-      "dippanbhusal",
-      "encryption",
-      "javascript",
-      "kdippan",
-      "privacy",
-      "sdk",
-      "security",
-      "steganography",
-      "web-crypto-api",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "lorem-gen-cli",
-    "fullName": "kszongic/lorem-gen-cli",
-    "description": "Generate lorem ipsum placeholder text. Words, sentences, or paragraphs. Zero dependencies.",
-    "url": "https://github.com/kszongic/lorem-gen-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "command-line",
-      "developer-tools",
-      "lorem-ipsum",
-      "nodejs",
-      "placeholder",
-      "text-generator",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "ping-toast",
-    "fullName": "KumarDeepak16/ping-toast",
-    "description": "Ultra-lightweight React toast notification library — ~5kb gzipped, zero dependencies, animated icons, action buttons & confirm dialogs.",
-    "url": "https://github.com/KumarDeepak16/ping-toast",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "alternative",
-      "javascript",
-      "lightweight",
-      "notification",
-      "open-source",
-      "react",
-      "react-hot-toast-alternative",
-      "snackbar",
-      "toast",
-      "toast-notifications",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "cassette",
-    "fullName": "rxNxkolai/cassette",
-    "description": "A zero-dependency, offline VCR for LLM API calls. Record real responses once, then replay them deterministically and free in tests and CI.",
-    "url": "https://github.com/rxNxkolai/cassette",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "ai",
-      "ai-safety",
-      "cli",
-      "developer-tools",
-      "llm",
-      "mocking",
-      "prompt-engineering",
-      "testing",
-      "typescript",
-      "vcr",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-websocket-reconnect-doctor",
-    "fullName": "funnyhcat-dotcom/api-websocket-reconnect-doctor",
-    "description": "Audit WebSocket docs for endpoint/auth, lifecycle states, heartbeat, reconnect backoff, close codes, subscription restore, resume cursors, delivery guarantees, and client examples.",
-    "url": "https://github.com/funnyhcat-dotcom/api-websocket-reconnect-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "cli",
-      "documentation",
-      "reconnect",
-      "streaming",
-      "websocket",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-webhook-security-doctor",
-    "fullName": "funnyhcat-dotcom/api-webhook-security-doctor",
-    "description": "Audit webhook security docs for signatures, canonical payloads, replay protection, secret rotation, verification, TLS, endpoint ownership, retries, idempotency, privacy, monitoring, and incidents.",
-    "url": "https://github.com/funnyhcat-dotcom/api-webhook-security-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "documentation",
-      "hmac",
-      "security",
-      "signature",
-      "webhook",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "freq-table-cli",
-    "fullName": "kszongic/freq-table-cli",
-    "description": "Read lines from stdin and print a frequency table sorted by count. Percentages, ASCII bar charts, top-N, case folding. Zero deps.",
-    "url": "https://github.com/kszongic/freq-table-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "command-line",
-      "data-analysis",
-      "frequency",
-      "histogram",
-      "nodejs",
-      "statistics",
-      "stdin",
-      "text-analysis",
-      "text-processing",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "onboarding-zoom",
-    "fullName": "kra-so/onboarding-zoom",
-    "description": "Cinematic, zoom-driven onboarding tours for live websites",
-    "url": "https://github.com/kra-so/onboarding-zoom",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "feature-introduction",
-      "guided-tour",
-      "interactive",
-      "javascript",
-      "library",
-      "no-dependencies",
-      "onboarding",
-      "product-tour",
-      "tour",
-      "vanilla-js",
-      "walkthrough",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "agentvet",
-    "fullName": "MukundaKatta/agentvet",
-    "description": "Validate LLM-generated tool args before execution. Wrap your tools with a schema; throws ToolArgError with an LLM-friendly retry hint. Zero deps.",
-    "url": "https://github.com/MukundaKatta/agentvet",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-stack",
-      "agents",
-      "ai",
-      "anthropic",
-      "json-schema",
-      "llm",
-      "mcp",
-      "openai",
-      "reliability",
-      "retry",
-      "schema",
-      "tool-args",
-      "tool-use",
-      "tool-validation",
-      "validation",
-      "zero-dependency",
-      "zod"
-    ]
-  },
-  {
-    "name": "sha384sum-cli",
-    "fullName": "kszongic/sha384sum-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/sha384sum-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "checksum",
-      "cli",
-      "hash",
-      "nodejs",
-      "npm-package",
-      "sha384",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "roman2int-cli",
-    "fullName": "kszongic/roman2int-cli",
-    "description": "Convert Roman numerals to integers from the command line.",
-    "url": "https://github.com/kszongic/roman2int-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "converter",
-      "math",
-      "nodejs",
-      "roman-numerals",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "humanize-bytes-cli",
-    "fullName": "kszongic/humanize-bytes-cli",
-    "description": "Convert byte counts to human-readable strings (KB, MB, GB) and back. Zero deps, cross-platform CLI.",
-    "url": "https://github.com/kszongic/humanize-bytes-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "bytes",
-      "cli",
-      "command-line",
-      "cross-platform",
-      "developer-tools",
-      "file-size",
-      "formatting",
-      "human-readable",
-      "humanize",
-      "nodejs",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "rot13-reveal",
-    "fullName": "marcel-breuer/rot13-reveal",
-    "description": "A zero-dependency, client-side ROT13 utility for obfuscating static content and revealing it on user interaction.",
-    "url": "https://github.com/marcel-breuer/rot13-reveal",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "email-protection",
-      "obfuscation",
-      "privacy",
-      "rot13",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "developer-feedback-dashboard",
-    "fullName": "saidataharimatohoku-max/developer-feedback-dashboard",
-    "description": "Local dashboard that monitors and visualizes public developer feedback about 6 AI/ML providers (Together AI, Fireworks AI, Tinker API, Azure Kubernetes Service, Azure Machine Learning, OpenAI).",
-    "url": "https://github.com/saidataharimatohoku-max/developer-feedback-dashboard",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "dashboard",
-      "data-visualization",
-      "feedback",
-      "javascript",
-      "llm",
-      "nodejs",
-      "rest-api",
-      "web-app",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "vestige.js",
-    "fullName": "essandhu/vestige.js",
-    "description": "Zero-dependency TypeScript multi-object tracking for browser and Node. Implements SORT, ByteTrack, and OC-SORT, validated against their reference Python implementations.",
-    "url": "https://github.com/essandhu/vestige.js",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "browser",
-      "bytetrack",
-      "computer-vision",
-      "hungarian-algorithm",
-      "javascript",
-      "kalman-filter",
-      "mot",
-      "multi-object-tracking",
-      "nodejs",
-      "object-tracking",
-      "ocsort",
-      "sort",
-      "tracking-by-detection",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "dep-size",
     "fullName": "kszongic/dep-size",
     "description": "Check npm package install size and dependency count before adding them. Zero deps CLI.",
@@ -13865,6 +13586,327 @@
       "dashboard",
       "dataviz",
       "terminal",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "securepixel-js",
+    "fullName": "kdippan/securepixel-js",
+    "description": "Lightweight JavaScript SDK for client-side image steganography & AES-GCM encryption. Turn images into visual noise directly in the browser. Zero dependencies.",
+    "url": "https://github.com/kdippan/securepixel-js",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "aes-gcm",
+      "client-side",
+      "dippan-bhusal",
+      "dippanbhusal",
+      "encryption",
+      "javascript",
+      "kdippan",
+      "privacy",
+      "sdk",
+      "security",
+      "steganography",
+      "web-crypto-api",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "lorem-gen-cli",
+    "fullName": "kszongic/lorem-gen-cli",
+    "description": "Generate lorem ipsum placeholder text. Words, sentences, or paragraphs. Zero dependencies.",
+    "url": "https://github.com/kszongic/lorem-gen-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "lorem-ipsum",
+      "nodejs",
+      "placeholder",
+      "text-generator",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "ping-toast",
+    "fullName": "KumarDeepak16/ping-toast",
+    "description": "Ultra-lightweight React toast notification library — ~5kb gzipped, zero dependencies, animated icons, action buttons & confirm dialogs.",
+    "url": "https://github.com/KumarDeepak16/ping-toast",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "alternative",
+      "javascript",
+      "lightweight",
+      "notification",
+      "open-source",
+      "react",
+      "react-hot-toast-alternative",
+      "snackbar",
+      "toast",
+      "toast-notifications",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "cassette",
+    "fullName": "rxNxkolai/cassette",
+    "description": "A zero-dependency, offline VCR for LLM API calls. Record real responses once, then replay them deterministically and free in tests and CI.",
+    "url": "https://github.com/rxNxkolai/cassette",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "ai",
+      "ai-safety",
+      "cli",
+      "developer-tools",
+      "llm",
+      "mocking",
+      "prompt-engineering",
+      "testing",
+      "typescript",
+      "vcr",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-websocket-reconnect-doctor",
+    "fullName": "funnyhcat-dotcom/api-websocket-reconnect-doctor",
+    "description": "Audit WebSocket docs for endpoint/auth, lifecycle states, heartbeat, reconnect backoff, close codes, subscription restore, resume cursors, delivery guarantees, and client examples.",
+    "url": "https://github.com/funnyhcat-dotcom/api-websocket-reconnect-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "cli",
+      "documentation",
+      "reconnect",
+      "streaming",
+      "websocket",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-webhook-security-doctor",
+    "fullName": "funnyhcat-dotcom/api-webhook-security-doctor",
+    "description": "Audit webhook security docs for signatures, canonical payloads, replay protection, secret rotation, verification, TLS, endpoint ownership, retries, idempotency, privacy, monitoring, and incidents.",
+    "url": "https://github.com/funnyhcat-dotcom/api-webhook-security-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "documentation",
+      "hmac",
+      "security",
+      "signature",
+      "webhook",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "freq-table-cli",
+    "fullName": "kszongic/freq-table-cli",
+    "description": "Read lines from stdin and print a frequency table sorted by count. Percentages, ASCII bar charts, top-N, case folding. Zero deps.",
+    "url": "https://github.com/kszongic/freq-table-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "command-line",
+      "data-analysis",
+      "frequency",
+      "histogram",
+      "nodejs",
+      "statistics",
+      "stdin",
+      "text-analysis",
+      "text-processing",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "onboarding-zoom",
+    "fullName": "kra-so/onboarding-zoom",
+    "description": "Cinematic, zoom-driven onboarding tours for live websites",
+    "url": "https://github.com/kra-so/onboarding-zoom",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "feature-introduction",
+      "guided-tour",
+      "interactive",
+      "javascript",
+      "library",
+      "no-dependencies",
+      "onboarding",
+      "product-tour",
+      "tour",
+      "vanilla-js",
+      "walkthrough",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "agentvet",
+    "fullName": "MukundaKatta/agentvet",
+    "description": "Validate LLM-generated tool args before execution. Wrap your tools with a schema; throws ToolArgError with an LLM-friendly retry hint. Zero deps.",
+    "url": "https://github.com/MukundaKatta/agentvet",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-stack",
+      "agents",
+      "ai",
+      "anthropic",
+      "json-schema",
+      "llm",
+      "mcp",
+      "openai",
+      "reliability",
+      "retry",
+      "schema",
+      "tool-args",
+      "tool-use",
+      "tool-validation",
+      "validation",
+      "zero-dependency",
+      "zod"
+    ]
+  },
+  {
+    "name": "sha384sum-cli",
+    "fullName": "kszongic/sha384sum-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/sha384sum-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "checksum",
+      "cli",
+      "hash",
+      "nodejs",
+      "npm-package",
+      "sha384",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "roman2int-cli",
+    "fullName": "kszongic/roman2int-cli",
+    "description": "Convert Roman numerals to integers from the command line.",
+    "url": "https://github.com/kszongic/roman2int-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "converter",
+      "math",
+      "nodejs",
+      "roman-numerals",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "humanize-bytes-cli",
+    "fullName": "kszongic/humanize-bytes-cli",
+    "description": "Convert byte counts to human-readable strings (KB, MB, GB) and back. Zero deps, cross-platform CLI.",
+    "url": "https://github.com/kszongic/humanize-bytes-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "bytes",
+      "cli",
+      "command-line",
+      "cross-platform",
+      "developer-tools",
+      "file-size",
+      "formatting",
+      "human-readable",
+      "humanize",
+      "nodejs",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "rot13-reveal",
+    "fullName": "marcel-breuer/rot13-reveal",
+    "description": "A zero-dependency, client-side ROT13 utility for obfuscating static content and revealing it on user interaction.",
+    "url": "https://github.com/marcel-breuer/rot13-reveal",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "email-protection",
+      "obfuscation",
+      "privacy",
+      "rot13",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "developer-feedback-dashboard",
+    "fullName": "saidataharimatohoku-max/developer-feedback-dashboard",
+    "description": "Local dashboard that monitors and visualizes public developer feedback about 6 AI/ML providers (Together AI, Fireworks AI, Tinker API, Azure Kubernetes Service, Azure Machine Learning, OpenAI).",
+    "url": "https://github.com/saidataharimatohoku-max/developer-feedback-dashboard",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "dashboard",
+      "data-visualization",
+      "feedback",
+      "javascript",
+      "llm",
+      "nodejs",
+      "rest-api",
+      "web-app",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "vestige.js",
+    "fullName": "essandhu/vestige.js",
+    "description": "Zero-dependency TypeScript multi-object tracking for browser and Node. Implements SORT, ByteTrack, and OC-SORT, validated against their reference Python implementations.",
+    "url": "https://github.com/essandhu/vestige.js",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "browser",
+      "bytetrack",
+      "computer-vision",
+      "hungarian-algorithm",
+      "javascript",
+      "kalman-filter",
+      "mot",
+      "multi-object-tracking",
+      "nodejs",
+      "object-tracking",
+      "ocsort",
+      "sort",
+      "tracking-by-detection",
       "typescript",
       "zero-dependency"
     ]
@@ -14495,6 +14537,270 @@
     ]
   },
   {
+    "name": "jwt-cli",
+    "fullName": "ahmethasmerdogan/jwt-cli",
+    "description": "Zero-dependency CLI to decode, inspect, and verify JSON Web Tokens (JWT) — human-readable claims and security-focused HMAC HS256/384/512 verification that never trusts the token's own alg.",
+    "url": "https://github.com/ahmethasmerdogan/jwt-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "decode",
+      "jws",
+      "jwt",
+      "security",
+      "token",
+      "verify",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "statelet",
+    "fullName": "lasitosPT/statelet",
+    "description": "A tiny, fully-typed, zero-dependency finite state machine for TypeScript.",
+    "url": "https://github.com/lasitosPT/statelet",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "finite-state-machine",
+      "fsm",
+      "library",
+      "state-machine",
+      "statechart",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "sadrazam",
+    "fullName": "edukah/sadrazam",
+    "description": "Zero-dependency vanilla JavaScript UI component library — modals, tooltips, tabs, forms, and more.",
+    "url": "https://github.com/edukah/sadrazam",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "autocomplete",
+      "form-validation",
+      "frontend",
+      "javascript",
+      "modal",
+      "popover",
+      "scss",
+      "tabs",
+      "toast",
+      "tooltip",
+      "ui-components",
+      "ui-toolkit",
+      "umd",
+      "vanilla-js",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "port-scan-cli",
+    "fullName": "kszongic/port-scan-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/port-scan-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "cross-platform",
+      "developer-tools",
+      "devops",
+      "networking",
+      "nodejs",
+      "port-scanner",
+      "security",
+      "tcp",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "cidr-wildcard-cli",
+    "fullName": "kszongic/cidr-wildcard-cli",
+    "description": "Convert CIDR notation to wildcard masks and vice versa. Network engineering CLI tool.",
+    "url": "https://github.com/kszongic/cidr-wildcard-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cidr",
+      "cli",
+      "command-line",
+      "devops",
+      "networking",
+      "nodejs",
+      "subnet",
+      "wildcard-mask",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "Claude-Code-In-Motion",
+    "fullName": "AnwarDebes/Claude-Code-In-Motion",
+    "description": "Claude Code In Motion 🤗 Built with love and passion by an Anthropic enthusiast 🫶",
+    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai-agent",
+      "bring-your-own-key",
+      "claude",
+      "coding-agent",
+      "developer-tools",
+      "gemini",
+      "llm-agent",
+      "mascot",
+      "multi-provider",
+      "nodejs",
+      "ollama",
+      "openai",
+      "openrouter",
+      "pixel-art",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "env-guard",
+    "fullName": "IronFighter23/env-guard",
+    "description": "Zero-dependency environment variable validator for Node.js",
+    "url": "https://github.com/IronFighter23/env-guard",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "config",
+      "devtools",
+      "dotenv",
+      "environment",
+      "nodejs",
+      "validation",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-oauth-token-lifetime-doctor",
+    "fullName": "funnyhcat-dotcom/api-oauth-token-lifetime-doctor",
+    "description": "Audit OAuth token-lifetime docs for access/refresh/ID-token TTLs, rotation, revocation, risk-based lifetimes, scopes, clock skew, storage, validation, errors, monitoring, and ownership.",
+    "url": "https://github.com/funnyhcat-dotcom/api-oauth-token-lifetime-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "jwt",
+      "oauth",
+      "oidc",
+      "security",
+      "tokens",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-support-escalation-doctor",
+    "fullName": "funnyhcat-dotcom/api-support-escalation-doctor",
+    "description": "Audit support escalation docs for severity, SLA targets, routing, ownership, escalation paths, customer impact, ticket fields, privacy, communications, incidents, handoff, metrics, and review.",
+    "url": "https://github.com/funnyhcat-dotcom/api-support-escalation-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "customer-success",
+      "escalation",
+      "sla",
+      "sre",
+      "support",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "range-expand-cli",
+    "fullName": "kszongic/range-expand-cli",
+    "description": "Expand numeric ranges like 1-5,8,10-12 into individual numbers. Zero dependencies.",
+    "url": "https://github.com/kszongic/range-expand-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "expand",
+      "math",
+      "nodejs",
+      "range",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "ndjson-rename-cli",
+    "fullName": "kszongic/ndjson-rename-cli",
+    "description": "Rename fields in NDJSON records. Pipe-friendly CLI. Zero dependencies.",
+    "url": "https://github.com/kszongic/ndjson-rename-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "command-line",
+      "data-processing",
+      "json",
+      "ndjson",
+      "nodejs",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "gomoku-mini",
+    "fullName": "patchsmith-dev/gomoku-mini",
+    "description": "A lightweight zero-dependency browser Gomoku game.",
+    "url": "https://github.com/patchsmith-dev/gomoku-mini",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "beginner-friendly",
+      "board-game",
+      "browser-game",
+      "gomoku",
+      "javascript",
+      "open-source",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "cortex",
+    "fullName": "tools-for-agents/cortex",
+    "description": "🧠 A local, Obsidian-compatible second brain for agents: wikilinked markdown vault, knowledge graph, FTS5 search, live graph web view. CLI + web + MCP. Zero deps.",
+    "url": "https://github.com/tools-for-agents/cortex",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-tools",
+      "agents",
+      "ai-agents",
+      "claude-code",
+      "knowledge-graph",
+      "llm-tools",
+      "markdown",
+      "mcp",
+      "mcp-server",
+      "obsidian",
+      "second-brain",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "blue-js",
     "fullName": "bluegate-studio/blue-js",
     "description": "Zero-dependency utility library for Vanilla JS",
@@ -14794,266 +15100,25 @@
     ]
   },
   {
-    "name": "jwt-cli",
-    "fullName": "ahmethasmerdogan/jwt-cli",
-    "description": "Zero-dependency CLI to decode, inspect, and verify JSON Web Tokens (JWT) — human-readable claims and security-focused HMAC HS256/384/512 verification that never trusts the token's own alg.",
-    "url": "https://github.com/ahmethasmerdogan/jwt-cli",
+    "name": "CoCreate-server-mesh",
+    "fullName": "CoCreate-app/CoCreate-server-mesh",
+    "description": "Decentralized, event-driven P2P server mesh and transport fabric for CoCreate Server. Optimizes multi-tenant cluster concurrency with dynamic, tenant-isolated WebSocket data tunnels.",
+    "url": "https://github.com/CoCreate-app/CoCreate-server-mesh",
     "stars": 0,
     "ecosystem": "npm",
     "keywords": [
       "javascript",
-      "cli",
-      "decode",
-      "jws",
-      "jwt",
-      "security",
-      "token",
-      "verify",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "statelet",
-    "fullName": "lasitosPT/statelet",
-    "description": "A tiny, fully-typed, zero-dependency finite state machine for TypeScript.",
-    "url": "https://github.com/lasitosPT/statelet",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "finite-state-machine",
-      "fsm",
-      "library",
-      "state-machine",
-      "statechart",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "sadrazam",
-    "fullName": "edukah/sadrazam",
-    "description": "Zero-dependency vanilla JavaScript UI component library — modals, tooltips, tabs, forms, and more.",
-    "url": "https://github.com/edukah/sadrazam",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "autocomplete",
-      "form-validation",
-      "frontend",
-      "javascript",
-      "modal",
-      "popover",
-      "scss",
-      "tabs",
-      "toast",
-      "tooltip",
-      "ui-components",
-      "ui-toolkit",
-      "umd",
-      "vanilla-js",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "port-scan-cli",
-    "fullName": "kszongic/port-scan-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/port-scan-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "cross-platform",
-      "developer-tools",
-      "devops",
-      "networking",
-      "nodejs",
-      "port-scanner",
-      "security",
-      "tcp",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "cidr-wildcard-cli",
-    "fullName": "kszongic/cidr-wildcard-cli",
-    "description": "Convert CIDR notation to wildcard masks and vice versa. Network engineering CLI tool.",
-    "url": "https://github.com/kszongic/cidr-wildcard-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cidr",
-      "cli",
-      "command-line",
-      "devops",
-      "networking",
-      "nodejs",
-      "subnet",
-      "wildcard-mask",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "Claude-Code-In-Motion",
-    "fullName": "AnwarDebes/Claude-Code-In-Motion",
-    "description": "Claude Code In Motion 🤗 Built with love and passion by an Anthropic enthusiast 🫶",
-    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai-agent",
-      "bring-your-own-key",
-      "claude",
-      "coding-agent",
-      "developer-tools",
-      "gemini",
-      "llm-agent",
-      "mascot",
-      "multi-provider",
-      "nodejs",
-      "ollama",
-      "openai",
-      "openrouter",
-      "pixel-art",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "env-guard",
-    "fullName": "IronFighter23/env-guard",
-    "description": "Zero-dependency environment variable validator for Node.js",
-    "url": "https://github.com/IronFighter23/env-guard",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "config",
-      "devtools",
-      "dotenv",
-      "environment",
-      "nodejs",
-      "validation",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-oauth-token-lifetime-doctor",
-    "fullName": "funnyhcat-dotcom/api-oauth-token-lifetime-doctor",
-    "description": "Audit OAuth token-lifetime docs for access/refresh/ID-token TTLs, rotation, revocation, risk-based lifetimes, scopes, clock skew, storage, validation, errors, monitoring, and ownership.",
-    "url": "https://github.com/funnyhcat-dotcom/api-oauth-token-lifetime-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "jwt",
-      "oauth",
-      "oidc",
-      "security",
-      "tokens",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-support-escalation-doctor",
-    "fullName": "funnyhcat-dotcom/api-support-escalation-doctor",
-    "description": "Audit support escalation docs for severity, SLA targets, routing, ownership, escalation paths, customer impact, ticket fields, privacy, communications, incidents, handoff, metrics, and review.",
-    "url": "https://github.com/funnyhcat-dotcom/api-support-escalation-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "customer-success",
-      "escalation",
-      "sla",
-      "sre",
-      "support",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "range-expand-cli",
-    "fullName": "kszongic/range-expand-cli",
-    "description": "Expand numeric ranges like 1-5,8,10-12 into individual numbers. Zero dependencies.",
-    "url": "https://github.com/kszongic/range-expand-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "command-line",
-      "developer-tools",
-      "expand",
-      "math",
-      "nodejs",
-      "range",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "ndjson-rename-cli",
-    "fullName": "kszongic/ndjson-rename-cli",
-    "description": "Rename fields in NDJSON records. Pipe-friendly CLI. Zero dependencies.",
-    "url": "https://github.com/kszongic/ndjson-rename-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "command-line",
-      "data-processing",
-      "json",
-      "ndjson",
-      "nodejs",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "gomoku-mini",
-    "fullName": "patchsmith-dev/gomoku-mini",
-    "description": "A lightweight zero-dependency browser Gomoku game.",
-    "url": "https://github.com/patchsmith-dev/gomoku-mini",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "beginner-friendly",
-      "board-game",
-      "browser-game",
-      "gomoku",
-      "javascript",
-      "open-source",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "cortex",
-    "fullName": "tools-for-agents/cortex",
-    "description": "🧠 A local, Obsidian-compatible second brain for agents: wikilinked markdown vault, knowledge graph, FTS5 search, live graph web view. CLI + web + MCP. Zero deps.",
-    "url": "https://github.com/tools-for-agents/cortex",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-tools",
-      "agents",
-      "ai-agents",
-      "claude-code",
-      "knowledge-graph",
-      "llm-tools",
-      "markdown",
-      "mcp",
-      "mcp-server",
-      "obsidian",
-      "second-brain",
+      "cocreate",
+      "cocreate-server",
+      "crdt",
+      "distributed-systems",
+      "headless-server",
+      "multi-tenancy",
+      "p2p-mesh",
+      "realtime-collaboration",
+      "service-mesh",
+      "state-synchronization",
+      "websocket-clustering",
       "zero-dependency"
     ]
   },
@@ -15718,23 +15783,6 @@
     ]
   },
   {
-    "name": "react-canvas-force-graph",
-    "fullName": "jasonpalmer1/react-canvas-force-graph",
-    "description": "Dependency-free force-directed graph as a single copy-paste React component — canvas-rendered, zero deps",
-    "url": "https://github.com/jasonpalmer1/react-canvas-force-graph",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "canvas",
-      "data-visualization",
-      "force-directed-graph",
-      "react",
-      "react-component",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "git-snapshot",
     "fullName": "axiom-experiment/git-snapshot",
     "description": "Visual git stash manager — list, show, save, and pop stashes with readable output. Zero dependencies.",
@@ -15789,6 +15837,23 @@
       "rate-limiting",
       "reverse-proxy",
       "token-bucket",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "react-canvas-force-graph",
+    "fullName": "jasonpalmer1/react-canvas-force-graph",
+    "description": "Dependency-free force-directed graph as a single copy-paste React component — canvas-rendered, zero deps",
+    "url": "https://github.com/jasonpalmer1/react-canvas-force-graph",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "canvas",
+      "data-visualization",
+      "force-directed-graph",
+      "react",
+      "react-component",
       "zero-dependency"
     ]
   },
@@ -16388,31 +16453,6 @@
     ]
   },
   {
-    "name": "nanoodle-js",
-    "fullName": "nanoodlecom/nanoodle-js",
-    "description": "Run nanoodle workflows from JavaScript — zero-dependency executor for saved noodle-graph.json files",
-    "url": "https://github.com/nanoodlecom/nanoodle-js",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "ai-workflow",
-      "automation",
-      "byok",
-      "cli",
-      "image-generation",
-      "llm",
-      "nanogpt",
-      "nanoodle",
-      "workflow",
-      "workflow-engine",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "scout",
     "fullName": "tools-for-agents/scout",
     "description": "🧭 The agent's web reader: fetch a URL as clean, cached, searchable markdown (~90% smaller than HTML). Pairs with cortex. CLI + MCP. Zero deps.",
@@ -16453,6 +16493,31 @@
       "proxy",
       "reactive",
       "table",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "nanoodle-js",
+    "fullName": "nanoodlecom/nanoodle-js",
+    "description": "Run nanoodle workflows from JavaScript — zero-dependency executor for saved noodle-graph.json files",
+    "url": "https://github.com/nanoodlecom/nanoodle-js",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-workflow",
+      "automation",
+      "byok",
+      "cli",
+      "image-generation",
+      "llm",
+      "nanogpt",
+      "nanoodle",
+      "workflow",
+      "workflow-engine",
       "zero-dependency"
     ]
   },
@@ -16796,6 +16861,658 @@
     ]
   },
   {
+    "name": "cognitive-meter-verify",
+    "fullName": "Stray-South/cognitive-meter-verify",
+    "description": "Zero-dependency browser demo that verifies cognitive-meter v0.1 receipts (Ed25519 + SHA-256 hash chain). Live at stray-south.github.io/cognitive-meter-verify",
+    "url": "https://github.com/Stray-South/cognitive-meter-verify",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "demo",
+      "ed25519",
+      "javascript",
+      "llm",
+      "receipts",
+      "web-crypto",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "pdfnative-cli",
+    "fullName": "Nizoka/pdfnative-cli",
+    "description": "High-performance, zero-dependency CLI for the pdfnative engine. Automate JSON-to-PDF/A rendering, digital signatures (RSA/ECDSA), and compliance inspection within CI/CD pipelines via shell-pipe workflows.",
+    "url": "https://github.com/Nizoka/pdfnative-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "automation",
+      "ci-cd",
+      "cli",
+      "devops",
+      "digital-signature",
+      "document-automation",
+      "ecdsa",
+      "encryption",
+      "invoice-generator",
+      "json-to-pdf",
+      "pdf-a",
+      "pdf-generation",
+      "pdf-inspector",
+      "pdfnative",
+      "rsa",
+      "shell-scripts",
+      "streaming",
+      "terminal",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "dbmigrate",
+    "fullName": "sulthonzh/dbmigrate",
+    "description": "Zero-dependency database migration tool for SQLite, PostgreSQL, and MySQL",
+    "url": "https://github.com/sulthonzh/dbmigrate",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "cli",
+      "database",
+      "migration",
+      "mysql",
+      "postgresql",
+      "schema",
+      "sqlite",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "Nimage",
+    "fullName": "NeaByteLab/Nimage",
+    "description": "Drop-in vanilla lightbox library turning any tagged image into a grouped gallery with keyboard, touch, pinch, and slideshow support.",
+    "url": "https://github.com/NeaByteLab/Nimage",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "banner-carousel",
+      "carousel",
+      "css-variables",
+      "data-attributes",
+      "dom",
+      "frontend",
+      "gallery",
+      "image-gallery",
+      "image-slider",
+      "image-viewer",
+      "keyboard-navigation",
+      "lightbox",
+      "pinch-zoom",
+      "slideshow",
+      "theming",
+      "thumbnails",
+      "touch-gestures",
+      "typescript",
+      "vanilla-js",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "env_validator",
+    "fullName": "tonyrubanraj/env_validator",
+    "description": "Zero-dependency TypeScript library to validate environment variables at startup - fail fast with clear, structured errors.",
+    "url": "https://github.com/tonyrubanraj/env_validator",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "cli",
+      "config-validation",
+      "developer-tools",
+      "dotenv",
+      "env-validation",
+      "environment-variables",
+      "nodej",
+      "npm-package",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "agentsnap-mcp",
+    "fullName": "MukundaKatta/agentsnap-mcp",
+    "description": "MCP server: snapshot tests for tool-call traces. Wraps @mukundakatta/agentsnap.",
+    "url": "https://github.com/MukundaKatta/agentsnap-mcp",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-stack",
+      "agents",
+      "ai",
+      "anthropic",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "openai",
+      "reliability",
+      "snapshot-testing",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "flowshield",
+    "fullName": "Avinashvelu03/flowshield",
+    "description": "FlowShield is a modern, zero-dependency, TypeScript-first resilience library that provides composable fault-tolerance patterns for any async operation. Think of it as a lightweight, modern alternative to Cockatiel/Polly — but with a cleaner API, better TypeScript inference, and built for edge runtimes (Node.js, Bun, Deno, Cloudflare Workers).",
+    "url": "https://github.com/Avinashvelu03/flowshield",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "bun",
+      "circuit-breaker",
+      "cloudflare-workers",
+      "edge-runtime",
+      "fault-tolerance",
+      "nodejs",
+      "polly-alternative",
+      "rate-limiter",
+      "resilience",
+      "retry",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "json-diff-cli",
+    "fullName": "sabahattink/json-diff-cli",
+    "description": "Compare two JSON files and show differences. Color-coded output.",
+    "url": "https://github.com/sabahattink/json-diff-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "cli",
+      "compare",
+      "developer-tools",
+      "diff",
+      "json",
+      "npm",
+      "open-source",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "creator",
+    "fullName": "tunder007/creator",
+    "description": "Scaffold a new cross-tool AI skill",
+    "url": "https://github.com/tunder007/creator",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai-tools",
+      "claude",
+      "cli",
+      "cursor",
+      "generator",
+      "nodejs",
+      "scaffold",
+      "skill",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "feature-structure-creator",
+    "fullName": "tunder007/feature-structure-creator",
+    "description": "Scaffold a feature dossier (md source + html view)",
+    "url": "https://github.com/tunder007/feature-structure-creator",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "ai-tools",
+      "cli",
+      "documentation",
+      "feature",
+      "generator",
+      "nodejs",
+      "scaffold",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "dec2oct-cli",
+    "fullName": "kszongic/dec2oct-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/dec2oct-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "conversion",
+      "nodejs",
+      "octal",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "lcs-cli",
+    "fullName": "kszongic/lcs-cli",
+    "description": "Find the longest common subsequence of two strings from the terminal",
+    "url": "https://github.com/kszongic/lcs-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "algorithm",
+      "cli",
+      "nodejs",
+      "string-similarity",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "feature-preview",
+    "fullName": "cbcruk/feature-preview",
+    "description": "Zero-dependency, localStorage-backed feature preview SDK to see unreleased work in any deployed environment without redeploy",
+    "url": "https://github.com/cbcruk/feature-preview",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "feature-flags",
+      "feature-preview",
+      "localstorage",
+      "react",
+      "sdk",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "tools-for-agents.github.io",
+    "fullName": "tools-for-agents/tools-for-agents.github.io",
+    "description": "Landing page for tools-for-agents — an operating system for agents",
+    "url": "https://github.com/tools-for-agents/tools-for-agents.github.io",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-tools",
+      "agents",
+      "ai-agents",
+      "claude-code",
+      "landing-page",
+      "llm-tools",
+      "llms-txt",
+      "mcp",
+      "mcp-server",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "Aura",
+    "fullName": "IzzoSol/Aura",
+    "description": "AURA — dependency-free LLM token-saver. Answer recurring prompts free (cache/compute/skills), compress history, and DISTILL bloated system prompts. CLI + MCP server (Claude/Cursor/Claude Code) + library. v0.5.0",
+    "url": "https://github.com/IzzoSol/Aura",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "ai-tools",
+      "claude",
+      "cli",
+      "cost-optimization",
+      "distill",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "prompt-distillation",
+      "prompt-optimization",
+      "shaddai",
+      "system-prompt",
+      "token-optimization",
+      "token-saver",
+      "tokens",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "Zynex",
+    "fullName": "Abhinav943/Zynex",
+    "description": "A zero-dependency, detailed validation engine for Emails, Passwords, and URLs. Built with TypeScript for Node.js.",
+    "url": "https://github.com/Abhinav943/Zynex",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "developer-tools",
+      "email-validation",
+      "nodejs",
+      "npm-package",
+      "password-validation",
+      "typescript",
+      "validation",
+      "validator",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "strip-undefined-values",
+    "fullName": "tomahg/strip-undefined-values",
+    "description": "Remove undefined values from objects. Fully typed. Zero dependencies.",
+    "url": "https://github.com/tomahg/strip-undefined-values",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "strip",
+      "strip-object",
+      "typescript",
+      "undefined",
+      "utility",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "panes",
+    "fullName": "silicondaydream/panes",
+    "description": "Panes is a tiny, dependency-free movable & resizable in-app modal panes for the web",
+    "url": "https://github.com/silicondaydream/panes",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "draggable",
+      "modal",
+      "resizable",
+      "touch",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "tron-cold-wallet-online",
+    "fullName": "ivanrmnvch/tron-cold-wallet-online",
+    "description": "TRON USDT cold wallet — online companion. Zero external dependencies (Node.js built-ins only).",
+    "url": "https://github.com/ivanrmnvch/tron-cold-wallet-online",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "air-gap",
+      "cold-wallet",
+      "cryptocurrency",
+      "nodejs",
+      "privacy",
+      "tor",
+      "trc20",
+      "tron",
+      "usdt",
+      "wallet",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "mcp-registry-finder",
+    "fullName": "bharat3645/mcp-registry-finder",
+    "description": "Zero-dependency Node MCP server with 4 tools for searching the official MCP registry (registry.modelcontextprotocol.io) - find servers by keyword, inspect details, get install snippets. Node >=18, stdio transport, node:test suite with recorded fixtures.",
+    "url": "https://github.com/bharat3645/mcp-registry-finder",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "javascript",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "bcbp",
+    "fullName": "ahmethasmerdogan/bcbp",
+    "description": "Zero-dependency Node.js CLI that decodes airline boarding pass barcodes (IATA BCBP format)",
+    "url": "https://github.com/ahmethasmerdogan/bcbp",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "aviation",
+      "barcode",
+      "bcbp",
+      "boarding-pass",
+      "cli",
+      "iata",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "prime-sieve-cli",
+    "fullName": "kszongic/prime-sieve-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/prime-sieve-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "algorithm",
+      "cli",
+      "math",
+      "nodejs",
+      "prime",
+      "sieve",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "hex-pad-cli",
+    "fullName": "kszongic/hex-pad-cli",
+    "description": "Pad hex strings to a fixed width from the terminal.",
+    "url": "https://github.com/kszongic/hex-pad-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "hex",
+      "nodejs",
+      "padding",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "unicode-name-cli",
+    "fullName": "kszongic/unicode-name-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/unicode-name-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "developer-tools",
+      "nodejs",
+      "unicode",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "glob-to-regex-cli",
+    "fullName": "kszongic/glob-to-regex-cli",
+    "description": "Convert glob patterns to regex. Pipe-friendly CLI. Zero dependencies.",
+    "url": "https://github.com/kszongic/glob-to-regex-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "glob",
+      "nodejs",
+      "pattern-matching",
+      "regex",
+      "zero-dependencies",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "devknife",
+    "fullName": "Avinashvelu03/devknife",
+    "description": "The ultimate zero-dependency, 50-in-1 developer Swiss Army knife CLI & library. UUID, hash, JWT, base64, JSON, color, time & more — all in your terminal.",
+    "url": "https://github.com/Avinashvelu03/devknife",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "cli",
+      "developer-tools",
+      "javascript",
+      "nodejs",
+      "typescript",
+      "utilities",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "ratebucket",
+    "fullName": "trananhtung/ratebucket",
+    "description": "Token-bucket rate limiter with fair FIFO waiting, weighted costs, and AbortSignal support. Zero dependencies.",
+    "url": "https://github.com/trananhtung/ratebucket",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "api",
+      "async",
+      "backpressure",
+      "rate-limit",
+      "rate-limiter",
+      "resilience",
+      "throttle",
+      "token-bucket",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-file-upload-policy-doctor",
+    "fullName": "funnyhcat-dotcom/api-file-upload-policy-doctor",
+    "description": "Audit API file upload docs for flow, limits, MIME policy, validation, malware scanning, signed URLs, privacy, errors, and cleanup.",
+    "url": "https://github.com/funnyhcat-dotcom/api-file-upload-policy-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "cli",
+      "documentation",
+      "file-upload",
+      "malware-scanning",
+      "security",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "x-native",
+    "fullName": "jpoindexter/x-native",
+    "description": "Native TypeScript client for X/Twitter GraphQL — search, bookmarks, read tweets. Keyless cookie auth, zero dependencies, no Python, self-healing query IDs.",
+    "url": "https://github.com/jpoindexter/x-native",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "bookmarks",
+      "cli",
+      "cookie-auth",
+      "graphql",
+      "no-api-key",
+      "nodejs",
+      "osint",
+      "social-media",
+      "twitter",
+      "twitter-api",
+      "twitter-scraper",
+      "typescript",
+      "web-scraping",
+      "x",
+      "x-twitter",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "daublet",
+    "fullName": "mmdmcy/daublet",
+    "description": "Lightweight zero-dependency local paint app with movable layers",
+    "url": "https://github.com/mmdmcy/daublet",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "canvas",
+      "offline",
+      "paint",
+      "web-app",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "rolloutkit-js",
+    "fullName": "oktayhaktan0/rolloutkit-js",
+    "description": "RolloutKit is a dependency-free JavaScript feature flag engine with attribute targeting, deterministic percentage rollouts, kill switches, evaluation reasons and audit records.",
+    "url": "https://github.com/oktayhaktan0/rolloutkit-js",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "developer-tools",
+      "experimentation",
+      "feature-flags",
+      "github-actions",
+      "javascript",
+      "nodejs",
+      "rollout",
+      "saas",
+      "testing",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "ctx",
+    "fullName": "madara88645/ctx",
+    "description": "A zero-dependency \"where was I\" CLI — snapshot your working directory and resume it later. Built end to end by delegated AI agents, watched live through Understudy.",
+    "url": "https://github.com/madara88645/ctx",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agentic",
+      "ai-agents",
+      "antigravity",
+      "autonomous-agents",
+      "cli",
+      "coding-agents",
+      "context-switching",
+      "developer-tools",
+      "gemini",
+      "nodejs",
+      "productivity",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "flightlog",
     "fullName": "hamr0/flightlog",
     "description": "A flight recorder for your app — zero-dependency local error capture to JSONL.",
@@ -17085,332 +17802,6 @@
       "timing-safe",
       "typescript",
       "webhooks",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "cognitive-meter-verify",
-    "fullName": "Stray-South/cognitive-meter-verify",
-    "description": "Zero-dependency browser demo that verifies cognitive-meter v0.1 receipts (Ed25519 + SHA-256 hash chain). Live at stray-south.github.io/cognitive-meter-verify",
-    "url": "https://github.com/Stray-South/cognitive-meter-verify",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "demo",
-      "ed25519",
-      "javascript",
-      "llm",
-      "receipts",
-      "web-crypto",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "pdfnative-cli",
-    "fullName": "Nizoka/pdfnative-cli",
-    "description": "High-performance, zero-dependency CLI for the pdfnative engine. Automate JSON-to-PDF/A rendering, digital signatures (RSA/ECDSA), and compliance inspection within CI/CD pipelines via shell-pipe workflows.",
-    "url": "https://github.com/Nizoka/pdfnative-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "automation",
-      "ci-cd",
-      "cli",
-      "devops",
-      "digital-signature",
-      "document-automation",
-      "ecdsa",
-      "encryption",
-      "invoice-generator",
-      "json-to-pdf",
-      "pdf-a",
-      "pdf-generation",
-      "pdf-inspector",
-      "pdfnative",
-      "rsa",
-      "shell-scripts",
-      "streaming",
-      "terminal",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "dbmigrate",
-    "fullName": "sulthonzh/dbmigrate",
-    "description": "Zero-dependency database migration tool for SQLite, PostgreSQL, and MySQL",
-    "url": "https://github.com/sulthonzh/dbmigrate",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "cli",
-      "database",
-      "migration",
-      "mysql",
-      "postgresql",
-      "schema",
-      "sqlite",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "Nimage",
-    "fullName": "NeaByteLab/Nimage",
-    "description": "Drop-in vanilla lightbox library turning any tagged image into a grouped gallery with keyboard, touch, pinch, and slideshow support.",
-    "url": "https://github.com/NeaByteLab/Nimage",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "banner-carousel",
-      "carousel",
-      "css-variables",
-      "data-attributes",
-      "dom",
-      "frontend",
-      "gallery",
-      "image-gallery",
-      "image-slider",
-      "image-viewer",
-      "keyboard-navigation",
-      "lightbox",
-      "pinch-zoom",
-      "slideshow",
-      "theming",
-      "thumbnails",
-      "touch-gestures",
-      "typescript",
-      "vanilla-js",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "env_validator",
-    "fullName": "tonyrubanraj/env_validator",
-    "description": "Zero-dependency TypeScript library to validate environment variables at startup - fail fast with clear, structured errors.",
-    "url": "https://github.com/tonyrubanraj/env_validator",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "cli",
-      "config-validation",
-      "developer-tools",
-      "dotenv",
-      "env-validation",
-      "environment-variables",
-      "nodej",
-      "npm-package",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "agentsnap-mcp",
-    "fullName": "MukundaKatta/agentsnap-mcp",
-    "description": "MCP server: snapshot tests for tool-call traces. Wraps @mukundakatta/agentsnap.",
-    "url": "https://github.com/MukundaKatta/agentsnap-mcp",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-stack",
-      "agents",
-      "ai",
-      "anthropic",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "openai",
-      "reliability",
-      "snapshot-testing",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "flowshield",
-    "fullName": "Avinashvelu03/flowshield",
-    "description": "FlowShield is a modern, zero-dependency, TypeScript-first resilience library that provides composable fault-tolerance patterns for any async operation. Think of it as a lightweight, modern alternative to Cockatiel/Polly — but with a cleaner API, better TypeScript inference, and built for edge runtimes (Node.js, Bun, Deno, Cloudflare Workers).",
-    "url": "https://github.com/Avinashvelu03/flowshield",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "bun",
-      "circuit-breaker",
-      "cloudflare-workers",
-      "edge-runtime",
-      "fault-tolerance",
-      "nodejs",
-      "polly-alternative",
-      "rate-limiter",
-      "resilience",
-      "retry",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "json-diff-cli",
-    "fullName": "sabahattink/json-diff-cli",
-    "description": "Compare two JSON files and show differences. Color-coded output.",
-    "url": "https://github.com/sabahattink/json-diff-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "cli",
-      "compare",
-      "developer-tools",
-      "diff",
-      "json",
-      "npm",
-      "open-source",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "creator",
-    "fullName": "tunder007/creator",
-    "description": "Scaffold a new cross-tool AI skill",
-    "url": "https://github.com/tunder007/creator",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai-tools",
-      "claude",
-      "cli",
-      "cursor",
-      "generator",
-      "nodejs",
-      "scaffold",
-      "skill",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "feature-structure-creator",
-    "fullName": "tunder007/feature-structure-creator",
-    "description": "Scaffold a feature dossier (md source + html view)",
-    "url": "https://github.com/tunder007/feature-structure-creator",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "ai-tools",
-      "cli",
-      "documentation",
-      "feature",
-      "generator",
-      "nodejs",
-      "scaffold",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "dec2oct-cli",
-    "fullName": "kszongic/dec2oct-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/dec2oct-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "conversion",
-      "nodejs",
-      "octal",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "lcs-cli",
-    "fullName": "kszongic/lcs-cli",
-    "description": "Find the longest common subsequence of two strings from the terminal",
-    "url": "https://github.com/kszongic/lcs-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "algorithm",
-      "cli",
-      "nodejs",
-      "string-similarity",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "Aura",
-    "fullName": "IzzoSol/Aura",
-    "description": "AURA — dependency-free LLM token-saver. Answer recurring prompts free (cache/compute/skills), compress history, and DISTILL bloated system prompts. CLI + MCP server (Claude/Cursor/Claude Code) + library. v0.5.0",
-    "url": "https://github.com/IzzoSol/Aura",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "ai-tools",
-      "claude",
-      "cli",
-      "cost-optimization",
-      "distill",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "prompt-distillation",
-      "prompt-optimization",
-      "shaddai",
-      "system-prompt",
-      "token-optimization",
-      "token-saver",
-      "tokens",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "feature-preview",
-    "fullName": "cbcruk/feature-preview",
-    "description": "Zero-dependency, localStorage-backed feature preview SDK to see unreleased work in any deployed environment without redeploy",
-    "url": "https://github.com/cbcruk/feature-preview",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "feature-flags",
-      "feature-preview",
-      "localstorage",
-      "react",
-      "sdk",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "tools-for-agents.github.io",
-    "fullName": "tools-for-agents/tools-for-agents.github.io",
-    "description": "Landing page for tools-for-agents — an operating system for agents",
-    "url": "https://github.com/tools-for-agents/tools-for-agents.github.io",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-tools",
-      "agents",
-      "ai-agents",
-      "claude-code",
-      "landing-page",
-      "llm-tools",
-      "llms-txt",
-      "mcp",
-      "mcp-server",
       "zero-dependency"
     ]
   },
@@ -17806,332 +18197,6 @@
     ]
   },
   {
-    "name": "Zynex",
-    "fullName": "Abhinav943/Zynex",
-    "description": "A zero-dependency, detailed validation engine for Emails, Passwords, and URLs. Built with TypeScript for Node.js.",
-    "url": "https://github.com/Abhinav943/Zynex",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "developer-tools",
-      "email-validation",
-      "nodejs",
-      "npm-package",
-      "password-validation",
-      "typescript",
-      "validation",
-      "validator",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "strip-undefined-values",
-    "fullName": "tomahg/strip-undefined-values",
-    "description": "Remove undefined values from objects. Fully typed. Zero dependencies.",
-    "url": "https://github.com/tomahg/strip-undefined-values",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "strip",
-      "strip-object",
-      "typescript",
-      "undefined",
-      "utility",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "panes",
-    "fullName": "silicondaydream/panes",
-    "description": "Panes is a tiny, dependency-free movable & resizable in-app modal panes for the web",
-    "url": "https://github.com/silicondaydream/panes",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "draggable",
-      "modal",
-      "resizable",
-      "touch",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "tron-cold-wallet-online",
-    "fullName": "ivanrmnvch/tron-cold-wallet-online",
-    "description": "TRON USDT cold wallet — online companion. Zero external dependencies (Node.js built-ins only).",
-    "url": "https://github.com/ivanrmnvch/tron-cold-wallet-online",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "air-gap",
-      "cold-wallet",
-      "cryptocurrency",
-      "nodejs",
-      "privacy",
-      "tor",
-      "trc20",
-      "tron",
-      "usdt",
-      "wallet",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "mcp-registry-finder",
-    "fullName": "bharat3645/mcp-registry-finder",
-    "description": "Zero-dependency Node MCP server with 4 tools for searching the official MCP registry (registry.modelcontextprotocol.io) - find servers by keyword, inspect details, get install snippets. Node >=18, stdio transport, node:test suite with recorded fixtures.",
-    "url": "https://github.com/bharat3645/mcp-registry-finder",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "javascript",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "nodejs",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "bcbp",
-    "fullName": "ahmethasmerdogan/bcbp",
-    "description": "Zero-dependency Node.js CLI that decodes airline boarding pass barcodes (IATA BCBP format)",
-    "url": "https://github.com/ahmethasmerdogan/bcbp",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "aviation",
-      "barcode",
-      "bcbp",
-      "boarding-pass",
-      "cli",
-      "iata",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "prime-sieve-cli",
-    "fullName": "kszongic/prime-sieve-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/prime-sieve-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "algorithm",
-      "cli",
-      "math",
-      "nodejs",
-      "prime",
-      "sieve",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "hex-pad-cli",
-    "fullName": "kszongic/hex-pad-cli",
-    "description": "Pad hex strings to a fixed width from the terminal.",
-    "url": "https://github.com/kszongic/hex-pad-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "hex",
-      "nodejs",
-      "padding",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "unicode-name-cli",
-    "fullName": "kszongic/unicode-name-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/unicode-name-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "developer-tools",
-      "nodejs",
-      "unicode",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "glob-to-regex-cli",
-    "fullName": "kszongic/glob-to-regex-cli",
-    "description": "Convert glob patterns to regex. Pipe-friendly CLI. Zero dependencies.",
-    "url": "https://github.com/kszongic/glob-to-regex-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "command-line",
-      "developer-tools",
-      "glob",
-      "nodejs",
-      "pattern-matching",
-      "regex",
-      "zero-dependencies",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "devknife",
-    "fullName": "Avinashvelu03/devknife",
-    "description": "The ultimate zero-dependency, 50-in-1 developer Swiss Army knife CLI & library. UUID, hash, JWT, base64, JSON, color, time & more — all in your terminal.",
-    "url": "https://github.com/Avinashvelu03/devknife",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "cli",
-      "developer-tools",
-      "javascript",
-      "nodejs",
-      "typescript",
-      "utilities",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "ratebucket",
-    "fullName": "trananhtung/ratebucket",
-    "description": "Token-bucket rate limiter with fair FIFO waiting, weighted costs, and AbortSignal support. Zero dependencies.",
-    "url": "https://github.com/trananhtung/ratebucket",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "api",
-      "async",
-      "backpressure",
-      "rate-limit",
-      "rate-limiter",
-      "resilience",
-      "throttle",
-      "token-bucket",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-file-upload-policy-doctor",
-    "fullName": "funnyhcat-dotcom/api-file-upload-policy-doctor",
-    "description": "Audit API file upload docs for flow, limits, MIME policy, validation, malware scanning, signed URLs, privacy, errors, and cleanup.",
-    "url": "https://github.com/funnyhcat-dotcom/api-file-upload-policy-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "cli",
-      "documentation",
-      "file-upload",
-      "malware-scanning",
-      "security",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "x-native",
-    "fullName": "jpoindexter/x-native",
-    "description": "Native TypeScript client for X/Twitter GraphQL — search, bookmarks, read tweets. Keyless cookie auth, zero dependencies, no Python, self-healing query IDs.",
-    "url": "https://github.com/jpoindexter/x-native",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "bookmarks",
-      "cli",
-      "cookie-auth",
-      "graphql",
-      "no-api-key",
-      "nodejs",
-      "osint",
-      "social-media",
-      "twitter",
-      "twitter-api",
-      "twitter-scraper",
-      "typescript",
-      "web-scraping",
-      "x",
-      "x-twitter",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "daublet",
-    "fullName": "mmdmcy/daublet",
-    "description": "Lightweight zero-dependency local paint app with movable layers",
-    "url": "https://github.com/mmdmcy/daublet",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "canvas",
-      "offline",
-      "paint",
-      "web-app",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "rolloutkit-js",
-    "fullName": "oktayhaktan0/rolloutkit-js",
-    "description": "RolloutKit is a dependency-free JavaScript feature flag engine with attribute targeting, deterministic percentage rollouts, kill switches, evaluation reasons and audit records.",
-    "url": "https://github.com/oktayhaktan0/rolloutkit-js",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "developer-tools",
-      "experimentation",
-      "feature-flags",
-      "github-actions",
-      "javascript",
-      "nodejs",
-      "rollout",
-      "saas",
-      "testing",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "ctx",
-    "fullName": "madara88645/ctx",
-    "description": "A zero-dependency \"where was I\" CLI — snapshot your working directory and resume it later. Built end to end by delegated AI agents, watched live through Understudy.",
-    "url": "https://github.com/madara88645/ctx",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agentic",
-      "ai-agents",
-      "antigravity",
-      "autonomous-agents",
-      "cli",
-      "coding-agents",
-      "context-switching",
-      "developer-tools",
-      "gemini",
-      "nodejs",
-      "productivity",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "backend-design-patterns",
     "fullName": "AdityaDwiNugroho/backend-design-patterns",
     "description": "High-performance Distributed System Patterns (Consistent Hashing, Token Bucket, LSM Tree) with zero dependencies.",
@@ -18424,6 +18489,47 @@
       "rest-api",
       "sdk",
       "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "dotdrift",
+    "fullName": "jjdoor/dotdrift",
+    "description": "Catch .env / .env.example drift before it causes production bugs. Zero dependencies.",
+    "url": "https://github.com/jjdoor/dotdrift",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "devtools",
+      "dotenv",
+      "env",
+      "environment-variables",
+      "git-hook",
+      "nodejs",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "agentvet-action",
+    "fullName": "MukundaKatta/agentvet-action",
+    "description": "GitHub Action that lints LLM tool definitions (Anthropic / OpenAI / MCP shapes). Wraps @mukundakatta/agentvet.",
+    "url": "https://github.com/MukundaKatta/agentvet-action",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "agent-stack",
+      "agents",
+      "ai",
+      "anthropic",
+      "github-actions",
+      "llm",
+      "mcp",
+      "openai",
+      "reliability",
+      "tool-validation",
       "zero-dependency"
     ]
   },
@@ -18753,47 +18859,6 @@
       "idempotency",
       "retry",
       "sdk",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "dotdrift",
-    "fullName": "jjdoor/dotdrift",
-    "description": "Catch .env / .env.example drift before it causes production bugs. Zero dependencies.",
-    "url": "https://github.com/jjdoor/dotdrift",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "devtools",
-      "dotenv",
-      "env",
-      "environment-variables",
-      "git-hook",
-      "nodejs",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "agentvet-action",
-    "fullName": "MukundaKatta/agentvet-action",
-    "description": "GitHub Action that lints LLM tool definitions (Anthropic / OpenAI / MCP shapes). Wraps @mukundakatta/agentvet.",
-    "url": "https://github.com/MukundaKatta/agentvet-action",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "agent-stack",
-      "agents",
-      "ai",
-      "anthropic",
-      "github-actions",
-      "llm",
-      "mcp",
-      "openai",
-      "reliability",
-      "tool-validation",
       "zero-dependency"
     ]
   },
@@ -19607,22 +19672,6 @@
     ]
   },
   {
-    "name": "nativecn-ui",
-    "fullName": "muku534/nativecn-ui",
-    "description": "A curated registry of premium React Native UI components built for customization and performance. Unlike traditional libraries, nativecn-ui allows you to copy-paste code directly into your project, giving you full ownership with zero dependency bloat. Features TypeScript support, NativeWind styling, and smooth 60fps animations out of the box.",
-    "url": "https://github.com/muku534/nativecn-ui",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "components-library",
-      "mobile-development-kit",
-      "react-native",
-      "ui-library",
-      "zero-dependency"
-    ]
-  },
-  {
     "name": "gsc-cli",
     "fullName": "Casys-AI/gsc-cli",
     "description": "Zero-dependency Google Search Console CLI + library, built for agents. OAuth user flow, structured JSON, machine-readable errors.",
@@ -19639,6 +19688,25 @@
       "oauth",
       "search-console",
       "seo",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "scroll-timeline-builder",
+    "fullName": "css-scroll-driven/scroll-timeline-builder",
+    "description": "Visual builder for CSS scroll-driven animations — tune scroll()/view() timelines and ranges, preview live, export copy-paste CSS. Zero dependencies, no build step.",
+    "url": "https://github.com/css-scroll-driven/scroll-timeline-builder",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "animation-timeline",
+      "css",
+      "css-generator",
+      "frontend-tools",
+      "scroll-driven-animations",
+      "view-timeline",
+      "web-animations",
       "zero-dependency"
     ]
   },
@@ -19669,21 +19737,343 @@
     ]
   },
   {
-    "name": "scroll-timeline-builder",
-    "fullName": "css-scroll-driven/scroll-timeline-builder",
-    "description": "Visual builder for CSS scroll-driven animations — tune scroll()/view() timelines and ranges, preview live, export copy-paste CSS. Zero dependencies, no build step.",
-    "url": "https://github.com/css-scroll-driven/scroll-timeline-builder",
+    "name": "nativecn-ui",
+    "fullName": "muku534/nativecn-ui",
+    "description": "A curated registry of premium React Native UI components built for customization and performance. Unlike traditional libraries, nativecn-ui allows you to copy-paste code directly into your project, giving you full ownership with zero dependency bloat. Features TypeScript support, NativeWind styling, and smooth 60fps animations out of the box.",
+    "url": "https://github.com/muku534/nativecn-ui",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "components-library",
+      "mobile-development-kit",
+      "react-native",
+      "ui-library",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "hash-file-cli",
+    "fullName": "kszongic/hash-file-cli",
+    "description": "Hash files with MD5, SHA-1, SHA-256 and more from the command line.",
+    "url": "https://github.com/kszongic/hash-file-cli",
     "stars": 0,
     "ecosystem": "npm",
     "keywords": [
       "javascript",
-      "animation-timeline",
-      "css",
-      "css-generator",
-      "frontend-tools",
-      "scroll-driven-animations",
-      "view-timeline",
-      "web-animations",
+      "checksum",
+      "cli",
+      "hash",
+      "nodejs",
+      "sha256",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "json-fmt-cli",
+    "fullName": "kszongic/json-fmt-cli",
+    "description": "Format and pretty-print JSON from the command line.",
+    "url": "https://github.com/kszongic/json-fmt-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "formatter",
+      "json",
+      "nodejs",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "weighted-avg-cli",
+    "fullName": "kszongic/weighted-avg-cli",
+    "description": "Calculate weighted averages from the command line.",
+    "url": "https://github.com/kszongic/weighted-avg-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "math",
+      "nodejs",
+      "statistics",
+      "weighted-average",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "text-hash-cli",
+    "fullName": "kszongic/text-hash-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/text-hash-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "developer-tools",
+      "hash",
+      "nodejs",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "strip-trailing-ws-cli",
+    "fullName": "kszongic/strip-trailing-ws-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/strip-trailing-ws-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "code-quality",
+      "cross-platform",
+      "developer-tools",
+      "nodejs",
+      "trailing-whitespace",
+      "whitespace",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "ean-validate-cli",
+    "fullName": "kszongic/ean-validate-cli",
+    "description": "",
+    "url": "https://github.com/kszongic/ean-validate-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "barcode",
+      "cli",
+      "ean",
+      "nodejs",
+      "validation",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "sha1sum-cli",
+    "fullName": "kszongic/sha1sum-cli",
+    "description": "Calculate SHA-1 hashes from the terminal. Zero dependencies.",
+    "url": "https://github.com/kszongic/sha1sum-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "hash",
+      "nodejs",
+      "security",
+      "sha1",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "json-doctor",
+    "fullName": "yellcamap/json-doctor",
+    "description": "🩺 Fix broken JSON from LLMs, APIs, and humans. Zero dependencies. Repair, validate, diff, format, and convert JSON.",
+    "url": "https://github.com/yellcamap/json-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "chatgpt",
+      "claude",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "json",
+      "json-fixer",
+      "json-repair",
+      "json-validator",
+      "llm",
+      "malformed-json",
+      "nodejs",
+      "repair",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "date-parse-cli",
+    "fullName": "kszongic/date-parse-cli",
+    "description": "Parse and format dates from the terminal. Supports multiple formats.",
+    "url": "https://github.com/kszongic/date-parse-cli",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "cli",
+      "date",
+      "developer-tools",
+      "nodejs",
+      "parser",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-request-signing-doctor",
+    "fullName": "funnyhcat-dotcom/api-request-signing-doctor",
+    "description": "Audit API request-signing docs for algorithms, canonical requests, signed headers, payload hashes, replay protection, key rotation, verification errors, examples, SDKs, and monitoring.",
+    "url": "https://github.com/funnyhcat-dotcom/api-request-signing-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "documentation",
+      "hmac",
+      "request-signing",
+      "security",
+      "signature",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "api-error-taxonomy-doctor",
+    "fullName": "funnyhcat-dotcom/api-error-taxonomy-doctor",
+    "description": "Audit API error taxonomy docs for stable codes, HTTP mapping, response schema, retryability, validation details, auth errors, correlation IDs, redaction, examples, SDK handling, and ownership.",
+    "url": "https://github.com/funnyhcat-dotcom/api-error-taxonomy-doctor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "api",
+      "cli",
+      "documentation",
+      "errors",
+      "http",
+      "taxonomy",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "html-editor",
+    "fullName": "AmoryMing/html-editor",
+    "description": "HTML 编辑器 freeze-edit：本地可视化（WYSIWYG）编辑 AI 生成的 HTML 设计稿/PRD——动态稿一键冻结为静态、双击改字、跨文件复制卡片不丢样式、元素级评论、局域网多人共编、保存自动备份。零依赖两个文件。Local WYSIWYG editor for AI-generated HTML.",
+    "url": "https://github.com/AmoryMing/html-editor",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "ai",
+      "claude",
+      "claude-artifacts",
+      "collaboration",
+      "design-tools",
+      "html",
+      "html-editor",
+      "local-first",
+      "prd",
+      "visual-editor",
+      "wysiwyg",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "timefence",
+    "fullName": "trananhtung/timefence",
+    "description": "Put a time limit on any promise, with real AbortSignal cancellation and a composable deadline signal. Zero dependencies.",
+    "url": "https://github.com/trananhtung/timefence",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "abortsignal",
+      "async",
+      "cancel",
+      "deadline",
+      "p-timeout",
+      "promise",
+      "resilience",
+      "timeout",
+      "typescript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "smart-copy",
+    "fullName": "tsvirov/smart-copy",
+    "description": "Copy HTML tables and div-grid layouts as clean Markdown + semantic HTML instead of flat, unreadable text.",
+    "url": "https://github.com/tsvirov/smart-copy",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "clipboard",
+      "clipboard-api",
+      "copy-paste",
+      "dom",
+      "html-to-markdown",
+      "javascript",
+      "markdown",
+      "table",
+      "vanilla-javascript",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "p2p",
+    "fullName": "fire17/p2p",
+    "description": "Tiny zero-dependency P2P chat — one 26-char key, E2E-encrypted, MITM-proof first contact, NAT traversal, no coordinator server. https://p2p.akeyo.io",
+    "url": "https://github.com/fire17/p2p",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "chat",
+      "dht",
+      "e2e-encryption",
+      "nat-traversal",
+      "noise-protocol",
+      "p2p",
+      "serverless",
+      "webrtc",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "confer",
+    "fullName": "rohansx/confer",
+    "description": "Highlight text in local HTML docs and ask a headless Claude Code agent in your repo - code-grounded answers, doc edits, and an in-browser file finder.",
+    "url": "https://github.com/rohansx/confer",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "ai",
+      "ai-agent",
+      "annotation",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "documentation",
+      "llm",
+      "nodejs",
+      "zero-dependency"
+    ]
+  },
+  {
+    "name": "product-synonyms",
+    "fullName": "ArkeyWave/product-synonyms",
+    "description": "Pure, zero-dependency TypeScript helpers to parse, normalize, validate, and diff a product-synonym dictionary.",
+    "url": "https://github.com/ArkeyWave/product-synonyms",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "typescript",
+      "catalog",
+      "ecommerce",
+      "nlp",
+      "normalization",
+      "search",
+      "synonyms",
+      "typescript",
       "zero-dependency"
     ]
   },
@@ -20164,331 +20554,6 @@
       "slopsquatting",
       "supply-chain-security",
       "typosquatting",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "hash-file-cli",
-    "fullName": "kszongic/hash-file-cli",
-    "description": "Hash files with MD5, SHA-1, SHA-256 and more from the command line.",
-    "url": "https://github.com/kszongic/hash-file-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "checksum",
-      "cli",
-      "hash",
-      "nodejs",
-      "sha256",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "json-fmt-cli",
-    "fullName": "kszongic/json-fmt-cli",
-    "description": "Format and pretty-print JSON from the command line.",
-    "url": "https://github.com/kszongic/json-fmt-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "formatter",
-      "json",
-      "nodejs",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "weighted-avg-cli",
-    "fullName": "kszongic/weighted-avg-cli",
-    "description": "Calculate weighted averages from the command line.",
-    "url": "https://github.com/kszongic/weighted-avg-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "math",
-      "nodejs",
-      "statistics",
-      "weighted-average",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "text-hash-cli",
-    "fullName": "kszongic/text-hash-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/text-hash-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "developer-tools",
-      "hash",
-      "nodejs",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "strip-trailing-ws-cli",
-    "fullName": "kszongic/strip-trailing-ws-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/strip-trailing-ws-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "code-quality",
-      "cross-platform",
-      "developer-tools",
-      "nodejs",
-      "trailing-whitespace",
-      "whitespace",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "ean-validate-cli",
-    "fullName": "kszongic/ean-validate-cli",
-    "description": "",
-    "url": "https://github.com/kszongic/ean-validate-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "barcode",
-      "cli",
-      "ean",
-      "nodejs",
-      "validation",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "sha1sum-cli",
-    "fullName": "kszongic/sha1sum-cli",
-    "description": "Calculate SHA-1 hashes from the terminal. Zero dependencies.",
-    "url": "https://github.com/kszongic/sha1sum-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "hash",
-      "nodejs",
-      "security",
-      "sha1",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "json-doctor",
-    "fullName": "yellcamap/json-doctor",
-    "description": "🩺 Fix broken JSON from LLMs, APIs, and humans. Zero dependencies. Repair, validate, diff, format, and convert JSON.",
-    "url": "https://github.com/yellcamap/json-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "chatgpt",
-      "claude",
-      "cli",
-      "developer-tools",
-      "gpt",
-      "json",
-      "json-fixer",
-      "json-repair",
-      "json-validator",
-      "llm",
-      "malformed-json",
-      "nodejs",
-      "repair",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "date-parse-cli",
-    "fullName": "kszongic/date-parse-cli",
-    "description": "Parse and format dates from the terminal. Supports multiple formats.",
-    "url": "https://github.com/kszongic/date-parse-cli",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "cli",
-      "date",
-      "developer-tools",
-      "nodejs",
-      "parser",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-request-signing-doctor",
-    "fullName": "funnyhcat-dotcom/api-request-signing-doctor",
-    "description": "Audit API request-signing docs for algorithms, canonical requests, signed headers, payload hashes, replay protection, key rotation, verification errors, examples, SDKs, and monitoring.",
-    "url": "https://github.com/funnyhcat-dotcom/api-request-signing-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "documentation",
-      "hmac",
-      "request-signing",
-      "security",
-      "signature",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "api-error-taxonomy-doctor",
-    "fullName": "funnyhcat-dotcom/api-error-taxonomy-doctor",
-    "description": "Audit API error taxonomy docs for stable codes, HTTP mapping, response schema, retryability, validation details, auth errors, correlation IDs, redaction, examples, SDK handling, and ownership.",
-    "url": "https://github.com/funnyhcat-dotcom/api-error-taxonomy-doctor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "api",
-      "cli",
-      "documentation",
-      "errors",
-      "http",
-      "taxonomy",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "html-editor",
-    "fullName": "AmoryMing/html-editor",
-    "description": "HTML 编���器 freeze-edit：本地可视化（WYSIWYG）编辑 AI 生成的 HTML 设计稿/PRD——动态稿一键冻结为静态、双击改字、跨文件复制卡片不丢样式、元素级评论、局域网多人共编、保存自动备份。零依赖两个文件。Local WYSIWYG editor for AI-generated HTML.",
-    "url": "https://github.com/AmoryMing/html-editor",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "ai",
-      "claude",
-      "claude-artifacts",
-      "collaboration",
-      "design-tools",
-      "html",
-      "html-editor",
-      "local-first",
-      "prd",
-      "visual-editor",
-      "wysiwyg",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "timefence",
-    "fullName": "trananhtung/timefence",
-    "description": "Put a time limit on any promise, with real AbortSignal cancellation and a composable deadline signal. Zero dependencies.",
-    "url": "https://github.com/trananhtung/timefence",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "abortsignal",
-      "async",
-      "cancel",
-      "deadline",
-      "p-timeout",
-      "promise",
-      "resilience",
-      "timeout",
-      "typescript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "smart-copy",
-    "fullName": "tsvirov/smart-copy",
-    "description": "Copy HTML tables and div-grid layouts as clean Markdown + semantic HTML instead of flat, unreadable text.",
-    "url": "https://github.com/tsvirov/smart-copy",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "clipboard",
-      "clipboard-api",
-      "copy-paste",
-      "dom",
-      "html-to-markdown",
-      "javascript",
-      "markdown",
-      "table",
-      "vanilla-javascript",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "p2p",
-    "fullName": "fire17/p2p",
-    "description": "Tiny zero-dependency P2P chat — one 26-char key, E2E-encrypted, MITM-proof first contact, NAT traversal, no coordinator server. https://p2p.akeyo.io",
-    "url": "https://github.com/fire17/p2p",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "chat",
-      "dht",
-      "e2e-encryption",
-      "nat-traversal",
-      "noise-protocol",
-      "p2p",
-      "serverless",
-      "webrtc",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "confer",
-    "fullName": "rohansx/confer",
-    "description": "Highlight text in local HTML docs and ask a headless Claude Code agent in your repo - code-grounded answers, doc edits, and an in-browser file finder.",
-    "url": "https://github.com/rohansx/confer",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "ai",
-      "ai-agent",
-      "annotation",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "documentation",
-      "llm",
-      "nodejs",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "product-synonyms",
-    "fullName": "ArkeyWave/product-synonyms",
-    "description": "Pure, zero-dependency TypeScript helpers to parse, normalize, validate, and diff a product-synonym dictionary.",
-    "url": "https://github.com/ArkeyWave/product-synonyms",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "typescript",
-      "catalog",
-      "ecommerce",
-      "nlp",
-      "normalization",
-      "search",
-      "synonyms",
-      "typescript",
       "zero-dependency"
     ]
   },
@@ -21753,6 +21818,26 @@
     ]
   },
   {
+    "name": "Sentinel",
+    "fullName": "georgekimaninjoroge/Sentinel",
+    "description": "Zero-dependency browser JWT security. Vanilla JS + Web Crypto API.",
+    "url": "https://github.com/georgekimaninjoroge/Sentinel",
+    "stars": 0,
+    "ecosystem": "npm",
+    "keywords": [
+      "javascript",
+      "browser",
+      "indexeddb",
+      "javascript",
+      "jwt",
+      "security",
+      "service-worker",
+      "token-storage",
+      "web-crypto",
+      "zero-dependency"
+    ]
+  },
+  {
     "name": "skyhawk",
     "fullName": "xGhst0/skyhawk",
     "description": "Air-gapped, zero-dependency DFIR platform for blue teams. Capture findings, ingest host evidence, get copy-paste remediation, and produce signed incident reports, all offline on just Node.js.",
@@ -21774,26 +21859,6 @@
       "self-hosted",
       "soc",
       "threat-hunting",
-      "zero-dependency"
-    ]
-  },
-  {
-    "name": "Sentinel",
-    "fullName": "georgekimaninjoroge/Sentinel",
-    "description": "Zero-dependency browser JWT security. Vanilla JS + Web Crypto API.",
-    "url": "https://github.com/georgekimaninjoroge/Sentinel",
-    "stars": 0,
-    "ecosystem": "npm",
-    "keywords": [
-      "javascript",
-      "browser",
-      "indexeddb",
-      "javascript",
-      "jwt",
-      "security",
-      "service-worker",
-      "token-storage",
-      "web-crypto",
       "zero-dependency"
     ]
   },
@@ -23404,7 +23469,7 @@
     "stars": 0,
     "ecosystem": "npm",
     "keywords": [
-      "javascript",
+      "typescript",
       "browser",
       "bun",
       "deno",
