@@ -1292,12 +1292,29 @@ If you’d like to proudly display that your library is completely dependency-fr
 
 Copy and paste the Markdown code below into your project documentation:
 
-| Badge | Markdown code |
-| --- | --- |
-| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
-| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
-| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
-| ![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry) | `![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)` |
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+
+```markdown 
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+```
+
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+
+```markdown
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+```
+
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+
+```markdown
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=plastic&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+```
+
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+
+```markdown
+![Zero Dependency Badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
+```
 
 
 ---
