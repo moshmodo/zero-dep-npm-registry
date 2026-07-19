@@ -1,0 +1,57 @@
+name: 🛡️ Blacklist Request (False Positive)
+description: Report a repository that claims to be zero-dependency but actually has dependencies, or request a removal.
+title: "[Blacklist Request] "
+labels: ["blacklist-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep the zero-dependency registry clean! Please fill out the form below to add or remove a repository from the false-positive blacklist.
+
+  - type: dropdown
+    id: action_type
+    attributes:
+      label: Action Type
+      description: What do you want to do with this repository?
+      options:
+        - "Add to Blacklist (This repo HAS dependencies but uses the zero-dependency topic)"
+        - "Remove from Blacklist (This repo is now verified to have ZERO dependencies)"
+    validations:
+      required: true
+
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      description: Provide the full GitHub URL of the repository (e.g., https://github.com).
+      placeholder: https://github.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / Justification
+      description: Provide a link to the repository's last commit on package.json or any other evidence that shows it has dependencies or not.
+      placeholder: |
+        {
+          "name": "my-project",
+          "version": "1.0.0",
+          "type": "module",
+          "dependencies": {
+            "chalk": "^5.3.0",
+            "dotenv": "^16.4.5"
+          }
+        }
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Verification Checklist
+      options:
+        - label: I have verified that this repository targeted the "zero-dependency" topic.
+          required: true
+        - label: I understand that providing false information may result in my issue being closed.
+          required: true
