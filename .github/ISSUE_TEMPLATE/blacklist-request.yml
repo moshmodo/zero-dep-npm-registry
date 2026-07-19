@@ -24,7 +24,7 @@ body:
     attributes:
       label: Repository URL
       description: Provide the full GitHub URL of the repository (e.g., https://github.com).
-      placeholder: https://github.com
+      placeholder: https://github.com/<handle>/<repositoryName>
     validations:
       required: true
 
