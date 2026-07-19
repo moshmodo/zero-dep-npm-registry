@@ -1,6 +1,3 @@
-![Zero dependency badge](https://img.shields.io/badge/%F0%9F%92%9A%20Zero%20dependency-B6DBC1?style=flat&link=https%3A%2F%2Fgithub.com%2Fmoshmodo%2Fzero-dep-npm-registry)
-
-
 # 📦 Zero-Dependency NPM Registry
 
 > A curated index of npm packages with **zero dependencies** — lightweight, secure, and self-contained.
