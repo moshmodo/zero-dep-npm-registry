@@ -28,10 +28,10 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: evidence
     attributes:
-      label: Evidence / Justification
+      label: Commit URL
       description: Provide a link to the repository's last commit on package.json or any other evidence that shows it has dependencies or not.
       placeholder: https://github.com/<handle>/<repositoryName>/commit/<commitHash>
     validations:
