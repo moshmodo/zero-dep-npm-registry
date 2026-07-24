@@ -15,6 +15,10 @@
       "svg",
       "svg-chart",
       "zero-dependency"
+    ],
+    "npmName": [
+      "frappe-charts",
+      "milosptr-chartjs-vue"
     ]
   },
   {
@@ -35,6 +39,10 @@
       "router",
       "typescript",
       "zero-dependency"
+    ],
+    "npmName": [
+      "wouter",
+      "wouter-preact"
     ]
   },
   {
@@ -51,7 +59,8 @@
       "tweakpane",
       "tweaks",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tweakpane"
   },
   {
     "name": "jslint",
@@ -67,7 +76,8 @@
       "jslint",
       "zero-config",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@jslint-org/jslint"
   },
   {
     "name": "react-colorful",
@@ -91,6 +101,11 @@
       "tiny",
       "typescript-support",
       "zero-dependency"
+    ],
+    "npmName": [
+      "react-colorful",
+      "react-colorful-with-events",
+      "dragv-react-colorful"
     ]
   },
   {
@@ -122,6 +137,20 @@
       "vue",
       "vuejs",
       "zero-dependency"
+    ],
+    "npmName": [
+      "dockview-core",
+      "dockview",
+      "dockview-react",
+      "dockview-vue",
+      "dockview-angular",
+      "@samelie/dockview-core",
+      "@samelie/dockview",
+      "dockview-enterprise",
+      "@samelie/dockview-vue",
+      "@hieu_dq/dockview",
+      "@samelie/dockview-react",
+      "@hieu_dq/dockview-core"
     ]
   },
   {
@@ -150,6 +179,10 @@
       "tiny",
       "xyz",
       "zero-dependency"
+    ],
+    "npmName": [
+      "colord",
+      "@pixi/colord"
     ]
   },
   {
@@ -166,7 +199,8 @@
       "console",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "picocolors"
   },
   {
     "name": "hucre",
@@ -192,7 +226,8 @@
       "xlsx-parser",
       "xlsx-writer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "hucre"
   },
   {
     "name": "fireworks-js",
@@ -222,6 +257,17 @@
       "vue3",
       "web-components",
       "zero-dependency"
+    ],
+    "npmName": [
+      "fireworks-js",
+      "@fireworks-js/react",
+      "@fireworks-js/vue",
+      "@fireworks-js/preact",
+      "@fireworks-js/web",
+      "flogh-fireworks-js",
+      "@fireworks-js/svelte",
+      "@fireworks-js/solid",
+      "fireworks-cn"
     ]
   },
   {
@@ -253,7 +299,8 @@
       "unit-testing",
       "watch",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "poku"
   },
   {
     "name": "giant",
@@ -281,7 +328,8 @@
       "user-interface",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cloudflare-worker-jwt",
@@ -305,6 +353,10 @@
       "typescript",
       "zero-dependencies",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@tsndr/cloudflare-worker-jwt",
+      "closevector-crypto-jwt"
     ]
   },
   {
@@ -326,7 +378,8 @@
       "numpy-financial",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "financial"
   },
   {
     "name": "arcsecond",
@@ -342,7 +395,8 @@
       "parser",
       "parser-combinators",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "FableCut",
@@ -365,7 +419,8 @@
       "video-editing",
       "video-editor",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "etiket",
@@ -396,7 +451,8 @@
       "typescript",
       "upc",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "etiket"
   },
   {
     "name": "vanilla-back-to-top",
@@ -427,7 +483,8 @@
       "vanilla",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "vanilla-back-to-top"
   },
   {
     "name": "bar-of-progress",
@@ -442,7 +499,8 @@
       "progress-bar",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@badrap/bar-of-progress"
   },
   {
     "name": "unemail",
@@ -473,7 +531,8 @@
       "unemail",
       "unified-api",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "unemail"
   },
   {
     "name": "claude-pulse",
@@ -496,7 +555,8 @@
       "ntfy",
       "token-usage",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pure-http",
@@ -519,7 +579,8 @@
       "server",
       "webserver",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pure-http"
   },
   {
     "name": "consent-banner-js",
@@ -540,7 +601,8 @@
       "google-tag-manager",
       "no-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dataclass",
@@ -559,7 +621,8 @@
       "typescript",
       "value-object",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "dataclass"
   },
   {
     "name": "bonsai-js",
@@ -585,7 +648,8 @@
       "template-engine",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "bonsai-js"
   },
   {
     "name": "h5wasm",
@@ -603,6 +667,10 @@
       "wasm",
       "webassembly",
       "zero-dependency"
+    ],
+    "npmName": [
+      "h5wasm",
+      "h5wasmmath"
     ]
   },
   {
@@ -634,7 +702,8 @@
       "vite",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "react-apple-signin-auth"
   },
   {
     "name": "sumak",
@@ -658,7 +727,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "sumak"
   },
   {
     "name": "twallpaper",
@@ -682,6 +752,11 @@
       "typescript",
       "wallpaper",
       "zero-dependency"
+    ],
+    "npmName": [
+      "twallpaper",
+      "@twallpaper/react",
+      "@twallpaper/vue"
     ]
   },
   {
@@ -705,7 +780,8 @@
       "streaming",
       "web-search",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "float-labels.js",
@@ -719,7 +795,8 @@
       "floating-labels",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "float-labels.js"
   },
   {
     "name": "zero-crash",
@@ -750,7 +827,8 @@
       "unhandled-rejection",
       "whatsapp-bot",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Perspective",
@@ -769,7 +847,8 @@
       "tilt-effect",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "meeko",
@@ -792,7 +871,8 @@
       "snowflake",
       "statistics",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "meeko"
   },
   {
     "name": "pwa-install",
@@ -823,7 +903,8 @@
       "webapk",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "node-bring-api",
@@ -839,7 +920,8 @@
       "shopping-list",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "bring-shopping"
   },
   {
     "name": "plandeck",
@@ -870,7 +952,8 @@
       "task-board",
       "task-management",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "get-ssl-certificate",
@@ -887,7 +970,8 @@
       "ssl-certificate",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "get-ssl-certificate"
   },
   {
     "name": "prpl",
@@ -908,7 +992,8 @@
       "static-site-generator",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "html-visual-editor",
@@ -926,7 +1011,8 @@
       "visual-editor",
       "wysiwyg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lite-fifo",
@@ -943,7 +1029,8 @@
       "lightweight",
       "queue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "lite-fifo"
   },
   {
     "name": "terlik.js",
@@ -974,7 +1061,8 @@
       "typescript",
       "word-filter",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "terlik.js"
   },
   {
     "name": "contro",
@@ -992,7 +1080,8 @@
       "keyboard",
       "mouse",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lru.min",
@@ -1013,7 +1102,8 @@
       "lru-cache",
       "lrucache",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "lru.min"
   },
   {
     "name": "portakal",
@@ -1044,7 +1134,8 @@
       "typescript",
       "zero-dependency",
       "zpl"
-    ]
+    ],
+    "npmName": "portakal"
   },
   {
     "name": "srpc",
@@ -1060,7 +1151,8 @@
       "python",
       "rpc",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hydrate-text",
@@ -1078,7 +1170,8 @@
       "tree-shakable",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "hydrate-text"
   },
   {
     "name": "http-node-api",
@@ -1098,7 +1191,8 @@
       "node",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "headless-combobox",
@@ -1117,7 +1211,8 @@
       "headless-ui",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "headless-combobox"
   },
   {
     "name": "jsonhilo",
@@ -1147,7 +1242,8 @@
       "streaming",
       "ultra-fast",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@xtao-org/jsonhilo"
   },
   {
     "name": "md-lite-js",
@@ -1170,7 +1266,8 @@
       "server-side",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@croct/md-lite"
   },
   {
     "name": "lobsterjs",
@@ -1191,7 +1288,8 @@
       "static-site",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "microgpt-ts",
@@ -1208,7 +1306,8 @@
       "microgpt",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "biggest",
@@ -1228,7 +1327,8 @@
       "number",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tapzero",
@@ -1247,7 +1347,8 @@
       "testanythingprotocol",
       "testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@socketsupply/tapzero"
   },
   {
     "name": "terrario",
@@ -1268,7 +1369,8 @@
       "scannerless",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "detector-js",
@@ -1299,7 +1401,8 @@
       "useragent-parser",
       "yarn",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "detector-js"
   },
   {
     "name": "ARE",
@@ -1321,7 +1424,8 @@
       "unity",
       "workflow",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tyrell",
@@ -1338,6 +1442,10 @@
       "react",
       "webcomponents",
       "zero-dependency"
+    ],
+    "npmName": [
+      "tyrell-components",
+      "tyrell-react"
     ]
   },
   {
@@ -1369,7 +1477,8 @@
       "vue",
       "zendesk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ahize"
   },
   {
     "name": "WebWebWeb",
@@ -1400,7 +1509,8 @@
       "static-website",
       "webserver",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "webwebweb"
   },
   {
     "name": "leseq",
@@ -1420,7 +1530,8 @@
       "tree-shakable",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "leseq"
   },
   {
     "name": "srvs",
@@ -1436,7 +1547,8 @@
       "modules",
       "server",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "srvs"
   },
   {
     "name": "AB-Audio-Player",
@@ -1454,7 +1566,8 @@
       "html5-audio-player",
       "no-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "seslen",
@@ -1485,7 +1598,8 @@
       "web-audio",
       "webaudio",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "seslen"
   },
   {
     "name": "keewebx",
@@ -1516,7 +1630,8 @@
       "webauthn-prf",
       "webcrypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "react-headless-carousel",
@@ -1536,7 +1651,8 @@
       "snapping",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@daformat/react-headless-carousel"
   },
   {
     "name": "unblind",
@@ -1557,7 +1673,8 @@
       "self-healing",
       "vision",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "xls-reader",
@@ -1581,7 +1698,8 @@
       "xls",
       "xls-parser",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "xls-reader"
   },
   {
     "name": "env-smart",
@@ -1611,7 +1729,8 @@
       "types",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "env-smart"
   },
   {
     "name": "springtype",
@@ -1640,6 +1759,14 @@
       "web",
       "websites",
       "zero-dependency"
+    ],
+    "npmName": [
+      "st-cp",
+      "st-rm-rf",
+      "st-mkdir",
+      "springtype",
+      "st-run",
+      "st-bundle"
     ]
   },
   {
@@ -1662,7 +1789,8 @@
       "template-engine",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "skalex",
@@ -1688,6 +1816,10 @@
       "typescript",
       "vector-search",
       "zero-dependency"
+    ],
+    "npmName": [
+      "skalex",
+      "@iflow-mcp/tarekraafat-skalex"
     ]
   },
   {
@@ -1719,7 +1851,8 @@
       "webgpu",
       "wgsl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Physics-Toast",
@@ -1743,7 +1876,8 @@
       "ui-components",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ws",
@@ -1773,7 +1907,8 @@
       "ws",
       "ws-alternative",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "job-ripper",
@@ -1798,7 +1933,8 @@
       "thread-pool",
       "worker-threads",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "job-ripper"
   },
   {
     "name": "titef",
@@ -1818,7 +1954,8 @@
       "small",
       "test",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "titef"
   },
   {
     "name": "flare-redact",
@@ -1849,7 +1986,8 @@
       "security",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flare-redact"
   },
   {
     "name": "react-swipeable-cards",
@@ -1869,7 +2007,8 @@
       "tinder",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@daformat/react-swipeable-cards"
   },
   {
     "name": "gm-compat",
@@ -1893,7 +2032,8 @@
       "userscripts",
       "violentmonkey",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "yay-machine",
@@ -1910,7 +2050,8 @@
       "state-machines",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "yay-machine"
   },
   {
     "name": "srcset-parse",
@@ -1926,7 +2067,8 @@
       "responsive-images",
       "srcset",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zero-dependency",
@@ -1946,7 +2088,8 @@
       "utilities",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tinyDrawer.js",
@@ -1971,7 +2114,8 @@
       "vanilla-javascript",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uri",
@@ -2002,7 +2146,8 @@
       "uri",
       "url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tiny-jest",
@@ -2021,7 +2166,8 @@
       "testing",
       "tiny",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "quikdown",
@@ -2050,7 +2196,8 @@
       "rich-markdown-editor",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "quikdown"
   },
   {
     "name": "connector-sdk",
@@ -2073,7 +2220,8 @@
       "typescript",
       "typescript-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@oomol-lab/connector"
   },
   {
     "name": "naming-conventions-modeler",
@@ -2088,7 +2236,8 @@
       "naming-conventions",
       "proxy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "naming-conventions-modeler"
   },
   {
     "name": "virtual-gamepad-lib",
@@ -2105,7 +2254,8 @@
       "gamepad-viewer",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "virtual-gamepad-lib"
   },
   {
     "name": "react-instastories",
@@ -2135,6 +2285,11 @@
       "ui",
       "web",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@react-instastories/base",
+      "@react-instastories/presets",
+      "@react-instastories/external"
     ]
   },
   {
@@ -2159,7 +2314,8 @@
       "typescript",
       "virastack",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lingo",
@@ -2181,7 +2337,8 @@
       "typescript",
       "units",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@pascal-app/lingo"
   },
   {
     "name": "gm-storage",
@@ -2203,7 +2360,8 @@
       "violentmonkey",
       "wrapper",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "gm-storage"
   },
   {
     "name": "FsBrowserSide",
@@ -2225,7 +2383,8 @@
       "mangement-system",
       "nodejs-like-fs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fs-browser-side"
   },
   {
     "name": "jsonc.min",
@@ -2246,7 +2405,8 @@
       "parser",
       "stringify",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "jsonc.min"
   },
   {
     "name": "MermZen",
@@ -2268,7 +2428,8 @@
       "static-site",
       "svg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "date-light",
@@ -2287,7 +2448,8 @@
       "lightweight",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "date-light"
   },
   {
     "name": "hyperfrontend",
@@ -2310,6 +2472,27 @@
       "postmessage",
       "tcp",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@hyperfrontend/project-scope",
+      "@hyperfrontend/versioning",
+      "@hyperfrontend/logging",
+      "@hyperfrontend/string-utils",
+      "@hyperfrontend/builder",
+      "@hyperfrontend/nexus",
+      "@hyperfrontend/immutable-api-utils",
+      "@hyperfrontend/features",
+      "@hyperfrontend/time-utils",
+      "@hyperfrontend/ui-utils",
+      "@hyperfrontend/cryptography",
+      "@hyperfrontend/function-utils",
+      "@hyperfrontend/questions",
+      "@hyperfrontend/data-utils",
+      "@hyperfrontend/random-generator-utils",
+      "@hyperfrontend/state-machine",
+      "@hyperfrontend/network-protocol",
+      "@hyperfrontend/json-utils",
+      "@hyperfrontend/list-utils"
     ]
   },
   {
@@ -2335,7 +2518,8 @@
       "s3",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "radosgw-admin"
   },
   {
     "name": "flexily",
@@ -2359,7 +2543,8 @@
       "yoga",
       "yoga-alternative",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flexily"
   },
   {
     "name": "business-hours",
@@ -2374,7 +2559,8 @@
       "datetime",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "repair-json-stream",
@@ -2403,7 +2589,8 @@
       "streaming-data",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "repair-json-stream"
   },
   {
     "name": "lilac",
@@ -2426,6 +2613,10 @@
       "wysiwyg-js-editor",
       "wysiwyg-ts-editor",
       "zero-dependency"
+    ],
+    "npmName": [
+      "lilac-editor",
+      "@lilac-wysiwyg/core"
     ]
   },
   {
@@ -2456,7 +2647,8 @@
       "preview-environment",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "saborter",
@@ -2486,7 +2678,8 @@
       "typescript",
       "typescript-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "saborter"
   },
   {
     "name": "string-builder",
@@ -2512,7 +2705,8 @@
       "template-strings",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "string-builder"
   },
   {
     "name": "mycal",
@@ -2536,7 +2730,8 @@
       "typescript",
       "watat",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mycal"
   },
   {
     "name": "sChart",
@@ -2556,7 +2751,8 @@
       "tslint",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sans-schema",
@@ -2575,7 +2771,8 @@
       "single-source-of-truth",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "csv-pipe",
@@ -2601,7 +2798,8 @@
       "stringify",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "csv-pipe"
   },
   {
     "name": "femtocolors",
@@ -2618,7 +2816,8 @@
       "styletext",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "femtocolors"
   },
   {
     "name": "model-picker",
@@ -2633,7 +2832,8 @@
       "model-picker",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jsjs",
@@ -2649,7 +2849,8 @@
       "typescript",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "traefikjam",
@@ -2680,7 +2881,8 @@
       "traefik-docker",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "traefikjam"
   },
   {
     "name": "quickwind",
@@ -2697,7 +2899,8 @@
       "tailwindcss",
       "utility-classes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "extreme-router",
@@ -2716,7 +2919,8 @@
       "typescript",
       "universal-router",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "extreme-router"
   },
   {
     "name": "bitwrench",
@@ -2743,7 +2947,8 @@
       "vuejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "bitwrench"
   },
   {
     "name": "node-file-upload",
@@ -2758,7 +2963,8 @@
       "file-uploader",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "packmar.js",
@@ -2777,7 +2983,8 @@
       "virtual-dom",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "convert-bech32-address",
@@ -2797,7 +3004,8 @@
       "nodejs",
       "wallets-management",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "is-fast-internet",
@@ -2817,7 +3025,8 @@
       "network-information-api",
       "npm-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "is-fast-internet"
   },
   {
     "name": "fast-pixelizer",
@@ -2838,7 +3047,8 @@
       "quantization",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fast-pixelizer"
   },
   {
     "name": "oh-my-fable",
@@ -2869,7 +3079,8 @@
       "self-correcting",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "oh-my-fable"
   },
   {
     "name": "simple-builder",
@@ -2894,7 +3105,8 @@
       "tagged-templates",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "get-wild",
@@ -2924,7 +3136,8 @@
       "wildcard",
       "wildcards",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "get-wild"
   },
   {
     "name": "date-range-picker",
@@ -2939,7 +3152,8 @@
       "range-picker",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "patch-files",
@@ -2960,7 +3174,8 @@
       "patch",
       "patch-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "waffle-chart",
@@ -2980,7 +3195,8 @@
       "vitest",
       "waffle-charts",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "waffle-chart"
   },
   {
     "name": "acmejs",
@@ -2998,7 +3214,8 @@
       "nodejs",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "the-finger",
@@ -3017,7 +3234,8 @@
       "touch",
       "touchscreen",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "the-finger"
   },
   {
     "name": "simple-liquid-glass",
@@ -3048,7 +3266,8 @@
       "ui-components",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "simple-liquid-glass"
   },
   {
     "name": "zephyr-events",
@@ -3079,7 +3298,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "semola",
@@ -3106,7 +3326,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "semola"
   },
   {
     "name": "web-card-game-skill",
@@ -3125,7 +3346,8 @@
       "tcg",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kanji-data",
@@ -3148,7 +3370,8 @@
       "offline-first",
       "serverless",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "kanji-data"
   },
   {
     "name": "cc-hud",
@@ -3174,7 +3397,8 @@
       "terminal",
       "windows",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "puremock",
@@ -3189,7 +3413,8 @@
       "nodejs",
       "rest-api",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "puremock"
   },
   {
     "name": "vally",
@@ -3206,7 +3431,8 @@
       "functional",
       "html",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "vally"
   },
   {
     "name": "seq",
@@ -3221,7 +3447,8 @@
       "javascript",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@njlr/seq"
   },
   {
     "name": "dominate-color-js",
@@ -3240,7 +3467,8 @@
       "pnpm",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@dominate-color.js/core"
   },
   {
     "name": "cyber-toast-js",
@@ -3262,7 +3490,8 @@
       "ui-component",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pw-punch",
@@ -3291,7 +3520,8 @@
       "vercel",
       "webcrypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "camel-keys",
@@ -3309,7 +3539,8 @@
       "object-keys",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "camel-keys"
   },
   {
     "name": "Compleet",
@@ -3324,7 +3555,8 @@
       "html-input",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ajs",
@@ -3341,7 +3573,8 @@
       "utility",
       "utility-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "xajs"
   },
   {
     "name": "get-video-resolution",
@@ -3371,7 +3604,8 @@
       "video-metadata",
       "webm",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@oscnord/get-video-resolution"
   },
   {
     "name": "waze-api",
@@ -3391,7 +3625,8 @@
       "traffic",
       "waze",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "waze-api"
   },
   {
     "name": "gladknee",
@@ -3405,7 +3640,8 @@
       "typescript",
       "utility-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "gladknee"
   },
   {
     "name": "type-fetch",
@@ -3420,7 +3656,8 @@
       "javascript",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "AkadeniaHelpers",
@@ -3442,7 +3679,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@akadenia/helpers"
   },
   {
     "name": "tiny-future",
@@ -3463,7 +3701,8 @@
       "tiny",
       "withresolvers",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tiny-future"
   },
   {
     "name": "pcall.js",
@@ -3493,7 +3732,8 @@
       "wrapper",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pcall.js"
   },
   {
     "name": "mind-gym",
@@ -3520,7 +3760,8 @@
       "vanilla-javascript",
       "working-memory",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tg-rich-messages",
@@ -3548,7 +3789,8 @@
       "ts",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "logstrip",
@@ -3572,7 +3814,8 @@
       "logs",
       "token-reduction",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "logstrip"
   },
   {
     "name": "hermitstash",
@@ -3603,7 +3846,8 @@
       "xchacha20",
       "zero-dependency",
       "zero-knowledge"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sigmap-vscode",
@@ -3626,7 +3870,8 @@
       "vscode-extension",
       "windsurf",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Cache",
@@ -3643,7 +3888,8 @@
       "simple",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "turing-machine-js",
@@ -3672,6 +3918,13 @@
       "typescript",
       "visualization",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@turing-machine-js/machine",
+      "@turing-machine-js/library-binary-numbers",
+      "@turing-machine-js/library-binary-numbers-bare",
+      "@turing-machine-js/builder",
+      "@turing-machine-js/visuals"
     ]
   },
   {
@@ -3699,7 +3952,8 @@
       "wait-for-element",
       "watch-element",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@untemps/dom-observer"
   },
   {
     "name": "totp",
@@ -3716,7 +3970,8 @@
       "time-based",
       "time-based-otp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "consoleload",
@@ -3733,7 +3988,8 @@
       "npm",
       "ts",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "consoleload"
   },
   {
     "name": "picosm",
@@ -3754,7 +4010,8 @@
       "state-manager",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "picosm"
   },
   {
     "name": "inject.min",
@@ -3780,7 +4037,8 @@
       "typescript-di",
       "typescript-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "inject.min"
   },
   {
     "name": "just-color-it",
@@ -3796,7 +4054,8 @@
       "nodejs",
       "terminal-colors",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lacis",
@@ -3820,7 +4079,8 @@
       "web",
       "webframework",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "lacis"
   },
   {
     "name": "xsukax-JS-CAPTCHA",
@@ -3851,7 +4111,8 @@
       "visual-challenge",
       "xsukax-captcha",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Telesense",
@@ -3874,7 +4135,8 @@
       "tracking",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "telesense"
   },
   {
     "name": "knowledge-as-code-template",
@@ -3900,7 +4162,8 @@
       "structured-data",
       "template",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ocm",
@@ -3917,7 +4180,8 @@
       "nodejs",
       "openclaw",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "moqt-js",
@@ -3930,7 +4194,8 @@
       "typescript",
       "webtransport",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "moqt-js"
   },
   {
     "name": "Baka-Search",
@@ -3948,7 +4213,8 @@
       "search-library",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "classify-filename",
@@ -3966,7 +4232,8 @@
       "sorting",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "classify-filename"
   },
   {
     "name": "llm-wiki-governance",
@@ -3995,7 +4262,8 @@
       "model-context-protocol",
       "okf",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "llm-wiki-governance"
   },
   {
     "name": "svelte-idb",
@@ -4016,7 +4284,8 @@
       "svelte-5",
       "sveltekit",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "svelte-idb"
   },
   {
     "name": "meadown-logger",
@@ -4036,7 +4305,8 @@
       "nodejs",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@meadown/logger"
   },
   {
     "name": "life-battle",
@@ -4055,7 +4325,8 @@
       "simulation",
       "web-game",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "svelte-adapter-bun",
@@ -4074,7 +4345,8 @@
       "sveltekit",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vanilla-tabs",
@@ -4090,7 +4362,8 @@
       "uri-fragments",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "autoresize",
@@ -4106,7 +4379,8 @@
       "performance",
       "textarea",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "autoresize"
   },
   {
     "name": "micro-loops",
@@ -4125,7 +4399,8 @@
       "map",
       "small",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "go-qweb",
@@ -4141,7 +4416,8 @@
       "go",
       "golang",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "base32",
@@ -4157,7 +4433,8 @@
       "encoder",
       "rfc-3548",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "neural-network-race",
@@ -4174,7 +4451,8 @@
       "neural-network",
       "physics-engine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "oscillation",
@@ -4188,7 +4466,8 @@
       "animation",
       "spring-animation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "oscillation"
   },
   {
     "name": "NativeDB",
@@ -4208,7 +4487,8 @@
       "storage",
       "store",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vegot",
@@ -4222,7 +4502,8 @@
       "http-client",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "vegot"
   },
   {
     "name": "fetcher",
@@ -4239,7 +4520,8 @@
       "typescript",
       "wrapper",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "telebunny",
@@ -4255,7 +4537,8 @@
       "telegram-bot-api",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Two-Go",
@@ -4286,7 +4569,8 @@
       "test-automation",
       "testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "invoice",
@@ -4303,7 +4587,8 @@
       "javascript",
       "pdf",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ESCSS-ESTest",
@@ -4320,7 +4605,8 @@
       "typescript",
       "zero-dependency",
       "zod"
-    ]
+    ],
+    "npmName": "escss-estest"
   },
   {
     "name": "dollar-shell",
@@ -4351,7 +4637,8 @@
       "typescript",
       "web-streams",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "dollar-shell"
   },
   {
     "name": "privacy-friendly-iframe",
@@ -4373,7 +4660,8 @@
       "vanilla-javascript",
       "vuejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "stacklyn",
@@ -4391,7 +4679,8 @@
       "stacklyn",
       "stacktrace",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "stacklyn"
   },
   {
     "name": "afetch",
@@ -4421,7 +4710,8 @@
       "vanilla-js",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nodeflow",
@@ -4441,7 +4731,8 @@
       "ui",
       "visual-programming",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ethers-tools",
@@ -4468,7 +4759,8 @@
       "typescript",
       "web3",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "CcGlanceLine",
@@ -4491,7 +4783,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@cxmyu/ccglance"
   },
   {
     "name": "ForgeSelect",
@@ -4522,6 +4815,11 @@
       "vanilla-js",
       "virtual-scroll",
       "zero-dependency"
+    ],
+    "npmName": [
+      "forge-select",
+      "forge-select-vue",
+      "forge-select-react"
     ]
   },
   {
@@ -4546,7 +4844,8 @@
       "typescript",
       "vite",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "next-safe-env"
   },
   {
     "name": "better-seo-js",
@@ -4571,7 +4870,8 @@
       "structured-data",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "friskeval",
@@ -4589,7 +4889,8 @@
       "security",
       "skills",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shadowbuster",
@@ -4609,7 +4910,8 @@
       "redaction",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "shadowbuster"
   },
   {
     "name": "safeaccess-inline-js",
@@ -4635,7 +4937,8 @@
       "xml",
       "yaml",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ahmad-awais-deepseek-v4-toolrepair",
@@ -4655,7 +4958,8 @@
       "repair",
       "tool-calling",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hedron-contrast-checker",
@@ -4679,7 +4983,8 @@
       "wcag2",
       "web-accessibility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "handa360",
@@ -4704,7 +5009,8 @@
       "static-site",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "better-logger",
@@ -4734,7 +5040,8 @@
       "tracing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@better-logger/core"
   },
   {
     "name": "safeaccess-inline",
@@ -4760,7 +5067,8 @@
       "xml",
       "yaml",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@safeaccess/inline"
   },
   {
     "name": "forgekit",
@@ -4790,7 +5098,8 @@
       "memory",
       "team-memory",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@codewithjuber/forgekit"
   },
   {
     "name": "react-pulsor",
@@ -4819,7 +5128,8 @@
       "typescript",
       "ui-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "react-pulsor"
   },
   {
     "name": "slidewright",
@@ -4836,7 +5146,8 @@
       "presentations",
       "slides",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "grahan",
@@ -4859,6 +5170,11 @@
       "typescript",
       "vedic-astrology",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@grahan/core",
+      "@grahan/vedic",
+      "@grahan/calendars"
     ]
   },
   {
@@ -4877,7 +5193,8 @@
       "state-management",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "archlang",
@@ -4908,6 +5225,10 @@
       "text-to-diagram",
       "typescript",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@chanmeng666/archlang",
+      "@chanmeng666/archlang-mcp"
     ]
   },
   {
@@ -4929,7 +5250,8 @@
       "svg",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "cybercore-charts"
   },
   {
     "name": "tool-use-guardian",
@@ -4946,7 +5268,8 @@
       "reliability",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "aseq",
@@ -4962,7 +5285,8 @@
       "javascript",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lognana",
@@ -4977,7 +5301,8 @@
       "javascript",
       "log",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tape-six",
@@ -5005,7 +5330,8 @@
       "typescript",
       "unit-test",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tape-six"
   },
   {
     "name": "pigmentjs",
@@ -5022,7 +5348,8 @@
       "hsl",
       "pigment",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pigmentjs"
   },
   {
     "name": "utilist",
@@ -5043,7 +5370,8 @@
       "utility",
       "utils",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "utilist"
   },
   {
     "name": "humidi",
@@ -5059,7 +5387,8 @@
       "webmidi-api",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "humidi"
   },
   {
     "name": "wog",
@@ -5079,7 +5408,8 @@
       "nodejs",
       "zalgo",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "wog"
   },
   {
     "name": "cookie",
@@ -5097,7 +5427,8 @@
       "package",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "stackable-bar-chart",
@@ -5116,7 +5447,8 @@
       "vite",
       "vitest",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dom",
@@ -5134,7 +5466,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ml-basic",
@@ -5158,7 +5491,8 @@
       "npm",
       "recurrent",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "emitter",
@@ -5176,7 +5510,8 @@
       "package",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "orchard",
@@ -5191,7 +5526,8 @@
       "typescript",
       "utils",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "inertial",
@@ -5205,7 +5541,8 @@
       "observable",
       "reactive-signal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "inertial"
   },
   {
     "name": "little-es",
@@ -5221,7 +5558,8 @@
       "eventsourcing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "meta-toolkit",
@@ -5250,7 +5588,8 @@
       "toolkit",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "theway",
@@ -5272,7 +5611,8 @@
       "vanilla-js",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "theway"
   },
   {
     "name": "libseymour",
@@ -5296,7 +5636,8 @@
       "typescript-library",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "libseymour"
   },
   {
     "name": "superbstring",
@@ -5317,7 +5658,8 @@
       "typescript",
       "utility-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "superbstring"
   },
   {
     "name": "sqlrite",
@@ -5337,7 +5679,8 @@
       "sqlite",
       "wal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@possumtech/sqlrite"
   },
   {
     "name": "react-registry",
@@ -5357,7 +5700,8 @@
       "typescript",
       "ui-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-retry-backoff",
@@ -5384,7 +5728,8 @@
       "timeout",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@variablesoftware/ts-retry-backoff"
   },
   {
     "name": "typed-env-safe",
@@ -5405,7 +5750,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mep",
@@ -5426,7 +5772,8 @@
       "prompts",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mepcli"
   },
   {
     "name": "randomcryp",
@@ -5456,7 +5803,8 @@
       "web",
       "web-crypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "randomcryp"
   },
   {
     "name": "marzipan",
@@ -5485,7 +5833,8 @@
       "wysiwyg",
       "wysiwyg-editor",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@pinkpixel/marzipan"
   },
   {
     "name": "i18m",
@@ -5507,7 +5856,8 @@
       "type-safety",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pintor",
@@ -5526,7 +5876,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pintor"
   },
   {
     "name": "Demo_lightweight-expression-detector",
@@ -5547,7 +5898,8 @@
       "npm-package",
       "real-time",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Jsonary",
@@ -5577,7 +5929,8 @@
       "sql-like",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@neabyte/jsonary"
   },
   {
     "name": "drama-forge",
@@ -5593,7 +5946,8 @@
       "nodejs",
       "short-video",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "llm-extract",
@@ -5613,7 +5967,8 @@
       "markdown",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cnaddr",
@@ -5639,7 +5994,8 @@
       "parser",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "chatlint",
@@ -5660,7 +6016,8 @@
       "tool-calling",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "entropy",
@@ -5677,7 +6034,8 @@
       "randomness",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "reasonsplit",
@@ -5698,7 +6056,8 @@
       "reasoning",
       "thinking",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "WildflowerJS",
@@ -5729,7 +6088,8 @@
       "vanilla-javascript",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "wildflowerjs"
   },
   {
     "name": "marquee",
@@ -5748,7 +6108,8 @@
       "marquee",
       "split-flap",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "regex-to-gbnf",
@@ -5769,7 +6130,8 @@
       "regex",
       "structured-output",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "graviton",
@@ -5793,7 +6155,8 @@
       "typescript",
       "vector-embeddings",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sse-lens",
@@ -5814,7 +6177,8 @@
       "streaming",
       "tool-calls",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "piggy-console",
@@ -5832,7 +6196,8 @@
       "python",
       "self-hosted",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "quote-guard",
@@ -5853,7 +6218,8 @@
       "nodejs",
       "rag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mimic-data",
@@ -5880,7 +6246,8 @@
       "testing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@fazelstudio/mimic-data"
   },
   {
     "name": "claude-statusline",
@@ -5898,7 +6265,8 @@
       "statusline",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "huebrew",
@@ -5919,7 +6287,8 @@
       "tailwind-colors",
       "theme-generator",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "huebrew"
   },
   {
     "name": "staticshield",
@@ -5947,7 +6316,8 @@
       "web-gui",
       "webcrypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vibecheck",
@@ -5972,7 +6342,8 @@
       "typescript",
       "vibe-coding",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@arisrhiannon/vibecheck"
   },
   {
     "name": "NowClipboard",
@@ -5990,7 +6361,8 @@
       "nodejs",
       "paste",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nowclipboard"
   },
   {
     "name": "nostr-attestations",
@@ -6012,7 +6384,8 @@
       "typescript",
       "verification",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nostr-attestations"
   },
   {
     "name": "pulse-js-framework",
@@ -6041,7 +6414,8 @@
       "stylus",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pulse-js-framework"
   },
   {
     "name": "safi-image",
@@ -6068,7 +6442,8 @@
       "wasm",
       "webp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "safi-image"
   },
   {
     "name": "artifact-organizer",
@@ -6089,7 +6464,8 @@
       "self-contained-html",
       "themes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "flowshield",
@@ -6112,7 +6488,8 @@
       "retry",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flowshield"
   },
   {
     "name": "static-markdown-blog",
@@ -6128,7 +6505,8 @@
       "static-blog",
       "themes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "happy-codec",
@@ -6159,7 +6537,8 @@
       "utf-8",
       "utf8",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "happy-codec"
   },
   {
     "name": "ts-barcodes",
@@ -6184,7 +6563,8 @@
       "typescript",
       "upc",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@ashaffah/barcodes"
   },
   {
     "name": "model-to-webgpu",
@@ -6205,7 +6585,8 @@
       "webgpu-ml",
       "wgsl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "inject-radar",
@@ -6226,7 +6607,8 @@
       "prompt-injection",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "community-signal-radar-local",
@@ -6250,7 +6632,8 @@
       "social-listening",
       "telegram",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kilid",
@@ -6271,7 +6654,8 @@
       "tree-shaking",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@farskid/kilid"
   },
   {
     "name": "sigiljs",
@@ -6299,6 +6683,10 @@
       "validation",
       "zero-dependencies",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@weipertda/sigiljs",
+      "@antistructured/sigiljs"
     ]
   },
   {
@@ -6320,7 +6708,8 @@
       "typescript",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "behavioralai",
@@ -6351,7 +6740,8 @@
       "statistics",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/behavioralai"
   },
   {
     "name": "mcpcustoms",
@@ -6382,7 +6772,8 @@
       "tool-poisoning",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/mcpcustoms"
   },
   {
     "name": "zpi-sdk",
@@ -6403,7 +6794,8 @@
       "web-scraping",
       "zapi",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "zpi-sdk"
   },
   {
     "name": "conductor",
@@ -6422,7 +6814,8 @@
       "mcp-server",
       "tmux",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "truss",
@@ -6450,7 +6843,8 @@
       "vibecoding",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "claude-forge",
@@ -6479,7 +6873,8 @@
       "nodejs",
       "workflow-automation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zeshim",
@@ -6502,7 +6897,8 @@
       "shim",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "finance-tracker",
@@ -6523,7 +6919,8 @@
       "simplefin",
       "sqlite",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "codebot-ai",
@@ -6549,7 +6946,8 @@
       "refactoring",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "codebot-ai"
   },
   {
     "name": "slopscore",
@@ -6577,7 +6975,8 @@
       "static-analysis",
       "vibe-coding",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "slopscore"
   },
   {
     "name": "Buncord-Transcript",
@@ -6596,7 +6995,8 @@
       "transcript",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "buncord-transcript"
   },
   {
     "name": "krikos",
@@ -6627,7 +7027,8 @@
       "non-human-identity",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/krikos"
   },
   {
     "name": "supply-chain-scan",
@@ -6655,7 +7056,8 @@
       "supply-chain-security",
       "vulnerability-scanner",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ai-output-runtime",
@@ -6685,7 +7087,8 @@
       "safe-rendering",
       "structured-output",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "racs",
@@ -6716,7 +7119,8 @@
       "typescript",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/racs"
   },
   {
     "name": "inkflow-editor",
@@ -6734,7 +7138,8 @@
       "vanilla-js",
       "wysiwyg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "depsift",
@@ -6755,7 +7160,8 @@
       "supply-chain",
       "vulnerabilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "depsift"
   },
   {
     "name": "chatfmt",
@@ -6776,7 +7182,8 @@
       "openai",
       "tool-calling",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ctxfit",
@@ -6797,7 +7204,8 @@
       "prompt-engineering",
       "token-budget",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "chunklet",
@@ -6818,7 +7226,8 @@
       "retrieval",
       "text-splitter",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tower-defense-skill",
@@ -6837,7 +7246,8 @@
       "tower-defense",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "OTSkit-core",
@@ -6855,7 +7265,8 @@
       "timestamping",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@otskit/core"
   },
   {
     "name": "auth",
@@ -6886,6 +7297,15 @@
       "scrypt",
       "webhook",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@exortek/crypto",
+      "@exortek/security",
+      "@exortek/session",
+      "@exortek/password",
+      "@exortek/otp",
+      "@exortek/jwk",
+      "@exortek/jwt"
     ]
   },
   {
@@ -6903,7 +7323,8 @@
       "rich-text-editor",
       "wysiwyg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "graphql-batch",
@@ -6918,7 +7339,8 @@
       "graphql",
       "resolver",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cpw-starfly",
@@ -6933,7 +7355,8 @@
       "javascript",
       "notifications-plugin",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nocket",
@@ -6950,7 +7373,8 @@
       "nodejs",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "UI.Js",
@@ -6964,7 +7388,8 @@
       "javascript",
       "promise",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vanillaJSTodo",
@@ -6982,7 +7407,8 @@
       "vanilla-javascript",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Supports.js",
@@ -7000,7 +7426,8 @@
       "feature",
       "feature-detection",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "key-event-plus",
@@ -7017,7 +7444,8 @@
       "keyboard-events",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "waddle.js",
@@ -7036,7 +7464,8 @@
       "typescript",
       "unit-testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "konteiner",
@@ -7053,7 +7482,8 @@
       "lazy-initialization",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "typescript-zombie-attack",
@@ -7068,7 +7498,8 @@
       "game-engine",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "node-cli-for-generating-files",
@@ -7082,7 +7513,8 @@
       "cli",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "reddit-image-search",
@@ -7099,7 +7531,8 @@
       "testcafe",
       "webpack4",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "clone",
@@ -7120,7 +7553,8 @@
       "structured-clone",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@coroboros/clone"
   },
   {
     "name": "moldjs",
@@ -7138,7 +7572,8 @@
       "string-format",
       "string-manipulation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "conjoin",
@@ -7160,7 +7595,8 @@
       "oxford-comma",
       "serial-comma",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@chocolatey/conjoin"
   },
   {
     "name": "formula_tor",
@@ -7180,7 +7616,8 @@
       "typescript",
       "visualization-tools",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "z-template",
@@ -7199,7 +7636,8 @@
       "template-engine",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "is-valid-css-color",
@@ -7219,7 +7657,8 @@
       "validation",
       "validator",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "is-valid-css-color"
   },
   {
     "name": "vepr",
@@ -7232,7 +7671,8 @@
       "javascript",
       "data-visualization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "storage",
@@ -7251,7 +7691,8 @@
       "storage",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-essentials-functions",
@@ -7268,7 +7709,8 @@
       "typescript",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mini-wait-on",
@@ -7283,7 +7725,8 @@
       "typescript",
       "wait-on",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mini-wait-on"
   },
   {
     "name": "elementid",
@@ -7307,7 +7750,8 @@
       "typescript",
       "watch",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "elementid"
   },
   {
     "name": "totp",
@@ -7335,7 +7779,8 @@
       "totp-tokens",
       "two-factor-authentication",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "simple-image-annotator",
@@ -7350,7 +7795,8 @@
       "image-annotation",
       "simple",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "slack-status.ts",
@@ -7366,7 +7812,8 @@
       "slack",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "financial",
@@ -7387,7 +7834,8 @@
       "numpy-financial",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "spa",
@@ -7408,7 +7856,8 @@
       "spa",
       "xmlhttprequest",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "graphinql",
@@ -7425,7 +7874,8 @@
       "graphql",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@taskless/graphinql"
   },
   {
     "name": "minzip",
@@ -7438,7 +7888,8 @@
       "javascript",
       "zero-dependency",
       "zip"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hoard.js",
@@ -7461,6 +7912,10 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
+    ],
+    "npmName": [
+      "hoard-cli",
+      "githoard"
     ]
   },
   {
@@ -7482,7 +7937,8 @@
       "syntax",
       "syntax-highlighting",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "alpinejs-cache",
@@ -7502,7 +7958,8 @@
       "localstorage",
       "ttl-cache",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "resume-lite",
@@ -7533,7 +7990,8 @@
       "resume-template",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "react-text-renderer-components",
@@ -7556,7 +8014,8 @@
       "text-renderer",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "xml-parser.ts",
@@ -7582,7 +8041,8 @@
       "xml-parser",
       "xml-to-json",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "password-analyzer",
@@ -7601,7 +8061,8 @@
       "vanilla-js",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "release-cinema",
@@ -7620,7 +8081,8 @@
       "release",
       "trailer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "release-cinema"
   },
   {
     "name": "json-stream-lite",
@@ -7637,7 +8099,8 @@
       "streaming",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "security-roi-calculator",
@@ -7656,7 +8119,8 @@
       "vanilla-js",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@hailbytes/security-roi-calculator"
   },
   {
     "name": "core",
@@ -7679,7 +8143,8 @@
       "sfdc",
       "sfdc-calendar",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@forcecalendar/core"
   },
   {
     "name": "minima-js",
@@ -7702,7 +8167,8 @@
       "typescript-definitions",
       "xss",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tiny-result",
@@ -7723,7 +8189,8 @@
       "type-safety",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@meeghele/tiny-result"
   },
   {
     "name": "webvtt-validator",
@@ -7748,7 +8215,8 @@
       "vtt-subtitles",
       "webvtt",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nextrush-log",
@@ -7764,7 +8232,8 @@
       "logging",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@nextrush/log"
   },
   {
     "name": "14kb-web",
@@ -7793,7 +8262,8 @@
       "sqlite",
       "web-performance",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "webp2any",
@@ -7811,7 +8281,8 @@
       "png",
       "webp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "webp2any"
   },
   {
     "name": "url",
@@ -7837,7 +8308,8 @@
       "whatwg",
       "whatwg-url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "QuickCTX",
@@ -7867,7 +8339,8 @@
       "web",
       "webapp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@nicobarbieri/quickctx"
   },
   {
     "name": "kaysa",
@@ -7888,7 +8361,8 @@
       "umd",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "attribution-artisan",
@@ -7903,7 +8377,8 @@
       "github-actions",
       "third-party-notice",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "attribution-artisan"
   },
   {
     "name": "coderecap",
@@ -7928,7 +8403,8 @@
       "typescript",
       "year-in-review",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "coderecap"
   },
   {
     "name": "scrubpii",
@@ -7954,7 +8430,8 @@
       "secrets",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "scrubpii"
   },
   {
     "name": "caduceus",
@@ -7985,7 +8462,8 @@
       "typescript",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/caduceus"
   },
   {
     "name": "shielded",
@@ -8002,7 +8480,8 @@
       "state",
       "state-management",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nt-pulse",
@@ -8031,7 +8510,8 @@
       "websockets",
       "zero-allocation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "roundtable",
@@ -8054,7 +8534,8 @@
       "local-first",
       "multi-agent",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "obsidian-native-mcp",
@@ -8074,7 +8555,8 @@
       "obsidian-vault",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "obsidian-native-mcp"
   },
   {
     "name": "truthenv",
@@ -8090,7 +8572,8 @@
       "env",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Tiktik",
@@ -8115,7 +8598,8 @@
       "waapi",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fuzzrank",
@@ -8136,7 +8620,8 @@
       "search",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fuzzrank"
   },
   {
     "name": "anyall",
@@ -8157,7 +8642,8 @@
       "saved-views",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@b2m9/anyall"
   },
   {
     "name": "quickagram",
@@ -8177,7 +8663,8 @@
       "uml",
       "visualization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nanocsv",
@@ -8198,7 +8685,8 @@
       "tsv",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nanocsv"
   },
   {
     "name": "of-cors",
@@ -8220,7 +8708,8 @@
       "typescript",
       "web-security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "of-cors"
   },
   {
     "name": "coldphrase",
@@ -8249,7 +8738,8 @@
       "trust-wallet",
       "webcrypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "spellnum",
@@ -8270,7 +8760,8 @@
       "number-to-words",
       "spell-number",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "spellnum"
   },
   {
     "name": "js-idb",
@@ -8299,7 +8790,8 @@
       "typescript",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tape-six-invariant",
@@ -8330,7 +8822,8 @@
       "typescript",
       "unit-test",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tape-six-invariant"
   },
   {
     "name": "tutorial-screen",
@@ -8345,7 +8838,8 @@
       "product-tour",
       "tutorials",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jsoncraft",
@@ -8371,7 +8865,8 @@
       "typescript",
       "yaml",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@cryptoteep/jsoncraft"
   },
   {
     "name": "noeticos",
@@ -8402,7 +8897,8 @@
       "typescript",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/noeticos"
   },
   {
     "name": "screenshot-to-issue",
@@ -8423,7 +8919,8 @@
       "open-source",
       "screenshot",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "savenow",
@@ -8442,7 +8939,8 @@
       "openclaw",
       "telegram",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "3d-spinner",
@@ -8462,7 +8960,8 @@
       "spinner",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "3d-spinner"
   },
   {
     "name": "fast-json-rules-engine",
@@ -8482,7 +8981,8 @@
       "rules-processor",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fast-json-rules-engine"
   },
   {
     "name": "dotkit",
@@ -8501,7 +9001,8 @@
       "ux",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "SwiftUI-For-Web",
@@ -8518,7 +9019,8 @@
       "swiftui",
       "web-framework",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mnemosyne",
@@ -8549,7 +9051,8 @@
       "typescript",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/mnemosyne"
   },
   {
     "name": "calforge",
@@ -8570,7 +9073,8 @@
       "outlook",
       "rfc5545",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@didrod2539/calforge"
   },
   {
     "name": "jelly-local-sync",
@@ -8587,7 +9091,8 @@
       "qa",
       "sse",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "jelly-local-sync"
   },
   {
     "name": "hot-repo-radar",
@@ -8605,7 +9110,8 @@
       "nodejs",
       "web-scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentvet-mcp",
@@ -8627,7 +9133,8 @@
       "reliability",
       "tool-validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentvet-mcp"
   },
   {
     "name": "readme-doctor",
@@ -8647,7 +9154,8 @@
       "open-source",
       "readme",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "wormguard",
@@ -8672,7 +9180,8 @@
       "typescript",
       "typosquat",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "wormguard"
   },
   {
     "name": "agent-engine",
@@ -8690,7 +9199,8 @@
       "planner",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scrubtext",
@@ -8711,7 +9221,8 @@
       "security",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "scrubtext"
   },
   {
     "name": "branchbroom",
@@ -8731,7 +9242,8 @@
       "nodejs",
       "productivity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "entropass",
@@ -8752,7 +9264,8 @@
       "secure-random",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "entropass"
   },
   {
     "name": "favicon-api",
@@ -8773,7 +9286,8 @@
       "ssrf-protection",
       "web-scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "veritrail",
@@ -8795,7 +9309,8 @@
       "transparency-log",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "veritrail"
   },
   {
     "name": "glowprint",
@@ -8818,7 +9333,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "glowprint"
   },
   {
     "name": "caplabel",
@@ -8844,7 +9360,8 @@
       "static-analysis",
       "supply-chain",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "caplabel"
   },
   {
     "name": "babelqueue-node",
@@ -8875,7 +9392,8 @@
       "serialization",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@babelqueue/core"
   },
   {
     "name": "scroll-parallax",
@@ -8895,7 +9413,8 @@
       "tiny-library",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@ouvarov/scroll-parallax"
   },
   {
     "name": "openinfra-logger",
@@ -8926,7 +9445,8 @@
       "structured-logging",
       "telemetry",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "qrp",
@@ -8948,7 +9468,8 @@
       "reactive",
       "table",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@nemanjan00/qrp"
   },
   {
     "name": "rtf-to-text",
@@ -8964,7 +9485,8 @@
       "rtf",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "rtf-to-text"
   },
   {
     "name": "telegram-bot-skill",
@@ -8993,7 +9515,8 @@
       "telegram-bot",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "yass-kween-dolor-ipsum",
@@ -9021,7 +9544,8 @@
       "text-generator",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "yass-kween-dolor-ipsum"
   },
   {
     "name": "agentfit-mcp",
@@ -9043,7 +9567,8 @@
       "openai",
       "reliability",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentfit-mcp"
   },
   {
     "name": "seasonal-forecast",
@@ -9068,7 +9593,8 @@
       "tourism-tech",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "seasonal-forecast"
   },
   {
     "name": "bayescausal",
@@ -9099,7 +9625,8 @@
       "sre",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/bayescausal"
   },
   {
     "name": "pennywise",
@@ -9120,7 +9647,8 @@
       "rounding",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pennywise"
   },
   {
     "name": "env-diff-checker",
@@ -9141,7 +9669,8 @@
       "nodejs",
       "open-source",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scrubpix",
@@ -9162,7 +9691,8 @@
       "remove-exif",
       "strip-exif",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "scrubpix"
   },
   {
     "name": "dni-validator-peru",
@@ -9186,7 +9716,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "github-contribution-svg",
@@ -9205,7 +9736,8 @@
       "svg",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "github-contribution-svg"
   },
   {
     "name": "agent-block",
@@ -9230,7 +9762,8 @@
       "react",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "flowdown",
@@ -9251,6 +9784,10 @@
       "streaming-markdown",
       "typescript",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@a5omic/flowdown",
+      "@a5omic/flowdown-react"
     ]
   },
   {
@@ -9278,7 +9815,8 @@
       "transactional-email",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "maillint"
   },
   {
     "name": "teleprompter",
@@ -9296,7 +9834,8 @@
       "skills",
       "teleprompter",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rt-accordion",
@@ -9320,7 +9859,8 @@
       "vanilla-js",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bayestruth",
@@ -9347,7 +9887,8 @@
       "typescript",
       "uncertainty-quantification",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/bayestruth"
   },
   {
     "name": "agentguard-mcp",
@@ -9370,7 +9911,8 @@
       "openai",
       "reliability",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentguard-mcp"
   },
   {
     "name": "gaptime",
@@ -9401,7 +9943,8 @@
       "valid-time",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/gaptime"
   },
   {
     "name": "commit-digest",
@@ -9420,7 +9963,8 @@
       "open-source",
       "release-notes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "niimbot-web-bluetooth",
@@ -9449,7 +9993,8 @@
       "thermal-printer",
       "web-bluetooth",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "niimbot-web-bluetooth"
   },
   {
     "name": "starling",
@@ -9471,7 +10016,8 @@
       "offline-first",
       "p2p",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "unspook",
@@ -9492,7 +10038,8 @@
       "unicode",
       "zero-dependency",
       "zero-width-space"
-    ]
+    ],
+    "npmName": "unspook"
   },
   {
     "name": "enpoint-agentkit",
@@ -9523,7 +10070,8 @@
       "rest",
       "venezuela",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "learn",
@@ -9543,7 +10091,8 @@
       "retrieval-practice",
       "spaced-repetition",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "github-profile-stats",
@@ -9565,7 +10114,8 @@
       "profile-readme",
       "svg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shippo-lite",
@@ -9586,7 +10136,8 @@
       "tracking",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentcast-mcp",
@@ -9608,7 +10159,8 @@
       "reliability",
       "structured-output",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentcast-mcp"
   },
   {
     "name": "rowset-diff",
@@ -9630,7 +10182,8 @@
       "testing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "rowset-diff"
   },
   {
     "name": "data-chart",
@@ -9648,7 +10201,8 @@
       "svg",
       "visualization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "weblocks",
@@ -9671,7 +10225,8 @@
       "typescript",
       "web-builder",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bytesbrains/weblocks"
   },
   {
     "name": "sulfa",
@@ -9692,7 +10247,8 @@
       "pure-javascript",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@sulfajs/sulfajs"
   },
   {
     "name": "tribunal",
@@ -9723,7 +10279,8 @@
       "verdict",
       "verification",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/tribunal"
   },
   {
     "name": "favicon-env",
@@ -9738,7 +10295,8 @@
       "favicons",
       "frontend-development",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "favicon-env"
   },
   {
     "name": "dep-xray",
@@ -9760,7 +10318,8 @@
       "security",
       "supply-chain",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Zorvix",
@@ -9783,7 +10342,8 @@
       "web-development",
       "web-server",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "logease",
@@ -9809,7 +10369,8 @@
       "transport",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "openjsxl",
@@ -9834,6 +10395,10 @@
       "xlsx",
       "xlsx-parser",
       "zero-dependency"
+    ],
+    "npmName": [
+      "openjsxl",
+      "@openjsxl/core"
     ]
   },
   {
@@ -9851,7 +10416,8 @@
       "typescript",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "zoooom"
   },
   {
     "name": "tokenfit",
@@ -9872,7 +10438,8 @@
       "tokens",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tokenfit"
   },
   {
     "name": "csvtd-parser",
@@ -9893,7 +10460,8 @@
       "tsv",
       "web-worker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@osp-engineer/csvtd-parser"
   },
   {
     "name": "jsonpluck",
@@ -9914,7 +10482,8 @@
       "structured-output",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "jsonpluck"
   },
   {
     "name": "double-meh",
@@ -9929,7 +10498,8 @@
       "io",
       "lightweight",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hermitstash-sync",
@@ -9950,7 +10520,8 @@
       "pqc-tls",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "core-stream-processor",
@@ -9968,7 +10539,8 @@
       "stream-processing",
       "telemetry",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "repo-onboarding-map",
@@ -9987,7 +10559,8 @@
       "open-source",
       "repository",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fetchwise",
@@ -10008,7 +10581,8 @@
       "timeout",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fetchwise"
   },
   {
     "name": "okcolor",
@@ -10029,7 +10603,8 @@
       "typescript",
       "wcag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@didrod2539/okcolor"
   },
   {
     "name": "coryphaeus",
@@ -10060,7 +10635,8 @@
       "typescript",
       "vercel-ai-sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/coryphaeus"
   },
   {
     "name": "bashjsast",
@@ -10079,7 +10655,8 @@
       "shell",
       "tokenizer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "i18nkit",
@@ -10100,7 +10677,8 @@
       "translation",
       "transloco",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@abdess76/i18nkit"
   },
   {
     "name": "ICM-Protocols",
@@ -10118,7 +10696,8 @@
       "permissions",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "OpenGridX",
@@ -10143,7 +10722,8 @@
       "typescript",
       "virtualization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@opencorestack/opengridx"
   },
   {
     "name": "canvas-js-3d",
@@ -10165,7 +10745,8 @@
       "rendering",
       "wavefront",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "graphrefly-ts",
@@ -10195,7 +10776,8 @@
       "vue",
       "workflow",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@graphrefly/ts"
   },
   {
     "name": "agent-doc",
@@ -10217,7 +10799,8 @@
       "openai",
       "pre-commit",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pdfnative-react",
@@ -10248,7 +10831,8 @@
       "ui-components",
       "web-worker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pdfnative-react"
   },
   {
     "name": "whisper-edge",
@@ -10274,7 +10858,8 @@
       "vercel",
       "whisper",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "whisper-edge"
   },
   {
     "name": "zappzarapp-node-browser-utils",
@@ -10299,7 +10884,8 @@
       "validation",
       "web-api",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@zappzarapp/browser-utils"
   },
   {
     "name": "confer",
@@ -10322,7 +10908,8 @@
       "llm",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "typed-event",
@@ -10341,7 +10928,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "DVE",
@@ -10372,7 +10960,8 @@
       "typescript",
       "view-engine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@neabyte/dve"
   },
   {
     "name": "feriados-peru",
@@ -10395,7 +10984,8 @@
       "peru",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envguard",
@@ -10416,7 +11006,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@billdaddy/envguard"
   },
   {
     "name": "timeclock-rounding",
@@ -10436,7 +11027,8 @@
       "timesheet",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "steam-workshop-ts",
@@ -10461,7 +11053,8 @@
       "typescript",
       "workshop",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "steam-workshop-ts"
   },
   {
     "name": "eric-slider",
@@ -10482,7 +11075,8 @@
       "vanilla-js",
       "wordpress",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tool",
@@ -10500,7 +11094,8 @@
       "fetch-wrapper",
       "mcp-alternative",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@axiestudio/tool"
   },
   {
     "name": "token-diet",
@@ -10521,7 +11116,8 @@
       "nodejs",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "token-diet-cli"
   },
   {
     "name": "works-on-my-machine",
@@ -10547,7 +11143,8 @@
       "typescript",
       "works-on-my-machine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "batchline",
@@ -10567,7 +11164,8 @@
       "nodejs",
       "openai",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "puredashboard",
@@ -10593,7 +11191,8 @@
       "vanilla-js",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bleizlabs-ui",
@@ -10614,7 +11213,8 @@
       "typescript",
       "wai-aria",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pr-checklist-generator",
@@ -10635,7 +11235,8 @@
       "pull-request",
       "security-review",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "csp-doctor",
@@ -10660,7 +11261,8 @@
       "web-security",
       "xss",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "special-token-guard",
@@ -10681,7 +11283,8 @@
       "prompt-injection",
       "special-tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fortifyjs",
@@ -10712,7 +11315,8 @@
       "web-security",
       "xss",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@chiranthmoger/fortifyjs"
   },
   {
     "name": "aiclientjs",
@@ -10735,7 +11339,8 @@
       "tool-calling",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fetch-smartly",
@@ -10766,7 +11371,8 @@
       "timeout",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "fetch-smartly"
   },
   {
     "name": "request",
@@ -10786,7 +11392,8 @@
       "retry",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Utils-Core",
@@ -10817,7 +11424,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "alkaline",
@@ -10848,7 +11456,8 @@
       "typescript",
       "workflow-engine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/alkaline"
   },
   {
     "name": "bayesdecide",
@@ -10879,7 +11488,8 @@
       "thompson-sampling",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/bayesdecide"
   },
   {
     "name": "envsync",
@@ -10900,7 +11510,8 @@
       "nodejs",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shellrecap",
@@ -10926,7 +11537,8 @@
       "year-in-review",
       "zero-dependency",
       "zsh"
-    ]
+    ],
+    "npmName": "shellrecap"
   },
   {
     "name": "verspec",
@@ -10947,7 +11559,8 @@
       "version-compare",
       "version-range",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "verspec"
   },
   {
     "name": "aeo-image",
@@ -10973,7 +11586,8 @@
       "webp",
       "xmp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "aeo-image"
   },
   {
     "name": "aikit",
@@ -10997,7 +11611,8 @@
       "toolkit",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "docsify-music-player",
@@ -11020,7 +11635,8 @@
       "turntable",
       "vinyl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "refusal-radar",
@@ -11042,7 +11658,8 @@
       "red-team",
       "refusal-detection",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "react-phone-number-input-pro",
@@ -11060,7 +11677,8 @@
       "react-component",
       "ui-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "verdict-ts",
@@ -11081,7 +11699,8 @@
       "rust",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "claude-code-livetracker",
@@ -11106,7 +11725,8 @@
       "sse",
       "token-usage",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ppt-notes-print",
@@ -11127,7 +11747,8 @@
       "vanilla-javascript",
       "web-tool",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "spindle",
@@ -11146,7 +11767,8 @@
       "typescript",
       "viewer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@tegos/spindle"
   },
   {
     "name": "captionkit",
@@ -11167,7 +11789,8 @@
       "vtt",
       "webvtt",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "captionkit"
   },
   {
     "name": "asyncraft",
@@ -11188,7 +11811,8 @@
       "timeout",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "readlevel",
@@ -11209,7 +11833,8 @@
       "word-count",
       "writing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@didrod2539/readlevel"
   },
   {
     "name": "croniq",
@@ -11230,7 +11855,8 @@
       "scheduler",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@didrod2539/croniq"
   },
   {
     "name": "loopstop",
@@ -11251,7 +11877,8 @@
       "observability",
       "tool-calling",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "matchigo",
@@ -11282,7 +11909,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "aiclientjs",
@@ -11305,7 +11933,8 @@
       "tool-calling",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "aiclientjs"
   },
   {
     "name": "browser-extension-compat-data",
@@ -11326,7 +11955,8 @@
       "typescript",
       "webextensions",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "browser-extension-compat-data"
   },
   {
     "name": "ole2-reader",
@@ -11353,7 +11983,8 @@
       "typescript",
       "xls",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tipo-cambio-peru",
@@ -11377,7 +12008,8 @@
       "tipo-de-cambio",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "moment-less",
@@ -11394,7 +12026,8 @@
       "tc39",
       "temporal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "moment-less"
   },
   {
     "name": "bayesconsensus",
@@ -11425,7 +12058,8 @@
       "typescript",
       "voting",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/bayesconsensus"
   },
   {
     "name": "checkdigit",
@@ -11446,7 +12080,8 @@
       "luhn",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@didrod2539/checkdigit"
   },
   {
     "name": "dichroma",
@@ -11467,7 +12102,8 @@
       "deuteranopia",
       "protanopia",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "dichroma"
   },
   {
     "name": "AstuteDict",
@@ -11481,7 +12117,8 @@
       "routing",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vop",
@@ -11495,7 +12132,8 @@
       "javascript",
       "value-semantics",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "web-items",
@@ -11516,7 +12154,8 @@
       "vanilla-js",
       "webgl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tinyRatings.js",
@@ -11539,7 +12178,8 @@
       "vote",
       "votes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uModal",
@@ -11555,7 +12195,8 @@
       "modals",
       "tool",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lllog",
@@ -11574,7 +12215,8 @@
       "node",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "lllog"
   },
   {
     "name": "nexit",
@@ -11594,7 +12236,8 @@
       "uncaught",
       "uncaught-exceptions",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nexit"
   },
   {
     "name": "config",
@@ -11610,7 +12253,8 @@
       "node",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@kaareal/config"
   },
   {
     "name": "slight-ui",
@@ -11625,7 +12269,8 @@
       "react-components",
       "ui-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sparkline",
@@ -11639,7 +12284,8 @@
       "sparkline",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cyanic",
@@ -11658,7 +12304,8 @@
       "typescript",
       "vuejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mousepox-static-server",
@@ -11679,7 +12326,8 @@
       "typescript-definitions",
       "zero-configuration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "icy",
@@ -11708,7 +12356,8 @@
       "responsive",
       "website",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "respondix",
@@ -11726,7 +12375,8 @@
       "ts",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "search-summary",
@@ -11741,7 +12391,8 @@
       "summary",
       "utils",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "game-of-life",
@@ -11755,7 +12406,8 @@
       "conways-game-of-life",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "distance-matrix-2",
@@ -11774,7 +12426,8 @@
       "node",
       "time",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "domalt",
@@ -11795,7 +12448,8 @@
       "package",
       "wrapper",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "domalt"
   },
   {
     "name": "lilnouns-online",
@@ -11816,7 +12470,8 @@
       "numpy-financial",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "get-moment-stamp",
@@ -11838,7 +12493,8 @@
       "unixtime",
       "utc",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "node-cgi-core",
@@ -11858,7 +12514,8 @@
       "rfc3875",
       "server",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "cgi-core"
   },
   {
     "name": "to-do_app",
@@ -11879,7 +12536,8 @@
       "to-do-list",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env",
@@ -11896,7 +12554,8 @@
       "environment-variables",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "min-test",
@@ -11910,7 +12569,8 @@
       "nodejs",
       "testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jl-log",
@@ -11939,7 +12599,8 @@
       "typescript",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@jl-org/log"
   },
   {
     "name": "voxli",
@@ -11960,7 +12621,8 @@
       "voxel",
       "webgl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "voxli"
   },
   {
     "name": "pure-node",
@@ -11980,7 +12642,8 @@
       "vanilla-css",
       "vanillajs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lystore",
@@ -11996,7 +12659,8 @@
       "typescript",
       "typescript-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "lystore"
   },
   {
     "name": "node-jwt",
@@ -12011,7 +12675,8 @@
       "jwt",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@sourceregistry/node-jwt"
   },
   {
     "name": "dynamic-copyright",
@@ -12029,7 +12694,8 @@
       "dynamic",
       "updater-script",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hjyup-flags",
@@ -12043,7 +12709,8 @@
       "feature-flags",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "platform-dirs",
@@ -12062,7 +12729,8 @@
       "typescript",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-loggly-bulk",
@@ -12081,7 +12749,8 @@
       "winston",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jpegr",
@@ -12102,7 +12771,8 @@
       "jpeg-decoder",
       "jpeg-encoder",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "jpegr"
   },
   {
     "name": "color-fns",
@@ -12132,7 +12802,8 @@
       "utility",
       "utility-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@ahmedsemih/color-fns"
   },
   {
     "name": "Reminist",
@@ -12154,7 +12825,8 @@
       "typescript",
       "url-router",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "reminist"
   },
   {
     "name": "cx-utils",
@@ -12175,7 +12847,8 @@
       "utility",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cliedit",
@@ -12195,7 +12868,8 @@
       "tui",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "cliedit"
   },
   {
     "name": "web-components",
@@ -12213,7 +12887,8 @@
       "web-component-boilerplate",
       "webcomponents",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "BitRain-Matrixx",
@@ -12228,7 +12903,8 @@
       "the-matrix",
       "the-matrix-rain",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "bitrain-matrixx"
   },
   {
     "name": "cog-http",
@@ -12256,7 +12932,8 @@
       "typescript-library",
       "web-framework",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "cog-http"
   },
   {
     "name": "server",
@@ -12273,7 +12950,8 @@
       "server",
       "standalone",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pnyx",
@@ -12291,7 +12969,8 @@
       "nodejs",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Rowst",
@@ -12308,7 +12987,8 @@
       "webrtc",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "portals",
@@ -12324,7 +13004,8 @@
       "overlay",
       "portal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ti18n",
@@ -12338,7 +13019,8 @@
       "i18n",
       "tiny",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@zealsprince/ti18n"
   },
   {
     "name": "mini-framework",
@@ -12366,7 +13048,8 @@
       "vanilla-javascript",
       "virtual-dom",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "async-minikit",
@@ -12387,7 +13070,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "DebugPill",
@@ -12404,7 +13088,8 @@
       "fun-debug-gift",
       "greeting-badge",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "easypubsub",
@@ -12421,7 +13106,8 @@
       "subscriber",
       "topic-filtering",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zero-dependency-static-cms",
@@ -12441,7 +13127,8 @@
       "static-site-generator",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tablecrafter.js",
@@ -12466,7 +13153,8 @@
       "wordpress-parity",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tablecrafter"
   },
   {
     "name": "bsmrk",
@@ -12481,7 +13169,8 @@
       "javascript-library",
       "js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "testgenx",
@@ -12497,7 +13186,8 @@
       "package",
       "test-data",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "testgenx"
   },
   {
     "name": "vecs-client-node",
@@ -12515,7 +13205,8 @@
       "typescript",
       "vecs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "xsukax-JS-CAPTCHA",
@@ -12544,7 +13235,8 @@
       "visual-challenge",
       "xsukax-captcha",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "minyatur",
@@ -12568,7 +13260,8 @@
       "vanilla-js",
       "zero-dependency",
       "zoom"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ip-next-cli",
@@ -12585,7 +13278,8 @@
       "nodejs",
       "npm-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hex-decode-cli",
@@ -12604,7 +13298,8 @@
       "hex",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cron-explain",
@@ -12622,7 +13317,8 @@
       "devtools",
       "schedule",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Playground",
@@ -12641,7 +13337,8 @@
       "showcase",
       "spa",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cvss-calc",
@@ -12662,7 +13359,8 @@
       "vulnerability-scoring",
       "web-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@hailbytes/cvss-calc"
   },
   {
     "name": "potentiajs",
@@ -12693,7 +13391,8 @@
       "web-components",
       "web-framework",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@potentiajs/core"
   },
   {
     "name": "react-stagger-reveal",
@@ -12713,7 +13412,8 @@
       "ssr",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ema-cli",
@@ -12732,7 +13432,8 @@
       "statistics",
       "time-series",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "byte-offset-cli",
@@ -12748,7 +13449,8 @@
       "developer-tools",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kebab2title-cli",
@@ -12770,7 +13472,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env-sentinel",
@@ -12788,7 +13491,8 @@
       "npm",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dev-kit",
@@ -12808,7 +13512,8 @@
       "regex",
       "single-file",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "chlog",
@@ -12827,7 +13532,8 @@
       "nodejs",
       "release",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/chlog"
   },
   {
     "name": "api-slo-error-budget-doctor",
@@ -12845,7 +13551,8 @@
       "slo",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-cookie-policy-doctor",
@@ -12863,7 +13570,8 @@
       "samesite",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-webhook-ordering-doctor",
@@ -12881,7 +13589,8 @@
       "replay",
       "webhook",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-sandbox-environment-doctor",
@@ -12899,7 +13608,8 @@
       "testing",
       "webhooks",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "branchreel",
@@ -12919,7 +13629,8 @@
       "typescript",
       "video-player",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "octowrite",
@@ -12935,7 +13646,8 @@
       "markdown",
       "parser",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sparke",
@@ -12958,7 +13670,8 @@
       "view-transitions",
       "web-performance",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fusion-mcp",
@@ -12975,7 +13688,8 @@
       "mcp",
       "openrouter",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rivet",
@@ -12997,7 +13711,8 @@
       "structured-output",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "litmus",
@@ -13019,7 +13734,8 @@
       "testing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-data-retention-policy-doctor",
@@ -13037,7 +13753,8 @@
       "gdpr",
       "privacy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "http-head-cli",
@@ -13057,7 +13774,8 @@
       "http",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ReactZero-DatePicker",
@@ -13074,7 +13792,8 @@
       "reactjs",
       "theme",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@reactzero/datepicker"
   },
   {
     "name": "streamjson",
@@ -13095,7 +13814,8 @@
       "structured-output",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentkit",
@@ -13117,7 +13837,8 @@
       "reliability",
       "reliability-stack",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pressroom",
@@ -13134,7 +13855,8 @@
       "org-tools",
       "social-media",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tls-inspect",
@@ -13152,7 +13874,8 @@
       "ssl",
       "tls",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ohlcv-doctor",
@@ -13170,7 +13893,8 @@
       "ohlcv",
       "trading",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "double-meh-bundler",
@@ -13186,7 +13910,8 @@
       "double-meh",
       "http",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "oai-style-cover",
@@ -13202,7 +13927,8 @@
       "creative-coding",
       "generative-art",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "securepixel-js",
@@ -13226,7 +13952,8 @@
       "steganography",
       "web-crypto-api",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lorem-gen-cli",
@@ -13246,7 +13973,8 @@
       "text-generator",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ping-toast",
@@ -13269,7 +13997,8 @@
       "toast-notifications",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cassette",
@@ -13291,7 +14020,8 @@
       "typescript",
       "vcr",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-websocket-reconnect-doctor",
@@ -13309,7 +14039,8 @@
       "streaming",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-webhook-security-doctor",
@@ -13327,7 +14058,8 @@
       "signature",
       "webhook",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "freq-table-cli",
@@ -13350,7 +14082,8 @@
       "text-processing",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "onboarding-zoom",
@@ -13374,7 +14107,8 @@
       "walkthrough",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentvet",
@@ -13402,7 +14136,8 @@
       "validation",
       "zero-dependency",
       "zod"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentvet"
   },
   {
     "name": "sha384sum-cli",
@@ -13420,7 +14155,8 @@
       "npm-package",
       "sha384",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "roman2int-cli",
@@ -13437,7 +14173,8 @@
       "nodejs",
       "roman-numerals",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "humanize-bytes-cli",
@@ -13460,7 +14197,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rot13-reveal",
@@ -13476,7 +14214,8 @@
       "privacy",
       "rot13",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vestige.js",
@@ -13502,7 +14241,8 @@
       "tracking-by-detection",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "developer-feedback-dashboard",
@@ -13523,7 +14263,8 @@
       "rest-api",
       "web-app",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dep-check",
@@ -13541,7 +14282,8 @@
       "devtools",
       "unused-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "NodeDeck",
@@ -13572,7 +14314,8 @@
       "process-manager",
       "self-hosted",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "casemorph",
@@ -13587,7 +14330,8 @@
       "npm-package",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "casemorph"
   },
   {
     "name": "Fuzzy-Finder",
@@ -13618,7 +14362,8 @@
       "test-file-deprioritization",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "noodle-embed",
@@ -13636,7 +14381,8 @@
       "web-component",
       "workflow",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "noodle-embed"
   },
   {
     "name": "termalytics",
@@ -13654,7 +14400,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dep-size",
@@ -13676,7 +14423,8 @@
       "package-size",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lerp-cli",
@@ -13694,7 +14442,8 @@
       "math",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-sum-cli",
@@ -13713,7 +14462,8 @@
       "sum",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "talk_bot",
@@ -13733,7 +14483,8 @@
       "voice",
       "writing-assistant",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "secret-scan",
@@ -13754,7 +14505,8 @@
       "secrets",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hubitat-client",
@@ -13773,7 +14525,8 @@
       "nodejs",
       "smart-home",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "browser-session",
@@ -13798,7 +14551,8 @@
       "typescript",
       "web-scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mutexkit",
@@ -13819,7 +14573,8 @@
       "synchronization",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mutexkit"
   },
   {
     "name": "api-webhook-schema-version-doctor",
@@ -13837,7 +14592,8 @@
       "versioning",
       "webhook",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "guarden",
@@ -13858,7 +14614,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "guarden"
   },
   {
     "name": "cc-lean",
@@ -13884,7 +14641,8 @@
       "terminal",
       "token-optimization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "portcull",
@@ -13905,7 +14663,8 @@
       "process-management",
       "productivity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "portcull"
   },
   {
     "name": "css-parser",
@@ -13932,7 +14691,8 @@
       "tokenizer",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "totp",
@@ -13951,7 +14711,8 @@
       "rfc6238",
       "totp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dedupe-words-cli",
@@ -13969,7 +14730,8 @@
       "string-utils",
       "text-processing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "char-info-cli",
@@ -13986,7 +14748,8 @@
       "nodejs",
       "unicode",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "snake2title-cli",
@@ -14008,7 +14771,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentsnap",
@@ -14036,7 +14800,8 @@
       "tool-use",
       "vitest",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentsnap"
   },
   {
     "name": "deep-diff-ts",
@@ -14055,7 +14820,8 @@
       "object-diff",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "deep-diff-ts"
   },
   {
     "name": "tally",
@@ -14077,7 +14843,8 @@
       "tokens",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-usage-metering-doctor",
@@ -14095,7 +14862,8 @@
       "quota",
       "usage",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-webhook-dead-letter-doctor",
@@ -14113,7 +14881,8 @@
       "replay",
       "webhook",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-user-invite-flow-doctor",
@@ -14131,7 +14900,8 @@
       "rbac",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-error-code-catalog-doctor",
@@ -14149,7 +14919,8 @@
       "errors",
       "sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "flightcache",
@@ -14170,7 +14941,8 @@
       "ttl",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flightcache"
   },
   {
     "name": "git-whoami",
@@ -14190,7 +14962,8 @@
       "ssh",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rate-limit",
@@ -14208,7 +14981,8 @@
       "throttle",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hdrtoys-library-server",
@@ -14227,7 +15001,8 @@
       "self-hosted",
       "ultrahdr",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "folex",
@@ -14244,7 +15019,8 @@
       "particles",
       "visual-effects",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "folex-fx"
   },
   {
     "name": "baylabs",
@@ -14262,7 +15038,8 @@
       "npm",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tailscale-sdk",
@@ -14283,7 +15060,8 @@
       "typescript",
       "vpn",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "string-entropy-cli",
@@ -14304,7 +15082,8 @@
       "security",
       "shannon-entropy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ambient-scan",
@@ -14318,7 +15097,8 @@
       "nodejs",
       "rest-api",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bin2dec-cli",
@@ -14335,7 +15115,8 @@
       "decimal",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "commonprefix-cli",
@@ -14351,7 +15132,8 @@
       "prefix",
       "string",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "camel2snake-cli",
@@ -14374,7 +15156,8 @@
       "string-transform",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "logx",
@@ -14397,7 +15180,8 @@
       "structured-logging",
       "zero-config",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@munesoft/logx"
   },
   {
     "name": "site-to-ai-markdown",
@@ -14415,7 +15199,8 @@
       "markdown",
       "scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-data-subprocessor-doctor",
@@ -14433,7 +15218,8 @@
       "subprocessor",
       "vendor-management",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-refund-policy-doctor",
@@ -14451,7 +15237,8 @@
       "refund",
       "saas",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hors",
@@ -14474,7 +15261,8 @@
       "security",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ubl-sdk",
@@ -14497,7 +15285,8 @@
       "valibot",
       "xml-generator",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@dlbr/ubl-sdk"
   },
   {
     "name": "ccpop",
@@ -14518,7 +15307,8 @@
       "productivity",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ccpop"
   },
   {
     "name": "retry-ladder",
@@ -14539,7 +15329,8 @@
       "retry",
       "sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bayesroute",
@@ -14570,7 +15361,8 @@
       "thompson-sampling",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@takk/bayesroute"
   },
   {
     "name": "elo-mmr-kit",
@@ -14591,7 +15383,8 @@
       "rating",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "portakal",
@@ -14617,7 +15410,8 @@
       "tspl",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ForgeDialog",
@@ -14646,7 +15440,8 @@
       "vue",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jwt-cli",
@@ -14665,7 +15460,8 @@
       "token",
       "verify",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "statelet",
@@ -14683,7 +15479,8 @@
       "statechart",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sadrazam",
@@ -14709,7 +15506,8 @@
       "umd",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "range-expand-cli",
@@ -14729,7 +15527,8 @@
       "range",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-rename-cli",
@@ -14748,7 +15547,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gomoku-mini",
@@ -14766,7 +15566,8 @@
       "javascript",
       "open-source",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "port-scan-cli",
@@ -14787,7 +15588,8 @@
       "security",
       "tcp",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cidr-wildcard-cli",
@@ -14807,7 +15609,8 @@
       "subnet",
       "wildcard-mask",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Claude-Code-In-Motion",
@@ -14833,7 +15636,8 @@
       "openrouter",
       "pixel-art",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env-guard",
@@ -14851,7 +15655,8 @@
       "nodejs",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@ironfighter23/env-guard"
   },
   {
     "name": "api-oauth-token-lifetime-doctor",
@@ -14869,7 +15674,8 @@
       "security",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-support-escalation-doctor",
@@ -14887,7 +15693,8 @@
       "sre",
       "support",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cortex",
@@ -14913,7 +15720,8 @@
       "obsidian",
       "second-brain",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "int2roman-cli",
@@ -14930,7 +15738,8 @@
       "nodejs",
       "roman-numerals",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "AgentBudget",
@@ -14957,7 +15766,8 @@
       "token-budget",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentbudget"
   },
   {
     "name": "dx-bind-js",
@@ -14973,7 +15783,8 @@
       "framework-agnostic",
       "property-binding",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agenttrace",
@@ -14996,7 +15807,8 @@
       "openai",
       "reliability",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ultralab-scanners",
@@ -15017,7 +15829,8 @@
       "seo",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "seq-prime-cli",
@@ -15034,7 +15847,8 @@
       "prime",
       "sequence",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tz-convert-cli",
@@ -15053,7 +15867,8 @@
       "time-conversion",
       "timezone",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "url-status-cli",
@@ -15070,7 +15885,8 @@
       "status-code",
       "url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "conductor2",
@@ -15088,7 +15904,8 @@
       "swarm-orchestration",
       "tmux",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@yksanjo/conductor2"
   },
   {
     "name": "jsonlkit",
@@ -15109,7 +15926,8 @@
       "stream",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@billdaddy/jsonlkit"
   },
   {
     "name": "minhash-dedupe",
@@ -15134,7 +15952,8 @@
       "rag",
       "simhash",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "marketo-auto-recon",
@@ -15153,7 +15972,8 @@
       "sdr",
       "signals",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "spoken-token",
@@ -15183,7 +16003,8 @@
       "voice",
       "wordlist",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "spoken-token"
   },
   {
     "name": "sasaki-agent",
@@ -15204,7 +16025,8 @@
       "telegram",
       "vacancies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "situroom",
@@ -15224,7 +16046,8 @@
       "situational-awareness",
       "static-site",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "git-snapshot",
@@ -15242,7 +16065,8 @@
       "productivity",
       "stash",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "throttleguard-api",
@@ -15263,7 +16087,8 @@
       "reverse-proxy",
       "token-bucket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "brazilkit",
@@ -15282,7 +16107,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "brazilkit"
   },
   {
     "name": "react-canvas-force-graph",
@@ -15299,7 +16125,8 @@
       "react",
       "react-component",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "key-router",
@@ -15318,7 +16145,8 @@
       "react",
       "vite",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "npm-name-check",
@@ -15341,7 +16169,8 @@
       "package-name",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hex-add-cli",
@@ -15359,7 +16188,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bcd-cli",
@@ -15378,7 +16208,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "product-cli",
@@ -15397,7 +16228,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "logprob-lens",
@@ -15418,7 +16250,8 @@
       "openai",
       "perplexity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "leaksweep",
@@ -15437,7 +16270,8 @@
       "secrets",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/leaksweep"
   },
   {
     "name": "ratio-engine-ts",
@@ -15459,7 +16293,8 @@
       "typescript",
       "vitest",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "AgentBudgetMcp",
@@ -15486,7 +16321,8 @@
       "reliability",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "TypeForge-ts",
@@ -15505,7 +16341,8 @@
       "utilities",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "typeforge-ts"
   },
   {
     "name": "mathfuse",
@@ -15526,7 +16363,8 @@
       "statistics",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mathfuse"
   },
   {
     "name": "api-sdk-timeout-config-doctor",
@@ -15544,7 +16382,8 @@
       "sdk",
       "timeouts",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-openapi-example-doctor",
@@ -15562,7 +16401,8 @@
       "mock-server",
       "openapi",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-data-deletion-request-doctor",
@@ -15580,7 +16420,8 @@
       "gdpr",
       "privacy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-export-manifest-doctor",
@@ -15598,7 +16439,8 @@
       "manifest",
       "privacy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-sunset-header-doctor",
@@ -15616,7 +16458,8 @@
       "headers",
       "sunset",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dotenv-guard",
@@ -15637,7 +16480,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-status-page-incident-doctor",
@@ -15655,7 +16499,8 @@
       "sre",
       "status-page",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env-guard",
@@ -15674,7 +16519,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "file-stat-cli",
@@ -15691,7 +16537,8 @@
       "nodejs",
       "stats",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pkg-diff",
@@ -15709,7 +16556,8 @@
       "package-json",
       "semver",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rotn-cli",
@@ -15727,7 +16575,8 @@
       "nodejs",
       "rot13",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "roman-calc-cli",
@@ -15747,7 +16596,8 @@
       "roman-numerals",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "disocket",
@@ -15776,7 +16626,8 @@
       "typescript",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@ghuts/disocket"
   },
   {
     "name": "mailproof",
@@ -15803,7 +16654,8 @@
       "verification",
       "workflow",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mailproof"
   },
   {
     "name": "recall",
@@ -15828,7 +16680,8 @@
       "model-context-protocol",
       "rag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scout",
@@ -15853,7 +16706,8 @@
       "readability",
       "web-scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "devguard-scan",
@@ -15871,7 +16725,8 @@
       "security",
       "static-site",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nanoodle-js",
@@ -15896,7 +16751,8 @@
       "workflow",
       "workflow-engine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nanoodle"
   },
   {
     "name": "zerodep-node-http-server",
@@ -15915,7 +16771,8 @@
       "server",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "termpet",
@@ -15936,7 +16793,8 @@
       "terminal",
       "virtual-pet",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "todo-board",
@@ -15955,7 +16813,8 @@
       "self-hosted",
       "todo",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "byte-slice-cli",
@@ -15971,7 +16830,8 @@
       "hex",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gzip-cli",
@@ -15992,7 +16852,8 @@
       "zero-dependencies",
       "zero-dependency",
       "zlib"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "whitespace-cli",
@@ -16016,7 +16877,8 @@
       "whitespace",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "yazman",
@@ -16040,7 +16902,8 @@
       "wysiwyg",
       "wysiwyg-editor",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hookguard",
@@ -16058,7 +16921,8 @@
       "husky",
       "pre-commit",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pushover",
@@ -16078,7 +16942,8 @@
       "pushover",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mustafakurtt/pushover"
   },
   {
     "name": "use-stepper",
@@ -16097,7 +16962,8 @@
       "typescript",
       "wizard",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ichnograph",
@@ -16124,7 +16990,8 @@
       "typescript",
       "zero-config",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ichnograph"
   },
   {
     "name": "slug-gen",
@@ -16144,7 +17011,8 @@
       "unicode",
       "url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-api-quota-billing-doctor",
@@ -16162,7 +17030,8 @@
       "rate-limit",
       "usage",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-security-headers-doctor",
@@ -16180,7 +17049,8 @@
       "hsts",
       "security-headers",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-secret-rotation-runbook-doctor",
@@ -16198,7 +17068,8 @@
       "security",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-changelog-rss-doctor",
@@ -16216,7 +17087,8 @@
       "documentation",
       "rss",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "promptforge",
@@ -16235,7 +17107,8 @@
       "snippets",
       "template",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/promptforge"
   },
   {
     "name": "guardpost",
@@ -16253,7 +17126,8 @@
       "security",
       "supply-chain",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "guardpost"
   },
   {
     "name": "tab-bridge",
@@ -16274,7 +17148,8 @@
       "state-management",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "tab-bridge"
   },
   {
     "name": "find-open-port-cli",
@@ -16295,7 +17170,8 @@
       "tcp",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "fizzbuzz-cli",
@@ -16313,7 +17189,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gitpulse",
@@ -16332,7 +17209,8 @@
       "statistics",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/gitpulse"
   },
   {
     "name": "licsweep",
@@ -16351,7 +17229,8 @@
       "license",
       "spdx",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/licsweep"
   },
   {
     "name": "web-xlsx-fill",
@@ -16369,7 +17248,8 @@
       "typescript",
       "xlsx",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "flowx-control",
@@ -16392,7 +17272,8 @@
       "throttle",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flowx-control"
   },
   {
     "name": "pangram-cli",
@@ -16411,7 +17292,8 @@
       "text-processing",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uuid-info-cli",
@@ -16427,7 +17309,8 @@
       "nodejs",
       "uuid",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cert-days-cli",
@@ -16446,7 +17329,8 @@
       "ssl",
       "tls",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "title2camel-cli",
@@ -16468,7 +17352,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mini-xlsx",
@@ -16492,7 +17377,8 @@
       "vanilla-js",
       "xlsx",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "captionkit",
@@ -16513,7 +17399,8 @@
       "vtt",
       "webvtt",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "blue-js",
@@ -16528,7 +17415,8 @@
       "utility",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "webcrypto-envelope",
@@ -16552,7 +17440,8 @@
       "web-crypto",
       "zero-dependency",
       "zero-knowledge"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "flightlog",
@@ -16577,7 +17466,8 @@
       "unhandled-rejection",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "flightlog"
   },
   {
     "name": "isbn-gen-cli",
@@ -16596,7 +17486,8 @@
       "nodejs",
       "test-data",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zalgo-cli",
@@ -16615,7 +17506,8 @@
       "unicode",
       "zalgo",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "base64url-cli",
@@ -16635,7 +17527,8 @@
       "nodejs",
       "url-safe",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "color-contrast-cli",
@@ -16654,7 +17547,8 @@
       "npm-package",
       "wcag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "checksum-cmp-cli",
@@ -16673,7 +17567,8 @@
       "nodejs",
       "sha256",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "retryx",
@@ -16691,7 +17586,8 @@
       "retry",
       "timeout",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "linearizer",
@@ -16711,7 +17607,8 @@
       "nodejs",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/linearizer"
   },
   {
     "name": "license-gen",
@@ -16730,7 +17627,8 @@
       "open-source",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "redline",
@@ -16752,7 +17650,8 @@
       "prompt-engineering",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-incident-postmortem-doctor",
@@ -16770,7 +17669,8 @@
       "runbook",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-webhook-replay-doctor",
@@ -16788,7 +17688,8 @@
       "replay",
       "webhook",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-billing-invoice-dispute-doctor",
@@ -16806,7 +17707,8 @@
       "invoice",
       "refund",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vanilla.waves",
@@ -16826,7 +17728,8 @@
       "vanilla-js",
       "waves",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "webhook-verify",
@@ -16845,7 +17748,8 @@
       "typescript",
       "webhooks",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tsreport-sdk",
@@ -16871,7 +17775,8 @@
       "sdk",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "numkey",
@@ -16900,7 +17805,8 @@
       "vanilla-javascript",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "backend-design-patterns",
@@ -16920,7 +17826,8 @@
       "system-design",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env-lint-cli",
@@ -16950,7 +17857,8 @@
       "validation",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hostname-parse-cli",
@@ -16968,7 +17876,8 @@
       "parser",
       "url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jwt-inspect-cli",
@@ -16989,7 +17898,8 @@
       "security",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dec2bin-cli",
@@ -17006,7 +17916,8 @@
       "math",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "deterministic-checker",
@@ -17026,7 +17937,8 @@
       "nodejs",
       "score",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/deterministic-checker"
   },
   {
     "name": "github-sync",
@@ -17046,7 +17958,8 @@
       "pull-request",
       "workflow",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "runpool",
@@ -17067,7 +17980,8 @@
       "throttle",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "runpool"
   },
   {
     "name": "design-language",
@@ -17087,7 +18001,8 @@
       "nodejs",
       "theme",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/design-language"
   },
   {
     "name": "api-customer-facing-changelog-doctor",
@@ -17105,7 +18020,8 @@
       "documentation",
       "release-notes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lines2json-cli",
@@ -17122,7 +18038,8 @@
       "nodejs",
       "text",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "HistoryJS",
@@ -17141,7 +18058,8 @@
       "spa",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rowcodec",
@@ -17164,7 +18082,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shotpick",
@@ -17185,7 +18104,8 @@
       "rag",
       "tfidf",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "web-xlsx",
@@ -17202,7 +18122,8 @@
       "typescript",
       "xlsx",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "web-xlsx"
   },
   {
     "name": "keto-variation-engine",
@@ -17223,7 +18144,8 @@
       "nodejs",
       "nutrition",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "distribution",
@@ -17243,7 +18165,8 @@
       "sync",
       "template",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/distribution"
   },
   {
     "name": "table-ui",
@@ -17263,7 +18186,8 @@
       "tailwindcss",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ai-eyes",
@@ -17285,7 +18209,8 @@
       "vibe-coding",
       "web-development",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "benchify",
@@ -17302,7 +18227,8 @@
       "nodejs",
       "performance",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "portpeek",
@@ -17323,7 +18249,8 @@
       "sysadmin",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "claude-journal",
@@ -17344,7 +18271,8 @@
       "llm-wiki",
       "markdown",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "detect-lang-cli",
@@ -17361,7 +18289,8 @@
       "nodejs",
       "text-analysis",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "matrix-rain-cli",
@@ -17380,7 +18309,8 @@
       "screensaver",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zigzag-encode-cli",
@@ -17399,7 +18329,8 @@
       "zero-dependency",
       "zigzag",
       "zigzag-encoding"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pulselog",
@@ -17426,7 +18357,8 @@
       "uptime-monitoring",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pulselog"
   },
   {
     "name": "rest-domain-state-manager",
@@ -17456,7 +18388,8 @@
       "vitepress",
       "web-worker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "olx-scraper",
@@ -17477,7 +18410,8 @@
       "scraper",
       "web-scraper",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gitsweep",
@@ -17496,7 +18430,8 @@
       "nodejs",
       "prune",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/gitsweep"
   },
   {
     "name": "ua-sortable",
@@ -17516,7 +18451,8 @@
       "touch",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "turingconnect",
@@ -17537,7 +18473,8 @@
       "nodejs",
       "openai",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "vercel-deploy",
@@ -17557,7 +18494,8 @@
       "preview",
       "vercel",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/vercel-deploy"
   },
   {
     "name": "cron-explain",
@@ -17576,7 +18514,8 @@
       "scheduler",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "morse-codec",
@@ -17594,7 +18533,8 @@
       "morse-code",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "whatsmyfyi-sdk",
@@ -17615,7 +18555,8 @@
       "sdk",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@whatsmyfyi/sdk"
   },
   {
     "name": "warden",
@@ -17638,7 +18579,8 @@
       "security",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-circuit-breaker-docs-doctor",
@@ -17656,7 +18598,8 @@
       "resilience",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "frogtalk",
@@ -17675,7 +18618,8 @@
       "telegram",
       "vercel",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "git-hygiene",
@@ -17702,6 +18646,10 @@
       "npm",
       "typescript",
       "zero-dependency"
+    ],
+    "npmName": [
+      "@chitrank2050/git-hygiene",
+      "@chitrank2050/git-hygiene-core"
     ]
   },
   {
@@ -17720,7 +18668,8 @@
       "npm-package",
       "sha512",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "affine-cipher-cli",
@@ -17740,7 +18689,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-del-cli",
@@ -17759,7 +18709,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sma-cli",
@@ -17780,7 +18731,8 @@
       "time-series",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scan-secrets",
@@ -17798,7 +18750,8 @@
       "secrets",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "zero-dep-xlsx",
@@ -17828,7 +18781,8 @@
       "zero-dependency",
       "zip",
       "zlib"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "site-facts",
@@ -17846,7 +18800,8 @@
       "static-site",
       "structured-data",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "recurring-free-slots",
@@ -17871,7 +18826,8 @@
       "typescript",
       "weekly-planner",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "DarajaSim",
@@ -17893,7 +18849,8 @@
       "safaricom",
       "stk-push",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentcast",
@@ -17919,7 +18876,8 @@
       "validation",
       "zero-dependency",
       "zod"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentcast"
   },
   {
     "name": "pascal2title-cli",
@@ -17941,7 +18899,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sec2time-cli",
@@ -17960,7 +18919,8 @@
       "seconds",
       "time",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "time-cmd-cli",
@@ -17979,7 +18939,8 @@
       "performance",
       "timer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bmi-cli",
@@ -17996,7 +18957,8 @@
       "health",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scooter-rush-nanning",
@@ -18015,7 +18977,8 @@
       "pseudo-3d",
       "racing-game",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envcheck",
@@ -18034,7 +18997,8 @@
       "nodejs",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nodeviewer",
@@ -18054,7 +19018,8 @@
       "ssdp",
       "sse",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envguard",
@@ -18073,7 +19038,8 @@
       "lint",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "percent-fmt-cli",
@@ -18090,7 +19056,8 @@
       "number-format",
       "percentage",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bar-chart-cli",
@@ -18108,7 +19075,8 @@
       "nodejs",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-batch-import-contract-doctor",
@@ -18126,7 +19094,8 @@
       "csv",
       "documentation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "oss-track",
@@ -18146,7 +19115,8 @@
       "open-source",
       "oss",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/oss-track"
   },
   {
     "name": "port-finder",
@@ -18165,7 +19135,8 @@
       "server",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-docs-doctor-suite",
@@ -18183,7 +19154,8 @@
       "documentation",
       "saas",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentsnap-action",
@@ -18205,7 +19177,8 @@
       "reliability",
       "snapshot-testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "decorators",
@@ -18236,7 +19209,8 @@
       "typescript-decorators",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@master4n/decorators"
   },
   {
     "name": "rainbird-node",
@@ -18255,7 +19229,8 @@
       "sprinkler",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "rainbird-node"
   },
   {
     "name": "lrucache-x",
@@ -18271,7 +19246,8 @@
       "lru",
       "ttl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sparklify",
@@ -18288,7 +19264,8 @@
       "ui",
       "visual-effects",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cognitive-meter-verify",
@@ -18307,7 +19284,8 @@
       "receipts",
       "web-crypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pdfnative-cli",
@@ -18338,7 +19316,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "pdfnative-cli"
   },
   {
     "name": "dbmigrate",
@@ -18357,7 +19336,8 @@
       "schema",
       "sqlite",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Nimage",
@@ -18388,7 +19368,8 @@
       "typescript",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@neabyte/nimage"
   },
   {
     "name": "feature-preview",
@@ -18406,7 +19387,8 @@
       "sdk",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env_validator",
@@ -18427,7 +19409,8 @@
       "npm-package",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentsnap-mcp",
@@ -18449,7 +19432,8 @@
       "reliability",
       "snapshot-testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentsnap-mcp"
   },
   {
     "name": "json-diff-cli",
@@ -18469,7 +19453,8 @@
       "open-source",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "creator",
@@ -18489,7 +19474,8 @@
       "scaffold",
       "skill",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "feature-structure-creator",
@@ -18509,7 +19495,8 @@
       "nodejs",
       "scaffold",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/feature-structure-creator"
   },
   {
     "name": "dec2oct-cli",
@@ -18525,7 +19512,8 @@
       "nodejs",
       "octal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lcs-cli",
@@ -18541,7 +19529,8 @@
       "nodejs",
       "string-similarity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Aura",
@@ -18570,7 +19559,8 @@
       "token-saver",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "shaddai-aura"
   },
   {
     "name": "tools-for-agents.github.io",
@@ -18594,7 +19584,8 @@
       "mcp-server",
       "model-context-protocol",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dotdrift",
@@ -18613,7 +19604,8 @@
       "git-hook",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "dotdrift"
   },
   {
     "name": "agentvet-action",
@@ -18635,7 +19627,8 @@
       "reliability",
       "tool-validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kill-port-cli",
@@ -18659,7 +19652,8 @@
       "process-management",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "veilmail-webhook-ingester",
@@ -18684,7 +19678,8 @@
       "webhook-server",
       "webhooks",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "truncate-lines-cli",
@@ -18705,7 +19700,8 @@
       "text-processing",
       "truncate",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "math-expr-cli",
@@ -18726,7 +19722,8 @@
       "npm-package",
       "unit-conversion",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-avg-cli",
@@ -18743,7 +19740,8 @@
       "ndjson",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hex-multiply-cli",
@@ -18760,7 +19758,8 @@
       "nodejs",
       "npm-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ip-in-range-cli",
@@ -18777,7 +19776,8 @@
       "networking",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ip-prev-cli",
@@ -18793,7 +19793,8 @@
       "networking",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sdbm-hash-cli",
@@ -18811,7 +19812,8 @@
       "sdbm",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "apidocgen",
@@ -18832,7 +19834,8 @@
       "tools",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentfit",
@@ -18861,7 +19864,8 @@
       "truncate",
       "truncation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentfit"
   },
   {
     "name": "ip-distance-cli",
@@ -18877,7 +19881,8 @@
       "networking",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mind-mri-agent-second-brain",
@@ -18892,7 +19897,8 @@
       "graph-rag",
       "obsidian",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-tenant-isolation-docs-doctor",
@@ -18910,7 +19916,8 @@
       "security",
       "tenant-isolation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "awesome-api-docs-doctors",
@@ -18928,7 +19935,8 @@
       "documentation",
       "saas",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-json-schema-compat-doctor",
@@ -18946,7 +19954,8 @@
       "openapi",
       "schema",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-sdk-retry-policy-doctor",
@@ -18964,7 +19973,8 @@
       "retry",
       "sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cronlet",
@@ -18983,7 +19993,8 @@
       "scheduler",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sdk",
@@ -19008,7 +20019,8 @@
       "static-site",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "i18n-framework-adapter",
@@ -19031,7 +20043,8 @@
       "sveltekit",
       "vue-i18n",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "calforge",
@@ -19052,7 +20065,8 @@
       "outlook",
       "rfc5545",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "terlio",
@@ -19072,7 +20086,8 @@
       "text-ui",
       "tui",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kebab2camel-cli",
@@ -19091,7 +20106,8 @@
       "pascalcase",
       "string-conversion",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "moving-avg-cli",
@@ -19108,7 +20124,8 @@
       "statistics",
       "time-series",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cumsum-cli",
@@ -19125,7 +20142,8 @@
       "nodejs",
       "statistics",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentguard",
@@ -19152,7 +20170,8 @@
       "reliability",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@mukundakatta/agentguard"
   },
   {
     "name": "sync-sha256",
@@ -19168,7 +20187,8 @@
       "sha256",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hyperscroll",
@@ -19191,7 +20211,8 @@
       "virtualization",
       "windowing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ssg-doctor",
@@ -19222,7 +20243,8 @@
       "static-site-generator",
       "web-performance",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shufffle",
@@ -19248,7 +20270,8 @@
       "vitest",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "keel",
@@ -19271,7 +20294,8 @@
       "typescript",
       "workflow-engine",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@sudhanshu1402/keel"
   },
   {
     "name": "file-tree-cli",
@@ -19292,7 +20316,8 @@
       "npm-package",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tabulate-cli",
@@ -19313,7 +20338,8 @@
       "table",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dx-data-js",
@@ -19328,7 +20354,8 @@
       "reactivity-nested-objects",
       "state-management",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cricket-identity",
@@ -19345,7 +20372,8 @@
       "shared-library",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-subscription-plan-change-doctor",
@@ -19363,7 +20391,8 @@
       "saas",
       "subscription",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "node-cli",
@@ -19380,7 +20409,8 @@
       "tab-completion",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@libraz/node-cli"
   },
   {
     "name": "ctx",
@@ -19403,7 +20433,8 @@
       "nodejs",
       "productivity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@madara88645/ctx"
   },
   {
     "name": "Zynex",
@@ -19423,7 +20454,8 @@
       "validation",
       "validator",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "strip-undefined-values",
@@ -19440,7 +20472,8 @@
       "undefined",
       "utility",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "panes",
@@ -19457,7 +20490,8 @@
       "touch",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "panes-ui"
   },
   {
     "name": "mcp-registry-finder",
@@ -19475,7 +20509,8 @@
       "model-context-protocol",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bcbp",
@@ -19493,7 +20528,8 @@
       "cli",
       "iata",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "daublet",
@@ -19509,7 +20545,8 @@
       "paint",
       "web-app",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rolloutkit-js",
@@ -19530,7 +20567,8 @@
       "saas",
       "testing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tron-cold-wallet-online",
@@ -19552,7 +20590,8 @@
       "usdt",
       "wallet",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "prime-sieve-cli",
@@ -19570,7 +20609,8 @@
       "prime",
       "sieve",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hex-pad-cli",
@@ -19586,7 +20626,8 @@
       "nodejs",
       "padding",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "unicode-name-cli",
@@ -19602,7 +20643,8 @@
       "nodejs",
       "unicode",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "glob-to-regex-cli",
@@ -19622,7 +20664,8 @@
       "regex",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "devknife",
@@ -19640,7 +20683,8 @@
       "typescript",
       "utilities",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "devknife"
   },
   {
     "name": "ratebucket",
@@ -19661,7 +20705,8 @@
       "token-bucket",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ratebucket"
   },
   {
     "name": "api-file-upload-policy-doctor",
@@ -19679,7 +20724,8 @@
       "malware-scanning",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "x-native",
@@ -19706,7 +20752,8 @@
       "x",
       "x-twitter",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gsc-cli",
@@ -19726,7 +20773,8 @@
       "search-console",
       "seo",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hcrypt",
@@ -19747,7 +20795,8 @@
       "nodejs",
       "scrypt",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "json-parser-from-scratch",
@@ -19765,7 +20814,8 @@
       "parser",
       "recursive-descent",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "codeblock-cli",
@@ -19784,7 +20834,8 @@
       "markdown",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sleep-until-cli",
@@ -19803,7 +20854,8 @@
       "sleep",
       "timer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "grid-cli",
@@ -19821,7 +20873,8 @@
       "terminal",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "prime-factors-cli",
@@ -19841,7 +20894,8 @@
       "prime-factors",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hostname-cli",
@@ -19860,7 +20914,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bag-of-holding-client",
@@ -19881,7 +20936,8 @@
       "procedural-generation",
       "worldgen",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "git-line-visualizer",
@@ -19902,7 +20958,8 @@
       "loc",
       "visualization",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "gemini-chatbot",
@@ -19931,7 +20988,8 @@
       "vanilla-js",
       "web-app",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-idempotent-consumer-doctor",
@@ -19949,7 +21007,8 @@
       "idempotency",
       "reliability",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-session-management-doctor",
@@ -19967,7 +21026,8 @@
       "security",
       "session",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "veritas",
@@ -19989,7 +21049,8 @@
       "rag",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "file-hasher-cli",
@@ -20006,7 +21067,8 @@
       "hash",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "llmstream",
@@ -20023,7 +21085,8 @@
       "streaming",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "frame-damp",
@@ -20043,7 +21106,8 @@
       "smooth-scroll",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "git-digest",
@@ -20061,7 +21125,8 @@
       "git",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "scroll-timeline-builder",
@@ -20080,7 +21145,8 @@
       "view-timeline",
       "web-animations",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rt-accordion",
@@ -20106,7 +21172,8 @@
       "xamarin",
       "xamarin-forms",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "xml-parser",
@@ -20135,7 +21202,8 @@
       "xml-parser",
       "xxe",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nativecn-ui",
@@ -20151,7 +21219,8 @@
       "react-native",
       "ui-library",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "product-synonyms",
@@ -20170,7 +21239,8 @@
       "synonyms",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "smart-copy",
@@ -20191,7 +21261,8 @@
       "table",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "p2p",
@@ -20211,7 +21282,8 @@
       "serverless",
       "webrtc",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "postgis-query-explain",
@@ -20236,7 +21308,8 @@
       "sql",
       "web-app",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "drain-ts",
@@ -20262,7 +21335,8 @@
       "template-mining",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hash-file-cli",
@@ -20279,7 +21353,8 @@
       "nodejs",
       "sha256",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "json-fmt-cli",
@@ -20295,7 +21370,8 @@
       "json",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "weighted-avg-cli",
@@ -20312,7 +21388,8 @@
       "statistics",
       "weighted-average",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "text-hash-cli",
@@ -20328,7 +21405,8 @@
       "hash",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "strip-trailing-ws-cli",
@@ -20347,7 +21425,8 @@
       "trailing-whitespace",
       "whitespace",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ean-validate-cli",
@@ -20364,7 +21443,8 @@
       "nodejs",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sha1sum-cli",
@@ -20381,7 +21461,8 @@
       "security",
       "sha1",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "json-doctor",
@@ -20407,7 +21488,8 @@
       "nodejs",
       "repair",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "date-parse-cli",
@@ -20424,7 +21506,8 @@
       "nodejs",
       "parser",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-request-signing-doctor",
@@ -20442,7 +21525,8 @@
       "security",
       "signature",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-error-taxonomy-doctor",
@@ -20460,7 +21544,8 @@
       "http",
       "taxonomy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "html-editor",
@@ -20483,7 +21568,8 @@
       "visual-editor",
       "wysiwyg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "timefence",
@@ -20504,7 +21590,8 @@
       "timeout",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "timefence"
   },
   {
     "name": "double-meh-sw",
@@ -20521,7 +21608,8 @@
       "offline",
       "service-worker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "querypipe",
@@ -20542,7 +21630,8 @@
       "typescript",
       "url-state",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "querypipe"
   },
   {
     "name": "omnitab",
@@ -20564,7 +21653,8 @@
       "tabs",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "omnitab"
   },
   {
     "name": "selfloop",
@@ -20584,7 +21674,8 @@
       "self-improving-agents",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "shrinkurl",
@@ -20607,7 +21698,8 @@
       "utilities",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hex-sum-cli",
@@ -20627,7 +21719,8 @@
       "nodejs",
       "npm-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson2yaml-cli",
@@ -20645,7 +21738,8 @@
       "yaml",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "perfect-number-cli",
@@ -20661,7 +21755,8 @@
       "nodejs",
       "perfect-number",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "color-mix-cli",
@@ -20678,7 +21773,8 @@
       "mix",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "omega-unified",
@@ -20703,7 +21799,8 @@
       "webpack",
       "xss-detection",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "aircast",
@@ -20724,7 +21821,8 @@
       "second-screen",
       "websocket",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-openapi-security-scheme-doctor",
@@ -20742,7 +21840,8 @@
       "openapi",
       "security-schemes",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "safe-json",
@@ -20761,7 +21860,8 @@
       "safety",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-backup-restore-runbook-doctor",
@@ -20779,7 +21879,8 @@
       "runbook",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "quorum",
@@ -20801,7 +21902,8 @@
       "prompt-engineering",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-deprecation-email-doctor",
@@ -20819,7 +21921,8 @@
       "email",
       "migration",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "3d-web-contents",
@@ -20844,7 +21947,8 @@
       "web-development",
       "webgl",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envdoc",
@@ -20863,7 +21967,8 @@
       "environment-variables",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/envdoc"
   },
   {
     "name": "workspace-optimizer",
@@ -20883,7 +21988,8 @@
       "cursor",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/workspace-optimizer"
   },
   {
     "name": "checksum-verify-cli",
@@ -20907,7 +22013,8 @@
       "verification",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "chunk-text-cli",
@@ -20924,7 +22031,8 @@
       "nodejs",
       "text-processing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "path-depth-cli",
@@ -20940,7 +22048,8 @@
       "nodejs",
       "path",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bin2oct-cli",
@@ -20959,7 +22068,8 @@
       "number-systems",
       "octal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "copyright-years",
@@ -20975,7 +22085,8 @@
       "footer-utility",
       "year-range",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "idx",
@@ -20999,7 +22110,8 @@
       "uuid-generator",
       "uuidv7",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "percent-rank-cli",
@@ -21016,7 +22128,8 @@
       "ranking",
       "statistics",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-compact-cli",
@@ -21035,7 +22148,8 @@
       "nodejs",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "wix-to-astro",
@@ -21061,7 +22175,8 @@
       "wix",
       "wix-blog",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nexus",
@@ -21084,7 +22199,8 @@
       "typescript",
       "word2vec",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@hawon/nexus"
   },
   {
     "name": "ceylonic",
@@ -21108,7 +22224,8 @@
       "typescript-library",
       "validator",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ceylonic"
   },
   {
     "name": "weave",
@@ -21124,7 +22241,8 @@
       "npm-package",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@shashwatjain511/weave"
   },
   {
     "name": "skyhawk",
@@ -21149,7 +22267,8 @@
       "soc",
       "threat-hunting",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "grindstone",
@@ -21167,7 +22286,8 @@
       "personal-dashboard",
       "productivity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Sentinel",
@@ -21187,7 +22307,8 @@
       "token-storage",
       "web-crypto",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "sentinel-jwt"
   },
   {
     "name": "package-reality-check",
@@ -21210,7 +22331,8 @@
       "supply-chain-security",
       "typosquatting",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "package-reality-check"
   },
   {
     "name": "sosisci-sefa",
@@ -21231,7 +22353,8 @@
       "time-management",
       "turkish",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ansi-rainbow-cli",
@@ -21250,7 +22373,8 @@
       "rainbow",
       "terminal",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "env2args-cli",
@@ -21269,7 +22393,8 @@
       "env",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "title2kebab-cli",
@@ -21292,7 +22417,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "num-base-cli",
@@ -21309,7 +22435,8 @@
       "nodejs",
       "number",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "title2snake-cli",
@@ -21331,7 +22458,8 @@
       "title-case",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "split-json-cli",
@@ -21350,7 +22478,8 @@
       "split",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ewma-cli",
@@ -21373,7 +22502,8 @@
       "time-series",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nlu-bot-trainer",
@@ -21396,7 +22526,8 @@
       "self-learning",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "dx-central-js",
@@ -21413,7 +22544,8 @@
       "shared-state",
       "write-once",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "polyglot-parity",
@@ -21434,7 +22566,8 @@
       "next-intl",
       "translation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ampmTimepicker",
@@ -21451,7 +22584,8 @@
       "shadow-dom",
       "timepicker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@akreid/ampm-timepicker"
   },
   {
     "name": "celery-env",
@@ -21469,7 +22603,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "celery-env"
   },
   {
     "name": "crucible",
@@ -21491,7 +22626,8 @@
       "security",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "veil",
@@ -21514,7 +22650,8 @@
       "security",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-oauth-consent-screen-doctor",
@@ -21532,7 +22669,8 @@
       "oidc",
       "privacy",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-migration-guide-doctor",
@@ -21550,7 +22688,8 @@
       "migration",
       "sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-json-merge-patch-doctor",
@@ -21568,7 +22707,8 @@
       "patch",
       "rfc7396",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mxverify",
@@ -21589,7 +22729,8 @@
       "no-api",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "mxverify"
   },
   {
     "name": "httix-http",
@@ -21607,7 +22748,8 @@
       "nodejs",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "httix-http"
   },
   {
     "name": "pioneer-coding-agent",
@@ -21628,7 +22770,8 @@
       "pioneer",
       "tool-use",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ghcard",
@@ -21647,7 +22790,8 @@
       "stats",
       "svg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/ghcard"
   },
   {
     "name": "railway-deploy",
@@ -21667,7 +22811,8 @@
       "railway",
       "secrets",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/railway-deploy"
   },
   {
     "name": "QrCode",
@@ -21688,7 +22833,8 @@
       "typescript",
       "web",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "char-class-cli",
@@ -21705,7 +22851,8 @@
       "nodejs",
       "unicode",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "avoidMeanBoss",
@@ -21723,7 +22870,8 @@
       "research-ethics",
       "static-site",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-result",
@@ -21742,7 +22890,8 @@
       "type-safe",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-erasable",
@@ -21759,7 +22908,8 @@
       "linter",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "license-maker",
@@ -21785,7 +22935,8 @@
       "scaffolding",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hebrew-slugify",
@@ -21804,7 +22955,8 @@
       "typescript",
       "url",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "hebrew-slugify"
   },
   {
     "name": "semver-inc-cli",
@@ -21821,7 +22973,8 @@
       "semver",
       "versioning",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "obsidian-kb-workflow-lite",
@@ -21842,7 +22995,8 @@
       "wikilinks",
       "workflow-automation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agent-work-console",
@@ -21857,7 +23011,8 @@
       "hermes-agent",
       "pwa",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ekchylisma",
@@ -21880,7 +23035,8 @@
       "text-extraction",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "llm-router",
@@ -21905,7 +23061,8 @@
       "openai",
       "token-efficiency",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "doctor",
@@ -21925,7 +23082,8 @@
       "skill",
       "validate",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@softeneers/doctor"
   },
   {
     "name": "stencil",
@@ -21947,7 +23105,8 @@
       "templates",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agentwatch",
@@ -21967,7 +23126,8 @@
       "observability",
       "tui",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@davidcjw/agentwatch"
   },
   {
     "name": "agentmeter",
@@ -21990,7 +23150,8 @@
       "observability",
       "tokens",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@davidcjw/agentmeter"
   },
   {
     "name": "micro509",
@@ -22015,7 +23176,8 @@
       "typescript",
       "x509",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "micro509"
   },
   {
     "name": "pipzzle",
@@ -22034,7 +23196,8 @@
       "puzzle-game",
       "vanilla-javascript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "trkit",
@@ -22057,7 +23220,8 @@
       "utilities",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "trkit"
   },
   {
     "name": "ultraenv",
@@ -22078,7 +23242,8 @@
       "typescript",
       "vault",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ultraenv"
   },
   {
     "name": "whatsapp-archive-viewer",
@@ -22104,7 +23269,8 @@
       "whatsapp-export",
       "whatsapp-viewer",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-memoize-ttl",
@@ -22124,7 +23290,8 @@
       "ttl",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "github-monitor",
@@ -22150,7 +23317,8 @@
       "pull-requests",
       "self-hosted-runners",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hover-effects",
@@ -22171,7 +23339,8 @@
       "pixelate",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "jaro-winkler-cli",
@@ -22188,7 +23357,8 @@
       "nodejs",
       "string-similarity",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "walk-dir-cli",
@@ -22208,7 +23378,8 @@
       "filesystem",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "retried",
@@ -22232,7 +23403,8 @@
       "retry",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "valicore",
@@ -22252,7 +23424,8 @@
       "validation",
       "zero-dependency",
       "zod-alternative"
-    ]
+    ],
+    "npmName": "valicore"
   },
   {
     "name": "clif",
@@ -22272,7 +23445,8 @@
       "terminal",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@arshad-shah/clif"
   },
   {
     "name": "fencepick",
@@ -22293,7 +23467,8 @@
       "parser",
       "streaming",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-api-keys-scope-doctor",
@@ -22311,7 +23486,8 @@
       "scopes",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-openapi-pagination-doctor",
@@ -22329,7 +23505,8 @@
       "openapi",
       "pagination",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "supportkit-js",
@@ -22349,7 +23526,8 @@
       "ticketing",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "agent-hq",
@@ -22375,7 +23553,8 @@
       "model-context-protocol",
       "multi-agent",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "parsi-text",
@@ -22396,7 +23575,8 @@
       "typescript",
       "vue",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "parsi-text"
   },
   {
     "name": "ferry",
@@ -22415,7 +23595,8 @@
       "secrets-management",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@lucentive-labs/ferry"
   },
   {
     "name": "drop.that",
@@ -22431,7 +23612,8 @@
       "javascript",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "drop.that"
   },
   {
     "name": "argoyle",
@@ -22451,7 +23633,8 @@
       "options",
       "parser",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "hebrew-dates",
@@ -22470,7 +23653,8 @@
       "jewish-calendar",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uuid-gen-cli",
@@ -22489,7 +23673,8 @@
       "uuid",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "percent-change-cli",
@@ -22507,7 +23692,8 @@
       "percentage",
       "statistics",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "json-flatten-cli",
@@ -22529,7 +23715,8 @@
       "npm-package",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "md5sum-cli",
@@ -22547,7 +23734,8 @@
       "nodejs",
       "npm-package",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "kill-port",
@@ -22566,7 +23754,8 @@
       "process",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-request-id-doctor",
@@ -22584,7 +23773,8 @@
       "request-id",
       "tracing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uuid-v3-cli",
@@ -22601,7 +23791,8 @@
       "uuid-v3",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "seq-float-cli",
@@ -22618,7 +23809,8 @@
       "sequence",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "llmvantage",
@@ -22644,7 +23836,8 @@
       "telemetry",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "llmvantage"
   },
   {
     "name": "TabJS",
@@ -22663,7 +23856,8 @@
       "shared-state",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "lens",
@@ -22689,7 +23883,8 @@
       "retrieval",
       "token-efficiency",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "prism",
@@ -22711,7 +23906,8 @@
       "mcp-server",
       "model-context-protocol",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "iris",
@@ -22738,7 +23934,8 @@
       "visual-testing",
       "wcag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "anvil",
@@ -22763,7 +23960,8 @@
       "model-context-protocol",
       "sandbox",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "commitwiz",
@@ -22786,7 +23984,8 @@
       "openai",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pwd-entropy-cli",
@@ -22803,7 +24002,8 @@
       "password",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Prompt2Issue",
@@ -22826,7 +24026,8 @@
       "todo",
       "vanilla-js",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envwise",
@@ -22843,7 +24044,8 @@
       "typescript",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "envwise"
   },
   {
     "name": "device-signal-kit",
@@ -22862,7 +24064,8 @@
       "solid-principles",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "device-signal-kit"
   },
   {
     "name": "react-nano-skeleton",
@@ -22888,7 +24091,8 @@
       "ui-components",
       "ux",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "mirror-text-cli",
@@ -22908,7 +24112,8 @@
       "unicode",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "crc16-ccitt-cli",
@@ -22924,7 +24129,8 @@
       "crc16",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "time2sec-cli",
@@ -22941,7 +24147,8 @@
       "seconds",
       "time",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "Trustless-ID",
@@ -22971,7 +24178,8 @@
       "verification",
       "verification-code",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@neabyte/trustless-id"
   },
   {
     "name": "base64-cli",
@@ -22987,7 +24195,8 @@
       "encoding",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "typemit",
@@ -23008,7 +24217,8 @@
       "typescript",
       "waitfor",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@billdaddy/typemit"
   },
   {
     "name": "lan-drop-zero",
@@ -23026,7 +24236,8 @@
       "local-first",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "softeneers-tools",
@@ -23047,7 +24258,8 @@
       "softeneers",
       "toolkit",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "softeneers-tools"
   },
   {
     "name": "api-health-check-contract-doctor",
@@ -23065,7 +24277,8 @@
       "readiness",
       "sre",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "git",
@@ -23089,7 +24302,8 @@
       "typescript",
       "version-control",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "claude-code-ctx",
@@ -23108,7 +24322,8 @@
       "nodejs",
       "token-tracker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "codeindex",
@@ -23133,7 +24348,8 @@
       "tree-sitter",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@maxgfr/codeindex"
   },
   {
     "name": "zero-dep-npm-registry",
@@ -23152,7 +24368,8 @@
       "npm-package",
       "npmjs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ts-nano-event",
@@ -23171,7 +24388,8 @@
       "typed",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "react-nano-skeleton-demo",
@@ -23192,7 +24410,8 @@
       "ui-components",
       "vite",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nl2br-cli",
@@ -23208,7 +24427,8 @@
       "newline",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "pipe-speed-cli",
@@ -23229,7 +24449,8 @@
       "throughput",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "golazo26",
@@ -23249,7 +24470,8 @@
       "static-site",
       "world-cup-2026",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-cursor-pagination-doctor",
@@ -23267,7 +24489,8 @@
       "pagination",
       "sdk",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-audit-log-export-doctor",
@@ -23285,7 +24508,8 @@
       "export",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-filter-query-doctor",
@@ -23303,7 +24527,8 @@
       "query",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-data-classification-doctor",
@@ -23321,7 +24546,8 @@
       "privacy",
       "security",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "slarrow",
@@ -23341,7 +24567,8 @@
       "overlay",
       "svg",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "colorly",
@@ -23364,7 +24591,8 @@
       "terminal",
       "wcag",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "isx",
@@ -23391,7 +24619,8 @@
       "type-checking",
       "validation",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@munesoft/isx"
   },
   {
     "name": "env-cross",
@@ -23409,7 +24638,8 @@
       "environment",
       "windows",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "wma-cli",
@@ -23430,7 +24660,8 @@
       "wma",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "glob-size-cli",
@@ -23450,7 +24681,8 @@
       "glob",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "float2hex-cli",
@@ -23467,7 +24699,8 @@
       "ieee754",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "discord-error-codes",
@@ -23486,7 +24719,8 @@
       "error-handling",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "cron-builder",
@@ -23503,7 +24737,8 @@
       "scheduler",
       "web-app",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "a11y-control",
@@ -23523,7 +24758,8 @@
       "wcag",
       "web-components",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "envault",
@@ -23544,7 +24780,8 @@
       "secrets-management",
       "vault",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "parsley",
@@ -23558,7 +24795,8 @@
       "markdown",
       "parser",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@flavormingo/parsley"
   },
   {
     "name": "agent-breaker",
@@ -23581,7 +24819,8 @@
       "openai",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "sparkline",
@@ -23600,7 +24839,8 @@
       "svg",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@coroboros/sparkline"
   },
   {
     "name": "JsonCompare",
@@ -23618,7 +24858,8 @@
       "json",
       "side-by-sidediff",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "rgb2hsl-cli",
@@ -23638,7 +24879,8 @@
       "rgb",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ndjson-dedup-cli",
@@ -23658,7 +24900,8 @@
       "nodejs",
       "streaming",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "wc-json-cli",
@@ -23676,7 +24919,8 @@
       "word-count",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "uuid-v5-cli",
@@ -23693,7 +24937,8 @@
       "uuid-v5",
       "zero-dependencies",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "bt-zero-deps",
@@ -23709,7 +24954,8 @@
       "torrent",
       "web-ui",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "portdown",
@@ -23727,7 +24973,8 @@
       "kill-port",
       "port",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "retrostrap",
@@ -23746,6 +24993,10 @@
       "retro",
       "web1",
       "zero-dependency"
+    ],
+    "npmName": [
+      "retrostrap",
+      "retrostrap-mcp"
     ]
   },
   {
@@ -23766,7 +25017,8 @@
       "pluralize",
       "relative-time",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "slop-lint",
@@ -23789,7 +25041,8 @@
       "slop",
       "writing",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "slop-lint"
   },
   {
     "name": "Origentra",
@@ -23814,7 +25067,8 @@
       "trust-infrastructure",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "tinyfsm",
@@ -23835,7 +25089,8 @@
       "tiny",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@tahaghafuri/tinyfsm"
   },
   {
     "name": "portkill",
@@ -23854,7 +25109,8 @@
       "nodejs",
       "port",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "@bobfromarcher/portkill"
   },
   {
     "name": "protobuf-wire-decoder",
@@ -23871,7 +25127,8 @@
       "protocol-buffers",
       "wire-format",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "nct.js",
@@ -23889,7 +25146,8 @@
       "nhaccuatui",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "nct.js"
   },
   {
     "name": "ex-search",
@@ -23919,7 +25177,8 @@
       "typescript",
       "web-worker",
       "zero-dependency"
-    ]
+    ],
+    "npmName": "ex-search"
   },
   {
     "name": "project-benchmark",
@@ -23939,7 +25198,8 @@
       "maturity",
       "nodejs",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "resume-wall-breaker",
@@ -23957,7 +25217,8 @@
       "nodejs",
       "resume",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "ms-convert",
@@ -23976,7 +25237,8 @@
       "time",
       "typescript",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-api-version-negotiation-doctor",
@@ -23994,7 +25256,8 @@
       "sdk",
       "versioning",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-outbox-event-doctor",
@@ -24012,7 +25275,8 @@
       "outbox",
       "reliability",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "api-feature-flag-api-doctor",
@@ -24030,7 +25294,8 @@
       "feature-flags",
       "rollout",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   },
   {
     "name": "html-parser",
@@ -24060,6 +25325,7 @@
       "visible-text",
       "web-scraping",
       "zero-dependency"
-    ]
+    ],
+    "npmName": null
   }
 ]

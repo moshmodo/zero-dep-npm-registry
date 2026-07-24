@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 
-const REGISTRY_FILE = 'registry.json';
+const REGISTRY_FILE = 'config/registry.json';
 const README_FILE = 'README.md';
 
 const SECTION_START = '<!-- REGISTRY_TABLE_START -->';
@@ -18,14 +18,15 @@ const sorted = [...registry].sort((a, b) =>
 console.log(`Building table for ${sorted.length} packages...`);
 
 // Build the Markdown table
-const header = '| Name | Full Name | Description | Stars ⭐ |\n|------|-----------|-------------|------:|';
+const header = '| Name | Full Name | Description | Stars ⭐ | npmjs.com |\n|------|-----------|-------------|------:|------:|';
 
 const rows = sorted.map(pkg => {
   const name = `[${escapeMarkdown(pkg.name)}](${pkg.url})`;
   const fullName = escapeMarkdown(pkg.fullName);
   const description = escapeMarkdown(pkg.description || '');
   const stars = pkg.stars.toLocaleString('en-US');
-  return `| ${name} | ${fullName} | ${description} | ${stars} |`;
+  const npmjs = pkg.npmName ? '✅' : '⛔';
+  return `| ${name} | ${fullName} | ${description} | ${stars} | ${npmjs} |`;
 });
 
 const table = [header, ...rows].join('\n');

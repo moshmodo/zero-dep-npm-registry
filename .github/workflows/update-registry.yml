@@ -26,16 +26,24 @@ jobs:
       - name: Update registry
         env:
           GITHUB_TOKEN: ${{ secrets.REGISTRY_PAT }}
+        working-directory: ./src
         run: node update-registry.js
 
+      - name: Add npm package names
+        env:
+          NPM_REQUEST_DELAY_MS: 7000
+        working-directory: ./src
+        run: node update-npm-names.js
+
       - name: Update README
+        working-directory: ./src
         run: node update-readme.js
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add registry.json README.md
+          git add config/registry.json README.md
           if git diff --cached --quiet; then
             echo "No registry changes to commit."
             exit 0

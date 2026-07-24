@@ -3,8 +3,8 @@ const https = require('node:https');
 
 // Search configuration
 const TOPIC = 'zero-dependency';
-const OUTPUT_FILE = 'registry.json';
-const BLACKLIST_FILE = 'blacklist.json';
+const OUTPUT_FILE = 'config/registry.json';
+const BLACKLIST_FILE = 'config/blacklist.json';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 // Date ranges to split the search and bypass GitHub's 1000-result limit per query.
@@ -101,6 +101,19 @@ function fetchNextRange(currentRange) {
 
 function processResults(allRepos) {
   const blacklist = JSON.parse(fs.readFileSync(BLACKLIST_FILE, 'utf8'));
+  const previousRegistry = fs.existsSync(OUTPUT_FILE)
+    ? JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'))
+    : [];
+  const previousNpmNames = new Map(
+    Array.isArray(previousRegistry)
+      ? previousRegistry
+        .filter(repo => repo && repo.url && (
+          (typeof repo.npmName === 'string' && repo.npmName.length > 0) ||
+          (Array.isArray(repo.npmName) && repo.npmName.length > 0)
+        ))
+        .map(repo => [repo.url, repo.npmName])
+      : []
+  );
 
   if (!Array.isArray(blacklist) || blacklist.some(url => typeof url !== 'string')) {
     throw new Error(`${BLACKLIST_FILE} must contain an array of URL strings.`);
@@ -121,7 +134,8 @@ function processResults(allRepos) {
       url: repo.html_url,
       stars: repo.stargazers_count,
       ecosystem: 'npm',
-      keywords: [repo.language?.toLowerCase(), ...(repo.topics || [])].filter(Boolean)
+      keywords: [repo.language?.toLowerCase(), ...(repo.topics || [])].filter(Boolean),
+      ...(previousNpmNames.has(repo.html_url) ? { npmName: previousNpmNames.get(repo.html_url) } : {})
     }));
 
   // Sort packages from the most popular to the least popular

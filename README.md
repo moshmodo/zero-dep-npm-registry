@@ -1256,6 +1256,7 @@ Each entry in `registry.json` follows this structure:
   "fullName": "owner/package-name",
   "description": "What the package does",
   "url": "https://github.com/owner/package-name",
+  "npmName": "package-name",
   "stars": 1234,
   "ecosystem": "npm",
   "keywords": ["javascript", "zero-dependency", "..."]
@@ -1283,6 +1284,12 @@ The registry is generated and maintained by scripts within this repository.
     node update-registry.js
     ```
 
+*   **`update-npm-names.js`**: This script queries the public npm search API and adds `npmName` when npm packages declare the corresponding GitHub repository. A single match is stored as a string; multiple exact matches are stored as an array of names because one GitHub repository can publish several libraries. It writes `null` when no match can be verified.
+    ```bash
+    node update-npm-names.js
+    ```
+    Use `node update-npm-names.js --dry-run --limit=10` to inspect a sample without changing the registry. The script waits 6 seconds between npm requests by default (the workflow uses 7 seconds), retries rate-limit responses using `Retry-After` and exponential backoff, and skips entries that already have a non-empty string or array `npmName`. Previously unresolved entries (`null`) are retried on a future run. Set `NPM_REQUEST_DELAY_MS` only when you need a slower or faster local test.
+
 *   **`update-readme.js`**: This script takes the generated `registry.json` and updates the markdown table within this README file.
     ```bash
     node update-readme.js
@@ -1291,7 +1298,7 @@ The registry is generated and maintained by scripts within this repository.
 
 ### Automated updates with GitHub Actions
 
-The [`Update registry`](.github/workflows/update-registry.yml) workflow runs both scripts in order every Monday at 06:00 UTC. It can also be started manually from the **Actions** tab with **Run workflow**.
+The [`Update registry`](.github/workflows/update-registry.yml) workflow runs the registry update, npm-name enrichment, and README update in order every Monday at 06:00 UTC. It can also be started manually from the **Actions** tab with **Run workflow**.
 
 The workflow uses the built-in `GITHUB_TOKEN` to query the GitHub API and, when `registry.json` or `README.md` changes, commits and pushes the generated files directly to the default branch. The repository must allow workflows to have **Read and write permissions** under **Settings → Actions → General → Workflow permissions**.
 
