@@ -1260,6 +1260,12 @@ The registry is generated and maintained by scripts within this repository.
     ```
     Run this after updating `registry.json` to reflect changes in the README.
 
+### Automated updates with GitHub Actions
+
+The [`Update registry`](.github/workflows/update-registry.yml) workflow runs both scripts in order every Monday at 06:00 UTC. It can also be started manually from the **Actions** tab with **Run workflow**.
+
+The workflow uses the built-in `GITHUB_TOKEN` to query the GitHub API and, when `registry.json` or `README.md` changes, commits and pushes the generated files directly to the default branch. The repository must allow workflows to have **Read and write permissions** under **Settings → Actions → General → Workflow permissions**.
+
 ---
 
 ## Handling False Positives

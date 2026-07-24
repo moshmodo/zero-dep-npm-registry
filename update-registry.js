@@ -5,6 +5,7 @@ const https = require('node:https');
 const TOPIC = 'zero-dependency';
 const OUTPUT_FILE = 'registry.json';
 const BLACKLIST_FILE = 'blacklist.json';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 // Date ranges to split the search and bypass GitHub's 1000-result limit per query.
 // Each range covers a time window; adjust or add ranges as the registry grows over time.
@@ -31,7 +32,10 @@ function fetchPage(dateRange, page) {
   console.log(`  [${dateRange}] Fetching page ${page}...`);
 
   https.get(pageUrl, {
-    headers: { 'User-Agent': 'Zero-Dep-Registry-Builder' }
+    headers: {
+      'User-Agent': 'Zero-Dep-Registry-Builder',
+      ...(GITHUB_TOKEN ? { Authorization: `Bearer ${GITHUB_TOKEN}` } : {})
+    }
   }, (res) => {
     let data = '';
     res.on('data', (chunk) => { data += chunk; });
