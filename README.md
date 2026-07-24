@@ -45,7 +45,7 @@ In today's development landscape, managing dependencies is critical. Packages wi
 *   **Developer-Centric:** Designed to help developers build more secure and efficient applications.
 *   **Single JSON Source:** Easy to parse and integrate into build processes or tooling.
 *   **Sorted by Popularity:** Registry entries are ordered by GitHub stars, highlighting community favorites.
-*   **Automated Updates:** Scripts are provided to keep the registry current.
+*   **Automated Updates:** Runs at 6:00UTC on each Monday
 
 ---
 
