@@ -1199,6 +1199,27 @@ This section lists the curated zero-dependency npm packages. The list is generat
 
 ---
 
+## SIEVE: Zero-Dependency Proxy
+
+[SIEVE](https://github.com/moshmodo/sieve) is a local proxy that intercepts npm installs and limits them to libraries with zero dependencies. It helps you minimize transitives and reduce supply chain risk while keeping your bundle sizes lean.
+
+- **Launch:** Run `npx sieve` in your terminal. It will listen to npm commands and help you evaluate or block libraries based on their dependency chain.
+
+### Ensuring Compatibility
+
+Our registry table uses a ✅ or ⛔ icon to indicate if an application is provided as a public npm library. For SIEVE to associate your repository correctly with its npm package, please add the following block to your `package.json`:
+
+```json
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<handle>/<repository>"
+  }
+```
+
+This ensures a direct link between the npm registry and your GitHub source.
+
+---
+
 ## Getting Started
 
 ### Accessing the Registry
