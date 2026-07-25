@@ -71,8 +71,8 @@ This ensures a direct link between the npm registry and your GitHub source.
 ---
 
 ## Zero-Dependency Package Registry
-
-This section lists the curated zero-dependency npm packages. The list is generated automatically and sorted by name.
+ 
+This section lists the curated zero-dependency npm packages. The list is generated automatically and sorted by popularity (minimum 5 GitHub stars).
 
 <!-- REGISTRY_TABLE_START -->
 
