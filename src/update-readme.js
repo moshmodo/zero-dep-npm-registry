@@ -10,28 +10,45 @@ console.log(`Reading ${REGISTRY_FILE}...`);
 
 const registry = JSON.parse(fs.readFileSync(REGISTRY_FILE, 'utf8'));
 
-// Sort alphabetically by name (A to Z), case-insensitive
-const sorted = [...registry].sort((a, b) =>
-  a.name.localeCompare(b.name, undefined, { sensitivity: 'base' })
-);
+const sections = [
+  {
+    title: 'Heavy Hitters',
+    packages: registry.filter(pkg => pkg.stars > 1000)
+  },
+  {
+    title: 'Rising Stars',
+    packages: registry.filter(pkg => pkg.stars > 100 && pkg.stars < 1000)
+  },
+  {
+    title: 'The Wildcards',
+    packages: registry.filter(pkg => pkg.stars > 5 && pkg.stars < 100)
+  }
+].map(section => ({
+  ...section,
+  packages: section.packages.sort((a, b) => b.stars - a.stars)
+}));
 
-console.log(`Building table for ${sorted.length} packages...`);
+const packageCount = sections.reduce((total, section) => total + section.packages.length, 0);
+console.log(`Building tables for ${packageCount} packages...`);
 
-// Build the Markdown table
 const header = '| Name | Full Name | Description | ⭐ | npmjs.com |\n|------|-----------|-------------|------|------:|';
 
-const rows = sorted.map(pkg => {
-  const name = `[${escapeMarkdown(pkg.name)}](${pkg.url})`;
-  const fullName = escapeMarkdown(pkg.fullName);
-  const description = escapeMarkdown(pkg.description || '');
-  const stars = pkg.stars.toLocaleString('en-US');
-  const npmjs = pkg.npmName ? '✅' : '⛔';
-  return `| ${name} | ${fullName} | ${description} | ${stars} | ${npmjs} |`;
-});
+function buildTable(packages) {
+  const rows = packages.map(pkg => {
+    const name = `[${escapeMarkdown(pkg.name)}](${pkg.url})`;
+    const fullName = escapeMarkdown(pkg.fullName);
+    const description = escapeMarkdown(pkg.description || '');
+    const stars = pkg.stars.toLocaleString('en-US');
+    const npmjs = pkg.npmName ? '✅' : '⛔';
+    return `| ${name} | ${fullName} | ${description} | ${stars} | ${npmjs} |`;
+  });
 
-const table = [header, ...rows].join('\n');
+  return [header, ...rows].join('\n');
+}
 
-const newSection = `${SECTION_START}\n\n${table}\n\n${SECTION_END}`;
+const newSection = `${SECTION_START}\n\n${sections
+  .map(section => `### ${section.title}\n\n${buildTable(section.packages)}`)
+  .join('\n\n')}\n\n${SECTION_END}`;
 
 // Read the current README
 const readme = fs.readFileSync(README_FILE, 'utf8');
@@ -51,7 +68,7 @@ if (readme.includes(SECTION_START) && readme.includes(SECTION_END)) {
 }
 
 fs.writeFileSync(README_FILE, updatedReadme, 'utf8');
-console.log(`\nSuccess! README.md updated with ${sorted.length} packages.`);
+console.log(`\nSuccess! README.md updated with ${packageCount} packages.`);
 
 /**
  * Escapes characters that would break the Markdown table or render as HTML:
