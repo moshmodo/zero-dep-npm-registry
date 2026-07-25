@@ -11,6 +11,7 @@
 - [Project Overview](#project-overview)
 - [Why Zero Dependencies?](#why-zero-dependencies)
 - [Key Features](#key-features)
+- [SIEVE: Zero-Dependency Proxy](#sieve-zero-dependency-proxy)
 - [Zero-Dependency Package Registry](#zero-dependency-package-registry)
 - [Getting Started](#getting-started)
 - [Registry Format](#registry-format)
