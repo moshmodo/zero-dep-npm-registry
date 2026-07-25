@@ -18,7 +18,7 @@ const sorted = [...registry].sort((a, b) =>
 console.log(`Building table for ${sorted.length} packages...`);
 
 // Build the Markdown table
-const header = '| Name | Full Name | Description | Stars ⭐ | npmjs.com |\n|------|-----------|-------------|------:|------:|';
+const header = '| Name | Full Name | Description | ⭐ | npmjs.com |\n|------|-----------|-------------|------:|------:|';
 
 const rows = sorted.map(pkg => {
   const name = `[${escapeMarkdown(pkg.name)}](${pkg.url})`;
