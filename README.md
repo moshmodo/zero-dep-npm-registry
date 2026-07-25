@@ -1,3 +1,5 @@
+[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome)
+
 # 📦 Zero-Dependency NPM Registry
 
 > A curated index of npm packages with **zero dependencies** — lightweight, secure, and self-contained.
