@@ -376,7 +376,7 @@ Copy and paste the Markdown code below into your project documentation:
 [![zero-dependency-badge](media/zero-dependency.svg)](https://github.com/moshmodo/zero-dep-npm-registry)
 
 ```markdown 
-[![zero-dependency-badge](https://githubusercontent.com/moshmodo/zero-dep-npm-registry/main/media/zero-dependency.svg)](https://github.com/moshmodo/zero-dep-npm-registry)
+[![zero-dependency-badge](https://raw.githubusercontent.com/moshmodo/zero-dep-npm-registry/refs/heads/main/media/zero-dependency.svg)](https://github.com/moshmodo/zero-dep-npm-registry)
 ```
 
 
