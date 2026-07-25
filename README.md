@@ -1,4 +1,4 @@
-[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 # 📦 Zero-Dependency NPM Registry
 
