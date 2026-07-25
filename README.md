@@ -49,6 +49,27 @@ In today's development landscape, managing dependencies is critical. Packages wi
 
 ---
 
+## SIEVE: Zero-Dependency Proxy
+
+[SIEVE](https://github.com/moshmodo/sieve) is a local proxy that intercepts npm installs and limits them to libraries with zero dependencies. It helps you minimize transitives and reduce supply chain risk while keeping your bundle sizes lean.
+
+- **Launch:** Run `npx sieve` in your terminal. It will listen to npm commands and help you evaluate or block libraries based on their dependency chain.
+
+### Ensuring Compatibility
+
+Our registry table uses a ✅ or ⛔ icon to indicate if an application is provided as a public npm library. For SIEVE to associate your repository correctly with its npm package, please add the following block to your `package.json`:
+
+```json
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<handle>/<repository>"
+  }
+```
+
+This ensures a direct link between the npm registry and your GitHub source.
+
+---
+
 ## Zero-Dependency Package Registry
 
 This section lists the curated zero-dependency npm packages. The list is generated automatically and sorted by name.
@@ -1196,27 +1217,6 @@ This section lists the curated zero-dependency npm packages. The list is generat
 | [Zynex](https://github.com/Abhinav943/Zynex) | Abhinav943/Zynex | A zero-dependency, detailed validation engine for Emails, Passwords, and URLs. Built with TypeScript for Node.js. | 0 | ⛔ |
 
 <!-- REGISTRY_TABLE_END -->
-
----
-
-## SIEVE: Zero-Dependency Proxy
-
-[SIEVE](https://github.com/moshmodo/sieve) is a local proxy that intercepts npm installs and limits them to libraries with zero dependencies. It helps you minimize transitives and reduce supply chain risk while keeping your bundle sizes lean.
-
-- **Launch:** Run `npx sieve` in your terminal. It will listen to npm commands and help you evaluate or block libraries based on their dependency chain.
-
-### Ensuring Compatibility
-
-Our registry table uses a ✅ or ⛔ icon to indicate if an application is provided as a public npm library. For SIEVE to associate your repository correctly with its npm package, please add the following block to your `package.json`:
-
-```json
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/<handle>/<repository>"
-  }
-```
-
-This ensures a direct link between the npm registry and your GitHub source.
 
 ---
 
