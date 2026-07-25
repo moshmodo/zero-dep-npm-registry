@@ -28,7 +28,7 @@
 
 This repository maintains a curated registry of open-source npm packages (JavaScript & TypeScript) that have **no external dependencies**. This project serves as a valuable resource for developers seeking to build more robust, secure, and performant applications by minimizing supply chain risks and bundle sizes. Packages are primarily identified by the `zero-dependency` topic on GitHub.
 
-The registry is stored as a single, sortable [`registry.json`](./registry.json) file.
+The registry is stored as a single, sortable [`registry.json`](./config/registry.json) file.
 
 ---
 
