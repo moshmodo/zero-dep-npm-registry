@@ -77,7 +77,7 @@ This section lists the curated zero-dependency npm packages. The list is generat
 <!-- REGISTRY_TABLE_START -->
 
 | Name | Full Name | Description | ⭐ | npmjs.com |
-|------|-----------|-------------|------:|------:|
+|------|-----------|-------------|------|------:|
 | [14kb-web](https://github.com/beno5950/14kb-web) | beno5950/14kb-web | Ultra-lightweight web development under 14KB with a fast Fastify API and SQLite. Minimalist blogs, weather and tasks apps with zero framework overhead and strong performance. 🐙 | 1 | ⛔ |
 | [3d-spinner](https://github.com/runelaang/3d-spinner) | runelaang/3d-spinner | A lightweight, zero-dependency 3D spinner, loader, and progress indicator for JavaScript. | 1 | ✅ |
 | [3d-web-contents](https://github.com/instax-dutta/3d-web-contents) | instax-dutta/3d-web-contents | Zero-dep drop-in 3D components for React + Three.js — 8 copy-paste templates (CSS3DCard, ParticleField, MorphingBlob, WarpSpeed, TunnelScroll, GeometryRepel, LightingReflection, BarChart3D). Own the source, skip the npm bloat. | 0 | ⛔ |
