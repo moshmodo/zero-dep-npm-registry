@@ -324,18 +324,18 @@ The registry is generated and maintained by scripts within this repository.
 
 *   **`update-registry.js`**: This zero-dependency Node.js script queries the GitHub Search API for repositories tagged with `zero-dependency` in JavaScript or TypeScript. It generates the `registry.json` file.
     ```bash
-    node update-registry.js
+    node src/update-registry.js
     ```
 
 *   **`update-npm-names.js`**: This script queries the public npm search API and adds `npmName` when npm packages declare the corresponding GitHub repository. A single match is stored as a string; multiple exact matches are stored as an array of names because one GitHub repository can publish several libraries. It writes `null` when no match can be verified.
     ```bash
-    node update-npm-names.js
+    node src/update-npm-names.js
     ```
     Use `node update-npm-names.js --dry-run --limit=10` to inspect a sample without changing the registry. The script waits 6 seconds between npm requests by default (the workflow uses 7 seconds), retries rate-limit responses using `Retry-After` and exponential backoff, and skips entries that already have a non-empty string or array `npmName`. Previously unresolved entries (`null`) are retried on a future run. Set `NPM_REQUEST_DELAY_MS` only when you need a slower or faster local test.
 
 *   **`update-readme.js`**: This script takes the generated `registry.json` and updates the markdown table within this README file.
     ```bash
-    node update-readme.js
+    node src/update-readme.js
     ```
     Run this after updating `registry.json` to reflect changes in the README.
 
@@ -343,7 +343,7 @@ The registry is generated and maintained by scripts within this repository.
 
 The [`Update registry`](.github/workflows/update-registry.yml) workflow runs the registry update, npm-name enrichment, and README update in order every Monday at 06:00 UTC. It can also be started manually from the **Actions** tab with **Run workflow**.
 
-The workflow uses the built-in `GITHUB_TOKEN` to query the GitHub API and, when `registry.json` or `README.md` changes, commits and pushes the generated files directly to the default branch. The repository must allow workflows to have **Read and write permissions** under **Settings → Actions → General → Workflow permissions**.
+The workflow uses a `GITHUB_TOKEN` (fine grained) to query the GitHub API and, when `registry.json` or `README.md` changes, commits and pushes the generated files directly to the default branch. The repository must allow workflows to have **Read and write permissions** under **Settings → Actions → General → Workflow permissions**.
 
 ---
 

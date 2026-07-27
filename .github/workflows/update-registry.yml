@@ -26,18 +26,15 @@ jobs:
       - name: Update registry
         env:
           GITHUB_TOKEN: ${{ secrets.REGISTRY_PAT }}
-        working-directory: ./src
-        run: node update-registry.js
+        run: node ./src/update-registry.js
 
       - name: Add npm package names
         env:
           NPM_REQUEST_DELAY_MS: 7000
-        working-directory: ./src
-        run: node update-npm-names.js
+        run: node ./src/update-npm-names.js
 
       - name: Update README
-        working-directory: ./src
-        run: node update-readme.js
+        run: node ./src/update-readme.js
 
       - name: Commit and push changes
         run: |
